@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+bin/
+lib/
+include/
+share/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment variables (secret keys, API tokens)
+.env
+.venv
+**.env
+
+# IDE specific folders
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
