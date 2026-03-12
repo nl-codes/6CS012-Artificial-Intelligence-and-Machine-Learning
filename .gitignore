@@ -41,3 +41,8 @@ build/
 
 # macOS system files
 .DS_Store
+
+# Datasets
+**/mnist_dataset.csv
+**/mnist_train.csv
+**/Iris.csv
