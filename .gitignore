@@ -1,5 +1,9 @@
 # Devnagari dataset location
 week_4/res/DevanagariHandwrittenDigitDataset
+
+# references
+/references
+
 # macOS
 .DS_Store
 
