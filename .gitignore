@@ -1,3 +1,6 @@
+# Models files
+*.h5
+
 # dataset location
 **/DevanagariHandwrittenDigitDataset/
 **/FruitinAmazon/
