@@ -1,8 +1,13 @@
-# Devnagari dataset location
+# Models files
+*.h5
+
+# dataset location
 **/DevanagariHandwrittenDigitDataset/
 **/FruitinAmazon/
 assessment/fruits-360/
 
+# docx
+**/*.docx
 # references
 /references
 
