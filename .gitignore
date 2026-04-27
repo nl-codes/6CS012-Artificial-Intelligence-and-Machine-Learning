@@ -2,6 +2,8 @@
 *.h5
 
 */*.zip
+trum_tweet_sentiment_analysis.csv
+trumptweets_small.csv
 
 # dataset location
 **/DevanagariHandwrittenDigitDataset/
