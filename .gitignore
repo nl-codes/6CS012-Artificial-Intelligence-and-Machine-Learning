@@ -8,7 +8,7 @@ trumptweets_small.csv
 # dataset location
 **/DevanagariHandwrittenDigitDataset/
 **/FruitinAmazon/
-assessment/fruits-360/
+fruits-360/
 
 # docx
 **/*.docx
