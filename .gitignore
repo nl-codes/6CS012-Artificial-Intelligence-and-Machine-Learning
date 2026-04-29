@@ -10,7 +10,7 @@ assessment/visual_task/Dataset
 # dataset location
 **/DevanagariHandwrittenDigitDataset/
 **/FruitinAmazon/
-fruits-360/
+assessment/visual_task/Dataset
 
 # docx
 **/*.docx
