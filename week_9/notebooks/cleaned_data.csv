@@ -1,0 +1,2690 @@
+cleaned_source,cleaned_target
+who?,START_ को? _END
+hide.,START_ लुकाउनुहोस्। _END
+hide.,START_ लुक। _END
+stay.,START_ बस्नुहोस्। _END
+hello!,START_ नमस्ते! _END
+smile.,START_ मुस्कान। _END
+attack!,START_ आक्रमण! _END
+go slow.,START_ बिस्तारै जाउ। _END
+im tom.,START_ म टम हुँ। _END
+find tom.,START_ टमलाई खोज। _END
+i am tom.,START_ म टम हुँ। _END
+i danced.,START_ मैले नाचे। _END
+who am i?,START_ म को हु? _END
+can i eat?,START_ के म खान सक्छु ? _END
+he is old.,START_ उहाँ वृद्ध हुनुहुन्छ। _END
+i am okay.,START_ म ठिक छु। _END
+i am sick.,START_ म बिरामी छु। _END
+i am sure.,START_ म पक्का छु। _END
+i am tall.,START_ म अग्लो छु। _END
+i am well.,START_ म कुशल छु। _END
+im crazy.,START_ म पागल छु। _END
+im crazy.,START_ म पागल हुँ। _END
+im sorry.,START_ मलाई माफ गर्नुहोस्। _END
+is it bad?,START_ यो खराब छ? _END
+is it bad?,START_ यो नराम्रो हो? _END
+may i eat?,START_ के म खान सक्छु ? _END
+who is he?,START_ ऊ को हो? _END
+good night.,START_ शुभ रात्री। _END
+he is lazy.,START_ ऊ अल्छी छ । _END
+he is nice.,START_ उहाँ राम्रो हुनुहुन्छ। _END
+he is nice.,START_ उ राम्रो छ। _END
+he is poor.,START_ ऊ गरिब छ। _END
+he is sick.,START_ उहाँ बिरामी हुनुहुन्छ। _END
+he is sick.,START_ ऊ बिरामी छ। _END
+how lovely!,START_ कति प्यारो! _END
+i am a boy.,START_ म केटा हुँ। _END
+i am a man.,START_ म एक मानिस हुँ। _END
+i am happy.,START_ म खुशी छु। _END
+i am human.,START_ म मानव हुँ। _END
+i am human.,START_ म मान्छे हुँ। _END
+i am short.,START_ म होचो छु। _END
+i am smart.,START_ म स्मार्ट छु। _END
+i eat fish.,START_ म माछा खान्छु। _END
+i eat here.,START_ म यहाँ खान्छु। _END
+i eat meat.,START_ म मासु खान्छु। _END
+i eat pork.,START_ म सुँगुरको मासु खान्छु। _END
+i eat pork.,START_ म पोर्क खान्छु। _END
+i eat rice.,START_ म भात खान्छु। _END
+i feel old.,START_ मलाई बुढो हुदै गए जस्तो लाग्छ। _END
+i like you.,START_ म तिमीलाई मन पराउँछु। _END
+i love you.,START_ म तिमीलाई माया गर्छु। _END
+i miss you.,START_ म तिमीलाई सम्झन्छु। _END
+im chubby.,START_ म मोटो छु। _END
+im chubby.,START_ म मोटी छु। _END
+love hurts.,START_ मायाले दुख दिन्छ। _END
+turn it up.,START_ अलिक ठूलो बनाउनुहोस्। _END
+we are men.,START_ हामी पुरुष हौं। _END
+who is tom?,START_ टम को हो? _END
+beers good.,START_ बियर राम्रो हो। _END
+beers good.,START_ बियर राम्रो छ। _END
+dont worry.,START_ चिन्ता नगर। _END
+dont worry.,START_ चिन्ता नगर! _END
+have a beer.,START_ बियर खानुहोस्। _END
+he is alone.,START_ ऊ एक्लै छ । _END
+he is alone.,START_ उहाँ एक्लै हुनुहुन्छ। _END
+he is eight.,START_ ऊ आठ वर्षको छ। _END
+he is happy.,START_ ऊ खुसी छ। _END
+he is happy.,START_ उहाँ खुसी हुनुहुन्छ। _END
+here we are!,START_ हामी यहाँ छौ! _END
+here we are.,START_ हामी यहाँ छौ। _END
+i also went.,START_ म पनि गएँ। _END
+i am a cook.,START_ म कुक हुँ। _END
+i am coming.,START_ म आउदै छु। _END
+i am taller.,START_ म अग्लो छु। _END
+i assume so.,START_ म त्यसै मान्छु। _END
+i came back.,START_ म फर्केर आएँ । _END
+i eat alone.,START_ म एक्लै खान्छु। _END
+i eat beans.,START_ म गेडागुडी खान्छु। _END
+i eat bread.,START_ म रोटी खान्छु। _END
+i eat bread.,START_ म पाउरोटी खान्छु। _END
+i eat fruit.,START_ म फलफूल खान्छु। _END
+i like peas.,START_ मलाई मटर मन पर्छ। _END
+i live here.,START_ म यहाँ बस्छु। _END
+i read lips.,START_ म ओठ पढ्छु । _END
+i trust him.,START_ म उसलाई विश्वास गर्छु। _END
+i went home.,START_ म घर गए। _END
+"i went, too.",START_ म पनि गएँ। _END
+i will stay.,START_ म बस्नेछु। _END
+ill decide.,START_ म निर्णय गर्छु। _END
+ill decide.,START_ म निर्णय गर्नेछु। _END
+im starved.,START_ मलाई धेरै भोक लागेको छ। _END
+lets hurry.,START_ हतार गरौं। _END
+"ok, you win.","START_ ठिक छ, तिमीले जित्यौ। _END"
+say my name.,START_ मेरो नाम भन। _END
+she is dead.,START_ तिनी मरिसकेकी छिन्। _END
+she is kind.,START_ उनी दयालु छिन्। _END
+tom is here.,START_ टम यहाँ छ। _END
+we are sick.,START_ हामी बिरामी छौं। _END
+whats this?,START_ यो के हो? _END
+am i in debt?,START_ के म ऋणमा छु? _END
+did tom fall?,START_ के टम खसेको थियो? _END
+drive faster.,START_ छिटो चलाउनुहोस्। _END
+ghosts exist.,START_ भूतहरू छन्। _END
+he is asleep.,START_ ऊ सुतिरहेको छ। _END
+he is cranky.,START_ ऊ चकचके छ। _END
+he is eating.,START_ उ खादै छ। _END
+he seems ill.,START_ ऊ बिरामी देखिन्छ। _END
+i am chinese.,START_ म चिनियाँ हुँ। _END
+i am chinese.,START_ म चाइनिज हुँ। _END
+i am curious.,START_ म उत्सुक छु। _END
+i am curious.,START_ म जिज्ञासु छु _END
+i am working.,START_ म काम गर्दैछु। _END
+i am working.,START_ म काम गरिरहेको छु। _END
+i dont know.,START_ मलाई थाहा छैन। _END
+i dont know.,START_ थाहा छैन। _END
+i drink beer.,START_ म बियर पिउँछु। _END
+i drink milk.,START_ म दूध पिउँछु। _END
+i drink wine.,START_ म वाइन पिउँछु। _END
+i eat cheese.,START_ म चीज खान्छु। _END
+i eat slowly.,START_ म बिस्तारै खान्छु। _END
+i have a map.,START_ म सँग नक्सा छ। _END
+i like steak.,START_ मलाई स्टेक मन पर्छ। _END
+i live alone.,START_ म एक्लै बस्छु। _END
+i need a pet.,START_ मलाई एउटा पाल्तु जनावर चाहिन्छ। _END
+i read books.,START_ म किताबहरू पढ्छु । _END
+i want a dog.,START_ मलाई एउटा कुकुर चाहियो। _END
+i went there.,START_ म त्यहाँ गएँ। _END
+i went twice.,START_ म दुई पटक गएँ । _END
+i will fight.,START_ म लड्नेछु। _END
+i will learn.,START_ म सिक्नेछु। _END
+make a guess.,START_ अनुमान गर्नुहोस्। _END
+my eyes hurt.,START_ मेरो आँखा दुखिरहेको छ! _END
+she is eight.,START_ उनी आठ वर्षकी हुन् । _END
+she is happy.,START_ उनी खुसी छिन् । _END
+she is lucky.,START_ उनी भाग्यमानी छिन्। _END
+she is quiet.,START_ उनी शान्त छिन्। _END
+she is sharp.,START_ तिनी तीक्ष्ण छिन्। _END
+she is wrong.,START_ उनी गलत छिन्। _END
+tom got rich.,START_ टम धनी भयो। _END
+tom hates me.,START_ टमले मलाई घृणा गर्छ। _END
+we are happy.,START_ हामी खुसी छौं। _END
+we dont lie.,START_ हामी झूट बोल्दैनौं। _END
+we have room.,START_ हामीसँग कोठा छ। _END
+what is this?,START_ यो के हो? _END
+did tom paint?,START_ टमले पेन्ट गर्यो? _END
+he drank beer.,START_ उनले बियर पिए । _END
+he drank beer.,START_ उसले बियर पियो । _END
+he is foolish.,START_ ऊ मूर्ख छ। _END
+he seems kind.,START_ उनी दयालु देखिन्छन्। _END
+he seems kind.,START_ उहाँ दयालु देखिनुहुन्छ। _END
+i am japanese.,START_ म जापानीज हुँ। _END
+i am a runner.,START_ म एक धावक हुँ। _END
+i am divorced.,START_ म सम्बन्धविच्छेद भएको हु। _END
+i am studying.,START_ म पढिरहेको छु। _END
+i am studying.,START_ म पढ्दै छु। _END
+i cant watch.,START_ म हेर्न सक्दिन। _END
+i drink a lot.,START_ म धेरै पिउँछु। _END
+i eat bananas.,START_ म केरा खान्छु। _END
+i eat chicken.,START_ म कुखुराको मासु खान्छु । _END
+i live nearby.,START_ म नजिकै बस्छु। _END
+i must go out.,START_ म बाहिर जानु पर्छ। _END
+i read novels.,START_ मैले उपन्यासहरू पढे। _END
+i should quit.,START_ मैले छाड्नु पर्छ। _END
+i was excited.,START_ म उत्साहित थिएँ। _END
+i went aboard.,START_ म विदेश गएँ । _END
+i went abroad.,START_ म विदेश गएँ । _END
+i went hiking.,START_ म पदयात्रामा गएँ। _END
+i went inside.,START_ म भित्र गएँ । _END
+i went skiing.,START_ म स्कीइङ गर्न गएँ। _END
+im ambitious.,START_ म महत्वाकांक्षी छु। _END
+im an addict.,START_ म एक लतमा लागेको व्यक्ति हुँ। _END
+im not brave.,START_ म साहसी छैन। _END
+im not crazy.,START_ म पागल होइन। _END
+im not crazy.,START_ म पागल छैन। _END
+is tom asleep?,START_ के टम सुतिरहेको छ? _END
+is tom famous?,START_ के टम प्रसिद्ध छ? _END
+itll be easy.,START_ यो सजिलो हुनेछ। _END
+its not mine.,START_ यो मेरो होइन। _END
+life is short.,START_ जिवन छोटो छ। _END
+my names tom.,START_ मेरो नाम टम हो। _END
+please fix it.,START_ कृपया यसलाई ठीक गर्नुहोस्। _END
+she is french.,START_ उनी फ्रान्सेली हुन्। _END
+she is active.,START_ उनी सक्रिय छिन्। _END
+she is crying.,START_ उनी रुदै छिन् । _END
+she is crying.,START_ उनी रोइरहेकी छिन् । _END
+she is eating.,START_ उनी खाइरहेकि छिन् । _END
+she is strong.,START_ तिनी बलियो छिन्। _END
+thats a fake.,START_ त्यो नक्कली हो। _END
+this is a map.,START_ यो नक्सा हो। _END
+this is a map.,START_ यो एउटा नक्शा हो। _END
+tom isnt new.,START_ टम नयाँ होइन। _END
+tom was scary.,START_ टम डरलाग्दो थियो। _END
+we are hungry.,START_ हामी भोकाएका छौं। _END
+we drank beer.,START_ हामीले बियर पियौं। _END
+whos driving?,START_ कसले गाडी चलाउदै छ? _END
+whos singing?,START_ कसले गाउँदै छ? _END
+will you clap?,START_ के तिमी ताली बजाउछौ ? _END
+"a beer, please.","START_ कृपया, एक बियर। _END"
+are you sleepy?,START_ के तपाईलाई निद्रा लागेको छ ? _END
+can i eat that?,START_ के म त्यो खान सक्छु? _END
+can i eat this?,START_ के म यो खान सक्छु? _END
+girls love tom.,START_ केटीहरू टमलाई मन पराउँछन्। _END
+happy birthday!,START_ जन्मदिनको शुभकामना _END
+he is a doctor.,START_ उहाँ डाक्टर हुनुहुन्छ। _END
+he is powerful.,START_ उहाँ शक्तिशाली हुनुहुन्छ। _END
+he is powerful.,START_ ऊ शक्तिशाली छ। _END
+he was at home.,START_ ऊ घरमै थियो। _END
+"here, try some.","START_ यहाँ, केहि प्रयास गर्नुहोस्। _END"
+how is it made?,START_ यो कसरी बनेको छ? _END
+i am a student.,START_ म विद्यार्थी हुँ। _END
+i am a teacher.,START_ म शिक्षक हुँ। _END
+i am an artist.,START_ म एक कलाकार हुँ। _END
+i cant see it.,START_ म यो देख्न सक्दिन। _END
+i cant see it.,START_ म यसलाई देख्न सक्दिन। _END
+i danced alone.,START_ म एक्लै नाचेँ । _END
+i drink coffee.,START_ म कफी पिउछु। _END
+i eat anything.,START_ म जे पनि खान्छु। _END
+i eat tomatoes.,START_ म टमाटर खान्छु। _END
+i expect a lot.,START_ म धेरै अपेक्षा गर्छु। _END
+i have a dream.,START_ मसँग एउटा सपना छ। _END
+i have hiccups.,START_ मलाई बाडुली लागेको छ। _END
+i have one kid.,START_ मेरो एउटा बच्चा छ। _END
+i just checked.,START_ मैले भर्खरै चेक गरे। _END
+i like my name.,START_ मलाई मेरो नाम मन पर्छ। _END
+i like sashimi.,START_ मलाई शशिमी मन पर्छ। _END
+i need tom now.,START_ अब मलाई टम चाहिन्छ। _END
+i remember tom.,START_ म टमलाई सम्झन्छु। _END
+i speak french.,START_ म फ्रेन्च बोल्न सक्छु। _END
+i was sleeping.,START_ म सुतिरहेको थिए। _END
+i went fishing.,START_ म माछा मार्न गएँ। _END
+i went on foot.,START_ म पैदल गएँ । _END
+i went outside.,START_ म बाहिर गएँ । _END
+i will survive.,START_ म बाच्ने छु। _END
+im a criminal.,START_ म एक अपराधी हुँ। _END
+im a rich kid.,START_ म एक धनी बच्चा हुँ। _END
+im only human.,START_ म मान्छे मात्रै हुँ। _END
+im very angry.,START_ म धेरै रिसाएको छु। _END
+is he sleeping?,START_ के ऊ सुतिरहेको छ? _END
+it was raining.,START_ पानी परिरहेको थियो। _END
+leave me alone!,START_ मलाई एक्लै छाडिदेउ! _END
+lets be clear.,START_ प्रष्ट होऔं। _END
+lets be clear.,START_ प्रष्ट बनौं। _END
+lets hurry up.,START_ हतार गरौं। _END
+many fish died.,START_ धेरै माछा मरे। _END
+my name is tom.,START_ मेरो नाम टम हो। _END
+shall we begin?,START_ सुरु गरौँ कि? _END
+shall we begin?,START_ सुरु गरौँ त? _END
+shall we begin?,START_ श्रीगणेश गरौँ त? _END
+shall we start?,START_ सुरु गरौँ कि? _END
+shall we start?,START_ सुरु गरौँ त? _END
+shall we start?,START_ श्रीगणेश गरौँ त? _END
+she is dieting.,START_ उनी डाइटिङ गरिरहेकी छिन् । _END
+this is a book.,START_ यो पुस्तक हो। _END
+tom apologized.,START_ टमले माफी मागे। _END
+tom apologized.,START_ टमले माफी माग्यो। _END
+tom hated mary.,START_ टम मेरीलाई घृणा गर्थ्यो। _END
+tom hated this.,START_ टमले यसलाई घृणा गर्यो। _END
+tom hates bugs.,START_ टमले किराहरूलाई घृणा गर्छ। _END
+tom is my name.,START_ टम मेरो नाम हो। _END
+tom is talking.,START_ टम बोल्दै छ। _END
+tom seems nice.,START_ टम राम्रो देखिन्छ। _END
+tom wore a cap.,START_ टमले टोपी लगाएको थियो। _END
+tom wore jeans.,START_ टमले जिन्स लगाएका थिए। _END
+toms not sick.,START_ टम बिरामी छैन। _END
+we are cousins.,START_ हामी दाजुभाइ हौं। _END
+we are doctors.,START_ हामी डाक्टर हौं। _END
+what can i eat?,START_ म के खान सक्छु? _END
+what can i eat?,START_ मैले के खादा राम्रो हुन्छ? _END
+what do i need?,START_ मलाई के चाहिन्छ? _END
+are you a local?,START_ के तपाइँ स्थानीय हुनुहुन्छ? _END
+are you chicken?,START_ तपाई कुखुरा हो? _END
+did tom ask you?,START_ के टमले तिमीलाई सोध्यो? _END
+"good night, dad.","START_ शुभ रात्रि, बुबा। _END"
+"good night, tom.","START_ शुभ रात्रि, टम। _END"
+he bought a hat.,START_ उसले टोपी किन्यो। _END
+he is unmarried.,START_ उनी अविवाहित छन् । _END
+he is unmarried.,START_ उहाँ अविवाहित हुनुहुन्छ । _END
+he is unmarried.,START_ ऊ अविवाहित छ। _END
+how old are you?,START_ तपाई कति बर्सको हुनु भयो ? _END
+i am a japanese.,START_ म जापानी हुँ। _END
+i decided to go.,START_ मैले जाने निर्णय गरें। _END
+i eat chocolate.,START_ म चकलेट खान्छु। _END
+i live in japan.,START_ म जापानमा बस्छु। _END
+i live in tokyo.,START_ म टोकियोमा बस्छु। _END
+i want a friend.,START_ मलाई एउटा साथी चाहियो। _END
+i was listening.,START_ म सुनिरहेको थिएँ। _END
+i was suspended.,START_ मलाई निलम्बन गरिएको थियो । _END
+i went for help.,START_ म मद्दतको लागि गएँ। _END
+i went shopping.,START_ म किनमेल गर्न गए। _END
+i went upstairs.,START_ म माथितिर गएँ। _END
+i will continue.,START_ म जारी राख्छु। _END
+i will stop tom.,START_ म टमलाई रोक्नेछु। _END
+im the skipper.,START_ म कप्तान हुँ। _END
+im very hungry.,START_ मलाई धेरै भोक लागेको छ। _END
+is tom sleeping?,START_ के टम सुतिरहेको छ? _END
+its not broken.,START_ यो तोडिएको छैन। _END
+its not broken.,START_ यो फुटेको छैन। _END
+its not enough.,START_ यो पर्याप्त छैन। _END
+merry christmas!,START_ क्रिसमसको शुभकामना! _END
+my laptop broke.,START_ मेरो ल्यापटप फुट्यो। _END
+please fix this.,START_ कृपया यसलाई ठीक गर्नुहोस्। _END
+tom abused mary.,START_ टमले मेरीलाई दुर्व्यवहार गरे। _END
+tom became rich.,START_ टम धनी भयो। _END
+tom cant go in.,START_ टम भित्र जान सक्दैन। _END
+tom is friendly.,START_ टम मिलनसार छ। _END
+tom is my rival.,START_ टम मेरो प्रतिद्वन्द्वी हो। _END
+tom is speaking.,START_ टम बोल्दै छ। _END
+tom is talented.,START_ टम प्रतिभाशाली छ। _END
+tom lived alone.,START_ टम एक्लै बस्थे। _END
+tom looked lost.,START_ टम हराएको देखिन्थ्यो। _END
+tom loves ramen.,START_ टमलाई रामेन मनपर्छ। _END
+tom passed away.,START_ टमको मृत्यु भयो। _END
+tom was a drunk.,START_ टम एक मातेको थियो। _END
+tom was elderly.,START_ टम वृद्ध थिए। _END
+tom will accept.,START_ टमले स्वीकार गर्नेछ। _END
+we are brothers.,START_ हामी दाजुभाइ हौं। _END
+we are students.,START_ हामी विद्यार्थी हौँ । _END
+we are teachers.,START_ हामी शिक्षक हौं। _END
+we need capital.,START_ हामीलाई पुँजी चाहिन्छ । _END
+well stay here.,START_ हामी यहाँ बस्नेछौ। _END
+where can i eat?,START_ म कहाँ खान सक्छु? _END
+where did he go?,START_ ऊ कहाँ गयो? _END
+where did he go?,START_ उनी कहाँ गए? _END
+who are you all?,START_ को हौ तिमीहरु सबै? _END
+who are you all?,START_ तिमीहरु सबै को हौ? _END
+who did tom ask?,START_ टमले कसलाई सोध्यो? _END
+who is this tom?,START_ यो टम को हो? _END
+answer the phone.,START_ फोन उठाउनुहोस्। _END
+are you a banker?,START_ तपाईं बैंकर हुनुहुन्छ? _END
+are you a couple?,START_ के तपाईहरू जोडी हुनुहुन्छ? _END
+are you a townie?,START_ के तपाई शहरवासी हुनुहुन्छ? _END
+are you stopping?,START_ के तपाइँ रोकिदै हुनुहुन्छ? _END
+can i dance here?,START_ के म यहाँ नाच्न सक्छु? _END
+dont talk to me.,START_ मसँग कुरा नगर। _END
+drink more water.,START_ धेरै पानी पिउनुहोस्। _END
+he is delightful.,START_ उहाँ रमाईलो हुनुहुन्छ। _END
+he is overweight.,START_ उनको तौल बढी छ । _END
+he is overweight.,START_ उसको तौल बढी छ । _END
+he is unsociable.,START_ ऊ मिलनसार छैन । _END
+he was born dumb.,START_ उनी मुर्ख जन्मेका थिए । _END
+he was born rich.,START_ उनी जन्मिदा खेरि नै धनि हुन्। _END
+hes not serious.,START_ उनी गम्भीर छैनन्। _END
+i am a foreigner.,START_ म एक विदेशी हुँ। _END
+i am a professor.,START_ म प्राध्यापक हुँ। _END
+i am eating rice.,START_ म भात खाँदै छु । _END
+i am from brazil.,START_ म ब्राजिलबाट हुँ। _END
+i am truly sorry.,START_ मलाई माफ गर्नुहोस्। _END
+i cant beat tom.,START_ म टमलाई हराउन सक्दिन। _END
+i cant beat tom.,START_ म टमलाई जित्न सक्दिन। _END
+i cant eat rice.,START_ म भात खान सक्दिन। _END
+i dont eat beef.,START_ म गाईको मासु खाँदिन। _END
+i dont eat beef.,START_ म गाईको मासु खान्न। _END
+i dont eat rice.,START_ म भात खान्न। _END
+i dont know her.,START_ म तिनलाई चिन्दिन। _END
+i drink a little.,START_ म अलिकति पिउँछु । _END
+"i drink tea, too.",START_ म पनि चिया पिउँछु । _END
+i drink to relax.,START_ म आराम गर्न पिउँछु। _END
+i eat everything.,START_ म सबै खान्छु। _END
+i eat vegetables.,START_ म तरकारी खान्छु। _END
+i have to go out.,START_ म बाहिर जानु पर्छ। _END
+i hear something.,START_ म केहि सुन्छु। _END
+i like pop music.,START_ मलाई पप गीत मन पर्छ। _END
+i live near here.,START_ म यहाँ नजिकै बस्छु। _END
+i love egg yolks.,START_ मलाई अण्डाको पहेलो भाग मन पर्छ। _END
+i miss you a lot.,START_ मलाई तिम्रो धेरै याद आइरहेको छ। _END
+i miss you badly.,START_ मलाई तिम्रो धेरै याद आइरहेको छ। _END
+i saw tom crying.,START_ मैले टम रोइरहेको देखें। _END
+i was born there.,START_ म त्यहीँ जन्मिएँ । _END
+i was very upset.,START_ म निकै उदास थिएँ । _END
+i wasnt careful.,START_ म सचेत थिइनँ। _END
+i will translate.,START_ म अनुवाद गर्छु। _END
+im ok with that.,START_ म त्यो संग ठीक छु। _END
+im middle class.,START_ म मध्यमवर्गीय हुँ। _END
+im not creative.,START_ म रचनात्मक छुइन। _END
+im not on drugs.,START_ म लागुऔषध मा छैन। _END
+im not so brave.,START_ म त्यति बहादुर छैन। _END
+im not sure yet.,START_ म अझै पक्का छैन। _END
+im off tomorrow.,START_ म भोलि बिदामा छु। _END
+im on your side.,START_ म तिमीलाई समर्थन गर्छु। _END
+im out of ideas.,START_ म बिचारबाट बाहिर छु। _END
+im out of shape.,START_ मेरो आकार छैन। _END
+im out of sugar.,START_ मेरो चिनी सकिएको छ। _END
+im the youngest.,START_ म सबैभन्दा कान्छो हुँ। _END
+im the youngest.,START_ म सबैभन्दा कान्छी हुँ। _END
+ive been stupid.,START_ म मुर्ख भएको छु। _END
+"is tom here, too?",START_ के टम पनि यहाँ छ? _END
+nice to meet you.,START_ तपाईँलाई भेटेर खुशी लाग्यो। _END
+people are dying.,START_ मानिसहरु मरिरहेका छन् । _END
+people are dying.,START_ मान्छे मरिरहेका छन् । _END
+respect yourself.,START_ आफैलाई सम्मान गर्नुहोस्। _END
+she is beautiful.,START_ उनी सुन्दर छिन्। _END
+she loves coffee.,START_ उनलाई कफी मन पर्छ। _END
+stay for a while.,START_ केही बेर बस्नुहोस्। _END
+stop annoying me.,START_ मलाई कष्ट दिन बन्द गर्नुहोस्। _END
+the sea was calm.,START_ समुद्र शान्त थियो। _END
+the work is done.,START_ काम सकियो। _END
+theres a plan b.,START_ त्यहाँ योजना बी छ। _END
+they like french.,START_ तिनीहरू फ्रान्सेली मन पराउँछन्। _END
+this tv is heavy.,START_ यो टिभी भारी छ। _END
+this is our team.,START_ यो हाम्रो टोली हो। _END
+tom bought a gun.,START_ टमले बन्दुक किन्यो। _END
+tom felt amazing.,START_ टमलाई अचम्म लाग्यो। _END
+tom is in heaven.,START_ टम स्वर्गमा छ। _END
+tom is obnoxious.,START_ टम अपमानजनक छ। _END
+tom is so strong.,START_ टम एकदमै बलियो छ। _END
+tom laughs a lot.,START_ टम धेरै हाँस्छन्। _END
+tom will be over.,START_ टम समाप्त हुनेछ। _END
+tom wouldnt cry.,START_ टम रुने थिएन। _END
+use a calculator.,START_ क्याल्कुलेटर प्रयोग गर्नुहोस्। _END
+we just got here.,START_ हामी भर्खरै यहाँ आइ पुग्यौं। _END
+what did tom add?,START_ टमले के थप्यो? _END
+what did tom ask?,START_ टमले के सोधे? _END
+what did tom use?,START_ टमले के प्रयोग गरेको थियो? _END
+what did you say?,START_ तपाईले के भन्नु भयो ? _END
+which is correct?,START_ कुन सहि हो? _END
+who cares anyway?,START_ जे भए पनि कसले वास्ता गर्छ? _END
+you sound bitter.,START_ तिमी तितो सुनिन्छौ। _END
+are they japanese?,START_ के ती मानिसहरू जापानी हुन्? _END
+did you draw that?,START_ के तपाईंले त्यो चित्र बनाउनुभएको हो ? _END
+do you have a car?,START_ के तपाईसँग कार छ? _END
+do you have plans?,START_ के तपाईंसँग योजनाहरू छन्? _END
+he called my name.,START_ उसले मेरो नाम बोलायो। _END
+he is influential.,START_ उहाँ प्रभावशाली हुनुहुन्छ। _END
+his eyes are blue.,START_ उसका आँखा नीलो छन्। _END
+how was your trip?,START_ तपाइँको यात्रा कस्तो रह्यो? _END
+i am years old.,START_ म वर्षको भएँ। _END
+i am years old.,START_ म वर्षको हुँ । _END
+i am a translator.,START_ म एक अनुवादक हुँ। _END
+i danced with tom.,START_ मैले टमसँग नाचें। _END
+i decided to stay.,START_ मैले बस्ने निर्णय गरें। _END
+i decided to wait.,START_ मैले पर्खने निर्णय गरें। _END
+i didnt eat rice.,START_ मैले भात खाइनँ । _END
+i didnt get paid.,START_ मैले तलब पाएको छैन। _END
+i dont want them.,START_ म तिनीहरूलाई चाहन्न। _END
+i drink to forget.,START_ म बिर्सनका लागि पिउँछु । _END
+i enjoy what i do.,START_ म जे गर्छु त्यसमा रमाउछु। _END
+i have a headache.,START_ मेरो टाउको दुखेको छ। _END
+i have no friends.,START_ मेरा कोही साथी छैनन्। _END
+i havent decided.,START_ मैले निर्णय गरेको छैन। _END
+i know tom is mad.,START_ मलाई थाहा छ टम पागल छ। _END
+i like sandwiches.,START_ मलाई स्यान्डविच मन पर्छ। _END
+i live in comfort.,START_ म आराममा बस्छु । _END
+i love this store.,START_ मलाई यो स्टोर मन पर्छ। _END
+i read everything.,START_ म सबै पढ्छु। _END
+i read everything.,START_ मैले सबै पढे। _END
+i said good night.,START_ मैले शुभ रात्रि भने । _END
+i want a daiquiri.,START_ म एक डाईक्वरी चाहन्छु। _END
+i was hurt by tom.,START_ टमले मलाई चोट पुर्यायो। _END
+i went downstairs.,START_ म तलतिर गएँ। _END
+i will do my best.,START_ म सक्दो प्रयास गर्नेछु। _END
+im a bit worried.,START_ म अलि चिन्तित छु। _END
+im a taxi driver.,START_ म ट्याक्सी चालक हुँ। _END
+im having a baby.,START_ म बच्चा जन्माउँदै छु। _END
+im really hungry.,START_ मलाई धेरै भोक लागेको छ। _END
+is that person ok?,START_ के त्यो मान्छे ठीक छ? _END
+it could be risky.,START_ यो जोखिमपूर्ण हुन सक्छ। _END
+it was a hard day.,START_ त्यो एक कठिन दिन थियो। _END
+its a risky plan.,START_ यो एक जोखिमपूर्ण योजना हो। _END
+its not that far.,START_ यो त्यति टाढा छैन। _END
+lets eat dessert.,"START_ मिठाई, खाऔं। _END"
+lets take a look.,START_ एक पटक हेरौं। _END
+please come again.,START_ कृपया फेरि आउनुहोस्। _END
+please come again.,START_ कृपया फेरि आउनुहोला। _END
+please correct it.,START_ कृपया यसलाई सच्याउनुहोस्। _END
+please keep quiet.,START_ कृपया शान्त रहनु होला। _END
+please stop lying.,START_ कृपया झूट बोल्न बन्द गर्नुहोस्। _END
+she is aggressive.,START_ उनी आक्रामक छिन्। _END
+she is attractive.,START_ उनी आकर्षक छिन्। _END
+take one of these.,START_ यी मध्ये एक लिनुहोस्। _END
+tell me about tom.,START_ मलाई टमको बारेमा बताउनुहोस्। _END
+tell them to stop.,START_ तिनीहरूलाई रोक्न भन्नुहोस्। _END
+thank you so much.,START_ धेरै धेरै धन्यवाद। _END
+thats a big deal.,START_ त्यो ठूलो कुरा हो। _END
+the bus just left.,START_ बस भर्खरै छुट्यो। _END
+this hat is yours.,START_ यो टोपी तिम्रो हो। _END
+this is my choice.,START_ यो मेरो रोजाई हो। _END
+tom became cranky.,START_ टम पागल भयो। _END
+tom bought a coat.,START_ टमले कोट किने। _END
+tom bought a coat.,START_ टमले कोट किन्यो। _END
+tom cant come in.,START_ टम भित्र आउन सक्दैन। _END
+tom disliked mary.,START_ टम मेरीलाई घृणा गर्थ्यो। _END
+tom disliked mary.,START_ टम मेरीलाई मन परौउँदैन थियो। _END
+tom isnt certain.,START_ टम निश्चित छैन। _END
+tom lit the stove.,START_ टमले चुलो बाल्यो। _END
+tom lit the stove.,START_ टमले चुलोमा आगो बाल्यो। _END
+tom scored a goal.,START_ टमले गोल गरे ! _END
+tom used to smoke.,START_ टम धुम्रपान गर्थे। _END
+tom was in heaven.,START_ टम स्वर्गमा थियो। _END
+tom was very cold.,START_ टम धेरै चिसो थियो। _END
+"two beers, please.","START_ कृपया, दुईवटा बियर। _END"
+we are classmates.,START_ हामी सहपाठी हौं। _END
+we waited outside.,START_ हामी बाहिर पर्ख्यौं। _END
+were you truthful?,START_ के तपाई सत्यवादी हुनुहुन्थ्यो? _END
+what is your name?,START_ तिम्रो नाम के हो? _END
+when was she born?,START_ उनी कहिले जन्मिइन् ? _END
+where was he born?,START_ उ कहाँ जन्मेको थियो? _END
+who is tom anyway?,START_ जे भए पनि टम को हो? _END
+who is tom really?,START_ टम साँच्चै को हो? _END
+who is tom to you?,START_ तपाईको लागि टम को हो? _END
+whos at the door?,START_ ढोकामा को छ? _END
+you have no proof.,START_ तपाईंसँग कुनै प्रमाण छैन। _END
+you have no proof.,START_ तिमिसँग कुनै प्रमाण छैन। _END
+you look very sad.,START_ तिमी धेरै दुःखी देखिन्छौ। _END
+you look very sad.,START_ तिमी धेरै उदास देखिन्छौ। _END
+you need to sleep.,START_ तपाईंले सुत्नु पर्छ। _END
+a lot of fish died.,START_ धेरै माछा मरे। _END
+are you colleagues?,START_ के तपाई सहकर्मी हुनुहुन्छ? _END
+bananas are yellow.,START_ केरा पहेंलो हुन्छ। _END
+can we do it again?,START_ के हामी यसलाई फेरि गर्न सक्छौं? _END
+happy fathers day!,START_ बुबाको दिनको शुभकामना! _END
+happy fathers day!,START_ बुवा दिवसको शुभकामना। _END
+he enjoyed cycling.,START_ उसलाई साइकल चलाउन रमाइलो लग्यो। _END
+he is always right.,START_ उहाँ सधैं सही हुनुहुन्छ। _END
+he is always right.,START_ ऊ सधैं सही छ। _END
+"hi, hows it going?","START_ नमस्ते, कस्तो भइरहेको छ? _END"
+how is your sister?,START_ तिम्री बहिनीलाई कस्तो छ? _END
+how smart are they?,START_ तिनीहरू कत्तिको बाठा छन्? _END
+i climbed mt. fuji.,START_ मैले माउन्ट फुजी चढेँ। _END
+i dance quite well.,START_ म एकदम राम्रो नृत्य गर्छु। _END
+i decided the same.,START_ मैले पनि त्यही निर्णय गरें । _END
+i drive everywhere.,START_ जताततै गाडी चलाउँछु। _END
+i had a bad moment.,START_ म सँग नराम्रो क्षण थियो। _END
+i like disco music.,START_ मलाई डिस्को संगीत मन पर्छ। _END
+i like this guitar.,START_ मलाई यो गिटार मनपर्छ। _END
+i like this guitar.,START_ मलाई यो गितार मनपर्छ। _END
+i love korean food.,START_ मलाई कोरियन खाना मन पर्छ। _END
+i love korean food.,START_ कोरियन खाना मन पर्छ। _END
+i love korean food.,START_ कोरियाको खाना मन पर्छ। _END
+i love korean food.,START_ कोरियाको खानेकुरा मन पर्छ। _END
+i need to exercise.,START_ मलाई व्यायाम गर्न आवश्यक छ। _END
+i teach tom french.,START_ म टमलाई फ्रेन्च सिकाउँछु। _END
+i think he is sick.,START_ मलाई लाग्छ उहाँ बिरामी हुनुहुन्छ। _END
+i think he is sick.,START_ मलाई लाग्छ ऊ बिरामी छ। _END
+i think hes happy.,START_ मलाई लाग्छ ऊ खुसी छ। _END
+i told tom to wait.,START_ मैले टमलाई पर्खन भनें। _END
+i went sightseeing.,START_ म घुम्न गएँ । _END
+i went windsurfing.,START_ म हावा खान गएँ। _END
+im glad its over.,START_ यो सकिएकोमा म खुसी छु। _END
+im not courageous.,START_ म साहसी छुइन। _END
+is this a sentence?,START_ के यो वाक्य हो? _END
+is this room toms?,START_ के यो टमको कोठा हो? _END
+is this seat taken?,START_ के यो सिटमा मान्छे हुनुहुन्छ? _END
+is this your house?,START_ यो तपाईको घर हो? _END
+is this your house?,START_ यो तिम्रो घर हो? _END
+is this your house?,START_ यो तेरो घर हो? _END
+is this your house?,START_ यो हजुरको घर हो? _END
+keep away from tom.,START_ टमबाट टाढा रहनुहोस्। _END
+let me rephrase it.,START_ मलाई यसलाई दोहोर्याउन दिनुहोस्। _END
+mt. fuji is famous.,START_ माउन्ट फुजी प्रसिद्ध छ। _END
+my mailbox is full.,START_ मेरो मेलबक्स भरिएको छ। _END
+please call me tom.,START_ कृपया मलाई टम भन्नुहोस्। _END
+please dont worry.,START_ कृपया चिन्ता नगर्नुहोस्। _END
+please dont worry.,START_ चिन्ता नलिनुहोस्। _END
+please repair this.,START_ कृपया यसलाई ठीक गर्नुहोस्। _END
+please repeat that.,START_ कृपया यसलाई दोहोर्याउनुहोस्। _END
+she is unconscious.,START_ उनी बेहोस छिन् । _END
+she is unconscious.,START_ उनी अचेत छिन् । _END
+she threatened him.,START_ उनले उसलाई धम्की दिइन्। _END
+she was born lucky.,START_ उनी भाग्यमानी जन्मिएकी थिइन् । _END
+take off your mask.,START_ मास्क फुकाल्नुहोस्। _END
+thats my umbrella.,START_ यो मेरो छाता हो। _END
+the cat drank milk.,START_ बिरालोले दूध खायो। _END
+the house is empty.,START_ घर खाली छ । _END
+the lamp is broken.,START_ बत्ती बिग्रिएको छ। _END
+they cant get out.,START_ तिनीहरू बाहिर निस्कन सक्दैनन्। _END
+this apple is sour.,START_ यो स्याउ अमिलो छ। _END
+this is a bus stop.,START_ यो बस स्टप हो। _END
+this is a bus stop.,START_ यो बस बिसौनी हो। _END
+this should be fun.,START_ यो रमाइलो हुनुपर्छ। _END
+tom became violent.,START_ टम हिंस्रक भयो। _END
+tom gave me advice.,START_ टमले मलाई सल्लाह दिए। _END
+tom is a dog lover.,START_ टम एक कुकुर प्रेमी हो। _END
+tom is a zoologist.,START_ टम एक प्राणीशास्त्री हो। _END
+tom is working now.,START_ टम अहिले काम गर्दैछ। _END
+tom left with mary.,START_ टम मेरीसँग गए। _END
+tom might be bored.,START_ टम बोर भएको हुन सक्छ। _END
+tom probably knows.,START_ सायद टमलाई थाहा छ। _END
+tom probably knows.,START_ सायद टम जान्दछ। _END
+tom writes scripts.,START_ टमले स्क्रिप्टहरू लेख्छन्। _END
+"tom, are you there?","START_ टम, तिमी त्यहाँ छौ? _END"
+we closed our eyes.,START_ हामीले आँखा बन्द गर्यौं । _END
+what do they think?,START_ तिनीहरू के सोच्छन्? _END
+what is this thing?,START_ यो के चिज हो? _END
+whats tom cooking?,START_ टमले के पकाउँदै छ? _END
+when were you born?,START_ तपाई कहिले जन्मिनुभयो ? _END
+where was tom born?,START_ टम कहाँ जन्मिएको थियो? _END
+wheres tom anyway?,START_ जे भए पनि टम कहाँ छ? _END
+wheres the toilet?,START_ शौचालय कहाँ छ? _END
+who are you anyway?,START_ जे भए पनि तपाई को हुनुहुन्छ? _END
+who are you anyway?,START_ जे भए पनि तिमी को हौ? _END
+who exactly is tom?,START_ ठ्याक्कै टम को हो? _END
+who is tom jackson?,START_ टम ज्याक्सन को हुन्? _END
+"who is tom, anyway?","START_ जे भए पनि, टम को हो? _END"
+whos at the wheel?,START_ कसले गाडी चलाउदै छ? _END
+women like to talk.,START_ महिलाहरु कुरा गर्न मन पराउँछन्। _END
+you have a message.,START_ तपाईंलाई एउटा सन्देश छ। _END
+youre replaceable.,START_ तपाईं प्रतिस्थापन योग्य हुनुहुन्छ। _END
+are you out of work?,START_ के तपाईसंग काम छैन ? _END
+can i eat this cake?,START_ के म यो केक खान सक्छु? _END
+dont cry in public.,START_ सार्वजनिक स्थानमा नरोऊ । _END
+give tom this money.,START_ टमलाई यो पैसा दिनुहोस्। _END
+go easy on the wine.,START_ वाइन संयम भएर पिउनुहोस्। _END
+have you ever flown?,START_ के तपाई कहिल्यै उड्नुभएको छ? _END
+he seems to be sick.,START_ ऊ बिरामी देखिन्छ। _END
+he seems to be sick.,START_ ऊ अस्वस्थ देखिन्छ। _END
+how old are you now?,START_ तपाई अहिले कति वर्षको हुनुभयो? _END
+how was your winter?,START_ तपाईको जाडो कस्तो रह्यो ? _END
+i bought tom a book.,START_ मैले टमलाई एउटा किताब किनें। _END
+i can see a pattern.,START_ म एउटा ढाँचा देख्न सक्छु। _END
+i can teach english.,START_ म अंग्रेजी पढाउन सक्छु। _END
+i decided not to go.,START_ मैले नजाने निर्णय गरें। _END
+i dont like sports.,START_ मलाई खेलकुद मन पर्दैन। _END
+i eat a lot of rice.,START_ म धेरै भात खान्छु। _END
+i had a pocketknife.,START_ म सँग कर्द थियो। _END
+i hate taking notes.,START_ मलाई नोटहरू लिन मन लाग्दैन। _END
+i have bad eyesight.,START_ मेरो आँखाको अवस्था ठिक छैन। _END
+i have to study now.,START_ मैले अब अध्ययन गर्नुपर्छ। _END
+i have to study now.,START_ मैले अब पढ्नुपर्छ। _END
+i know toms secret.,START_ मलाई टमको गोप्य कुरा थाहा छ। _END
+i know when to quit.,START_ कहिले छोड्ने मलाई थाहा छ। _END
+i like light colors.,START_ मलाई उज्यालो रंग मन पर्छ। _END
+i love tom and mary.,START_ म टम र मेरीलाई माया गर्छु। _END
+i make € a day.,START_ म प्रति दिन एक सय यूरो कमाउँछु। _END
+i met tom at a club.,START_ मैले टमलाई क्लबमा भेटें। _END
+i met him yesterday.,START_ मैले हिजो उहाँलाई भेटे। _END
+i met him yesterday.,START_ मैले हिजो उनलाई भेटे। _END
+i sprang out of bed.,START_ म ओछ्यानबाट निस्किए। _END
+i totally forgot it.,START_ मैले पूरै बिर्सें। _END
+i want to hear more.,START_ म अझ धेरै सुन्न चाहन्छु। _END
+i was hoping to win.,START_ म जित्ने आशामा थिएँ। _END
+i will become angry.,START_ म क्रोधित हुनेछु। _END
+i wont be defeated.,START_ म पराजित हुने छैन। _END
+i would die for you.,START_ म तिम्रो लागि मर्न सक्छु। _END
+ill be coming home.,START_ म घर आउदै छु। _END
+im drinking coffee.,START_ म कफी पिउदै छु। _END
+im drinking coffee.,START_ म कफी पिइरहेको छु। _END
+im dying of hunger.,START_ म भोकले मर्छु जस्तो भयो। _END
+im eating rice now.,START_ अहिले म भात खादै छु। _END
+im not competitive.,START_ म प्रतिस्पर्धी छैन। _END
+im sorry. i forgot.,"START_ माफ गर्नुहोस्, मैले बिर्सिएँ। _END"
+im terribly hungry.,START_ मलाई धेरै भोक लागेको छ। _END
+im truly impressed.,START_ म साँच्चै प्रभावित छु। _END
+im waiting for him.,START_ म उसलाई पर्खिरहेको छु। _END
+ive got a headache.,START_ मेरो टाउको दुखेको छ। _END
+is she your teacher?,START_ के तिनी तिम्रो शिक्षिका हुन्? _END
+its worth the pain.,START_ यो दुख को लायक छ। _END
+lets try something.,START_ केही प्रयास गरौं। _END
+many fish are dying.,START_ धेरै माछा मरिरहेका छन्। _END
+many fish are dying.,START_ धेरै माछाहरु मर्दैछन्। _END
+mary lost her phone.,START_ मेरीले आफ्नो सेल फोन हराईन्। _END
+may i drink alcohol?,START_ के म रक्सी पिउन सक्छु? _END
+my sister likes tom.,START_ मेरी बहिनीले टमलाई मन पराउँछिन्। _END
+pleased to meet you.,START_ तपाईँलाई भेटेर खुशी लाग्यो। _END
+"say good night, tom.","START_ शुभ रात्रि भन, टम। _END"
+see me in my office.,START_ मलाई मेरो कार्यालयमा भेट्नुहोस्। _END
+she opened the door.,START_ उनले ढोका खोलिन्। _END
+sit down over there.,START_ त्यहीँ बस। _END
+that dress is cheap.,START_ त्यो पोशाक सस्तो छ। _END
+thats not a secret.,START_ त्यो गोप्य कुरा होइन। _END
+thats not a secret.,START_ त्यो कुनै गोप्य कुरा होइन। _END
+theyre my students.,START_ तिनीहरू मेरा विद्यार्थी हुन्। _END
+this cat is unlucky.,START_ यो बिरालो अभागी छ। _END
+this group is smart.,START_ यो समूह चतुर छ। _END
+tom called me a pig.,START_ टमले मलाई सुँगुर भन्यो। _END
+tom chased after me.,START_ टम मेरो पछि पछि लागे। _END
+tom didnt watch tv.,START_ टमले टिभी हेरेनन्। _END
+tom has become rich.,START_ टम धनी भएको छ। _END
+tom has one brother.,START_ टमको एउटा भाइ छ। _END
+tom is not a member.,START_ टम सदस्य होइन। _END
+tom started running.,START_ टम दौडन थाल्यो। _END
+tom stopped himself.,START_ टमले आफैलाई रोक्यो। _END
+toms gate was open.,START_ टमको गेट खुला थियो। _END
+wait thirty minutes.,START_ मिनेट पर्खनुहोस्। _END
+we grew up together.,START_ हामी सँगै हुर्क्यौं। _END
+we must pay the tax.,START_ हामीले कर तिर्नु पर्छ। _END
+what did tom report?,START_ टमले के रिपोर्ट गरे? _END
+what should i drink?,START_ मैले के पिउनु पर्छ? _END
+whens fathers day?,START_ बुबाको मुख हेर्ने दिन कहिले हो? _END
+where is tom anyway?,START_ जे भए पनि टम कहाँ छ? _END
+where is the toilet?,START_ शौचालय कहाँ छ? _END
+where were you born?,START_ तपाईं कहाँ जन्मनुभएको हो? _END
+wheres the station?,START_ स्टेशन कहाँ छ? _END
+whos the lucky one?,START_ भाग्यमानी को हो? _END
+why did you call me?,START_ तिमीले मलाई किन बोलाएको? _END
+why did you call me?,START_ तिमीले मलाई किन फोन गरेको? _END
+you have three pens.,START_ तिमीसँग तीनवटा कलम छन्। _END
+you have three pens.,START_ तपाईंसँग तीनवटा कलम छन्। _END
+you must be kidding!,START_ तपाईंले मजाक गरेको हुनु पर्छ! _END
+youve got to hurry.,START_ तिमीले हतार गर्नुपर्छ। _END
+youve got to hurry.,START_ हतार गर्नु पर्यो। _END
+are you a couple now?,START_ के तपाईहरू अहिले जोडी हुनुहुन्छ? _END
+are you disappointed?,START_ के तपाई निराश हुनुहुन्छ? _END
+are you going anyway?,START_ तपाईं जे भए पनि जाँदै हुनुहुन्छ? _END
+"are you unhappy, tom?","START_ के तिमी दुखी छौ, टम? _END"
+both men were killed.,START_ दुबै जना मारिएका थिए। _END
+can i ask what it is?,START_ के म सोध्न सक्छु कि यो के हो? _END
+can i ask what it is?,START_ म सोध्न सक्छु यो के हो? _END
+can i eat everything?,START_ के म सबै खान सक्छु? _END
+can i eat this bread?,START_ के म यो रोटी खान सक्छु? _END
+can plants feel pain?,START_ के बिरुवाहरूले पीडा महसुस गर्न सक्छन्? _END
+change is inevitable.,START_ परिवर्तन अपरिहार्य छ। _END
+do you have a secret?,START_ के तपाईसँग गोप्य कुरा छ? _END
+do you have a secret?,START_ के तिमीसँग गोप्य कुरा छ? _END
+do you have any food?,START_ के तपाइँसँग कुनै खाना छ? _END
+do you know this man?,START_ के तपाई यो मान्छे लाई चिन्नुहुन्छ? _END
+"good night, everyone!",START_ सबैलाई शुभ रात्री! _END
+he doesnt like fish.,START_ उसलाई माछा मन पर्दैन। _END
+he got off the train.,START_ ऊ रेलबाट ओर्लियो। _END
+how is this my fault?,START_ यो मेरो गल्ती कसरी भयो ? _END
+"how old are you, tom?","START_ तपाईं कति वर्षको हुनुहुन्छ, टम? _END"
+"how old are you, tom?","START_ तिम्रो उमेर कति भयो , टम? _END"
+i am afraid of dying.,START_ म मृत्युसँग डराउँछु। _END
+i am terribly hungry.,START_ मलाई धेरै भोक लागेको छ। _END
+i bet i finish first.,START_ म शर्त गर्छु कि म पहिले समाप्त गर्छु। _END
+i borrowed toms car.,START_ मैले टमको कार उधारो लिएँ। _END
+i dont like vinegar.,START_ मलाई भिनेगर मन पर्दैन। _END
+i eat rice every day.,START_ म हरेक दिन भात खान्छु। _END
+i have poor eyesight.,START_ मेरो आँखाको अवस्था ठिक छैन। _END
+i hear a dog barking.,START_ मैले कुकुर भुकिरहेको सुन्छु। _END
+i know tom is active.,START_ मलाई थाहा छ टम सक्रिय छ। _END
+i know toms brother.,START_ म टमको भाइलाई चिन्छु। _END
+i know life is short.,START_ मलाई थाहा छ जीवन छोटो छ। _END
+i like bright colors.,START_ मलाई उज्यालो रंग मन पर्छ। _END
+i made a big mistake.,START_ मैले ठूलो गल्ती गरें। _END
+i miss you very much.,START_ मलाई तिम्रो धेरै याद आइरहेको छ। _END
+i need to rent a car.,START_ मलाई एउटा कार भाडामा लिनु पर्ने छ। _END
+i prefer to be alone.,START_ म एक्लै बस्न रुचाउँछु। _END
+i think youre wrong.,START_ मलाई लाग्छ तपाईं गलत हुनुहुन्छ। _END
+i was in a good mood.,START_ म राम्रो मुडमा थिएँ। _END
+i was in a good mood.,START_ मेरो मुड राम्रो थियो। _END
+i went to that party.,START_ म त्यो पार्टीमा गएको थिएँ। _END
+i wont let tom down.,START_ म टमलाई निराश पार्ने छैन। _END
+id like to be alone.,START_ म एक्लै बस्न चाहन्छु। _END
+im glad to help you.,START_ म तपाईंलाई मद्दत गर्न पाउँदा खुसी छु। _END
+im glad to meet you.,START_ तपाईँलाई भेटेर खुशी लाग्यो। _END
+im not conservative.,START_ म रूढीवादी होइन। _END
+im not good-looking.,START_ म हेर्दा राम्रो छैन। _END
+im not middle class.,START_ म मध्यमवर्गीय होइन। _END
+im still doing that.,START_ म अझै पनि त्यही गरिरहेको छु। _END
+it could be exciting.,START_ यो रोमाञ्चक हुन सक्छ। _END
+it felt like an hour.,START_ एक घण्टाजस्तो लाग्यो । _END
+it makes you curious.,START_ यसले तपाईंलाई जिज्ञासु बनाउँछ। _END
+it was hot yesterday.,START_ हिजो गर्मी थियो। _END
+its made of leather.,START_ यो छालाबाट बनेको हो। _END
+its too much for me.,START_ यो मेरो लागि धेरै छ। _END
+its too much for me.,START_ यो मेरो लागि अति नै छ। _END
+let me handle things.,START_ मलाई कुराहरू सम्हाल्न दिनुहोस्। _END
+lets face the facts!,START_ तथ्यहरूको सामना गरौं! _END
+may i dance with you?,START_ के म तिमी संग नाच्न सक्छु? _END
+my birthday is today.,START_ मेरो जन्मदिन आज हो । _END
+my name isnt listed.,START_ सूचीमा मेरो नाम छैन। _END
+my names not listed.,START_ सूचीमा मेरो नाम छैन। _END
+no one is that lucky.,START_ त्यस्तो भाग्यमानी कोही छैन । _END
+put it on toms desk.,START_ यसलाई टमको डेस्कमा राख्नुहोस्। _END
+put it on toms desk.,START_ यसलाई टमको डेस्कमा राख। _END
+she has a kind heart.,START_ उनीसँग दयालु हृदय छ। _END
+show me your id card.,START_ आफ्नो आईडी कार्ड देखाउ। _END
+that isnt practical.,START_ त्यो व्यावहारिक छैन। _END
+today is my birthday.,START_ आज मेरो जन्मदिन हो। _END
+tom climbed mt. fuji.,START_ टम माउन्ट फुजी चढे। _END
+tom climbed mt. fuji.,START_ टम माउन्ट फुजी चढ्यो। _END
+tom doesnt trust us.,START_ टमले हामीलाई विश्वास गर्दैन। _END
+tom fixed my bicycle.,START_ टमले मेरो साइकल बनाईदियो । _END
+tom has to get ready.,START_ टम तयार हुनुपर्छ। _END
+tom is a dog trainer.,START_ टम एक कुकुर प्रशिक्षक हो। _END
+tom is a naughty boy.,START_ टम एक शरारती केटो हो। _END
+tom is my first name.,START_ टम मेरो पहिलो नाम हो। _END
+tom is only thirteen.,START_ टम मात्र तेह्र वर्षको छ। _END
+tom knew i was tired.,START_ टमलाई म थाकेको थाहा थियो। _END
+tom knows how to win.,START_ टमलाई कसरी जित्ने थाहा छ। _END
+tom made fun of mary.,START_ टमले मेरीको मजाक उडाए। _END
+tom made fun of mary.,START_ टमले मेरीको मजाक उडायो। _END
+tom needed your help.,START_ टमलाई तपाईंको मद्दत चाहिएको थियो। _END
+tom proved otherwise.,START_ टमले अन्यथा प्रमाणित गरे। _END
+tom really likes you.,START_ टमले तिमीलाई साँच्चै मन पराउँछ। _END
+tom sat on the table.,START_ टम टेबलमा बस्यो। _END
+tom scared everybody.,START_ टमले सबैलाई डराए। _END
+tom scared everybody.,START_ टमले सबैलाई डराएको थियो। _END
+tom started vomiting.,START_ टमले बान्ता गर्न थाल्यो। _END
+tom stole everything.,START_ टमले सबै कुरा चोर्यो। _END
+tom washed both cars.,START_ टमले दुबै कारहरू धोए। _END
+tom watched in shock.,START_ टमले स्तब्ध भएर हेर्यो। _END
+"tom, how old are you?","START_ टम, तिम्रो उमेर कति भयो ? _END"
+were serious people.,START_ हामी गम्भीर मानिसहरू हौं। _END
+what are you washing?,START_ के धुँदै हुनुहुन्छ? _END
+what are you washing?,START_ तपाई के धुँदै हुनुहुन्छ? _END
+what are your duties?,START_ तिम्रा कर्तव्यहरु के के छन् ? _END
+what is bullfighting?,START_ बुलफाइटिंग भनेको के हो? _END
+what is bullfighting?,START_ गोरु जुदाई भनेको के हो? _END
+what was tom wearing?,START_ टमले के लगाएको थियो? _END
+whats that building?,START_ त्यो भवन के हो? _END
+wheres the restroom?,START_ शौचालय कहाँ छ? _END
+wheres your brother?,START_ तपाइको भाई कहाँ हुनुहुन्छ? _END
+why arent they here?,START_ तिनीहरू यहाँ किन छैनन्? _END
+you must be so angry.,START_ तपाई धेरै रिसाएको हुनुपर्छ। _END
+am i imagining things?,START_ के म चीजहरूको कल्पना गर्दैछु? _END
+are you in a bad mood?,START_ के तपाई खराब मुडमा हुनुहुन्छ? _END
+can you fix my laptop?,START_ के तपाईं मेरो ल्यापटप ठीक गर्न सक्नुहुन्छ? _END
+can you fix my laptop?,START_ के तपाईं मेरो ल्यापटप बनाउन सक्नुहुन्छ? _END
+can you identify that?,START_ के तपाईं त्यो पहिचान गर्न सक्नुहुन्छ? _END
+can you send it to me?,START_ के तपाईं मलाई पठाउन सक्नुहुन्छ? _END
+did you hear the bell?,START_ घण्टीको आवाज सुन्नु भयो? _END
+did you hear the bell?,START_ घण्टीको आवाज सुन्यौ? _END
+do you pray every day?,START_ के तपाईं हरेक दिन प्रार्थना गर्नुहुन्छ? _END
+he has a japanese car.,START_ उहाँसँग जापानी कार छ। _END
+he has a japanese car.,START_ ऊसँग जापानी कार छ। _END
+he has a large family.,START_ उहाँको ठूलो परिवार छ । _END
+he has a large family.,START_ उसको ठूलो परिवार छ। _END
+his car has no wheels.,START_ उसको कारमा पाङ्ग्रा छैनन्। _END
+i can write very fast.,START_ म धेरै छिटो लेख्न सक्छु। _END
+i cant bear the pain.,START_ म पीडा सहन सक्दिन। _END
+i cant eat that food.,START_ म त्यो खान सक्दिन। _END
+i chose the wrong one.,START_ मैले गलत रोजेँ। _END
+i hated history class.,START_ म इतिहासको कक्षालाई घृणा गर्थे। _END
+i have a grammar book.,START_ मसित व्याकरणको किताब छ​। _END
+i havent decided yet.,START_ मैले अझै निर्णय गरेको छैन। _END
+i know ive been shot.,START_ मलाई गोली लागेको थाहा छ। _END
+i liked what you said.,START_ तपाईले भनेको कुरा मलाई मन पर्यो। _END
+i liked what you said.,START_ तिमीले भनेको कुरा मलाई मन पर्यो। _END
+i must do that anyway.,START_ मैले जसरी पनि त्यो गर्नुपर्छ। _END
+i need you by my side.,START_ मलाई तिम्रो साथ चाहिन्छ। _END
+i often work with tom.,START_ म प्राय टमसँग काम गर्छु। _END
+i ran toward the door.,START_ म ढोकातिर दौडिए । _END
+i remember this place.,START_ म यो ठाउँ सम्झन्छु। _END
+i remember this place.,START_ मलाई यो ठाउँ याद छ। _END
+i want to be like you.,START_ म तिमी जस्तै बन्न चाहन्छु। _END
+i worked hard on that.,START_ त्यसमा मैले कडा मेहनत गरेँ। _END
+ill be there at once.,START_ म तत्कालै त्यहाँ जान्छु। _END
+ill show you my room.,START_ म तिमीलाई मेरो कोठा देखाउँछु। _END
+im apartment hunting.,START_ म अपार्टमेन्ट खोज्दै छु। _END
+im not even a member.,START_ म सदस्य पनि होइन । _END
+im your new roommate.,START_ म तिम्रो नयाँ रूममेट हुँ। _END
+im your new roommate.,START_ म तिम्रो नयाँ कोठामा बस्ने साथी हुँ। _END
+is tom afraid of mary?,START_ के टम मेरीसँग डराउँछन्? _END
+is sugar good for you?,START_ के तपाईंको लागि चिनी ठिक छ? _END
+is that a real tattoo?,START_ के त्यो वास्तविक ट्याटू हो? _END
+it was a nice feeling.,START_ यो एउटा राम्रो अनुभूति थियो। _END
+its causing problems.,START_ यसले समस्या निम्त्याइरहेको छ । _END
+its not raining hard.,START_ ठुलो पानी परेको छैन। _END
+just dont go outside.,START_ बस बाहिर नजानुहोस्। _END
+lets buy some apples.,START_ केही स्याउ किनौं। _END
+lets do this quietly.,START_ चुपचापसंग गरौं। _END
+may i use your toilet?,START_ के म तिम्रो शौचालय प्रयोग गर्न सक्छु? _END
+please take your time.,START_ कृपया आफ्नो समय लिनुहोस्। _END
+supplies are very low.,START_ आपूर्ति धेरै कम छ। _END
+tell tom what that is.,START_ टमलाई भन्नुहोस् कि त्यो के हो। _END
+thanks for the cookie.,START_ कुकीज को लागी धन्यवाद। _END
+that book is sold out.,START_ त्यो पुस्तक बिक्री भइसकेको छ। _END
+that isnt a bad idea.,START_ त्यो नराम्रो विचार होइन। _END
+that must be exciting.,START_ त्यो रोमाञ्चक हुनुपर्छ। _END
+thats toms daughter.,START_ ति टमकी छोरी हुन्। _END
+the bus has just left.,START_ बस भर्खरै छुट्यो। _END
+the moon has come out.,START_ चन्द्रमा निस्किसकेको छ । _END
+there was a thick fog.,START_ त्यहाँ बाक्लो कुहिरो थियो। _END
+"this is my wife, mary.",START_ यिनी मेरी श्रीमती मेरी हुन्। _END
+this is the wrong key.,START_ यो गलत चाबी हो। _END
+this room is for rent.,START_ यो कोठा भाडामा छ। _END
+this tea is too sweet.,START_ यो चिया धेरै गुलियो छ। _END
+tom can take anything.,START_ टम जे पनि लिन सक्छ। _END
+tom grabbed the candy.,START_ टमले मिठाई समात्यो। _END
+tom is a fast thinker.,START_ टम एक द्रुत विचारकर्ता हो। _END
+tom is not interested.,START_ टमलाई चासो छैन। _END
+tom is washing dishes.,START_ टम भाँडा धुँदै छ। _END
+tom killed the spider.,START_ टमले माकुरालाई मारे। _END
+tom likes to show off.,START_ टमलाई देखावटी गर्न मनपर्छ। _END
+tom loves apple juice.,START_ टमलाई स्याउको जुस मनपर्छ। _END
+tom put away his toys.,START_ टमले आफ्ना खेलौनाहरू राखे। _END
+tom said he was dying.,START_ टमले भनो कि ऊ मर्दैछ। _END
+tom wanted to succeed.,START_ टम सफल हुन चाहन्थे। _END
+tom was also offended.,START_ टम पनि आक्रोशित थियो। _END
+tom was told about it.,START_ टमलाई यसको बारेमा बताइयो। _END
+"tom wont go, will he?","START_ टम जानेछैन, के ऊ जान्छ? _END"
+we never said goodbye.,START_ हामीले कहिल्यै अलविदा भनेनौं। _END
+wed better get ready.,START_ हामी तयार हुनु राम्रो हुन्छ। _END
+well go after we eat.,START_ खाना खाइसकेपछि जान्छौं। _END
+what did you just say?,START_ भर्खरै के भन्नुभयो? _END
+what do ostriches eat?,START_ अस्ट्रिचले के खान्छ? _END
+where can we find you?,START_ हामी तपाईंलाई कहाँ भेट्टाउन सक्छौं? _END
+where is your brother?,START_ तपाइको भाई कहाँ हुनुहुन्छ? _END
+who is that old woman?,START_ ती वृद्धा को हुन्? _END
+whose booklet is that?,START_ त्यो पुस्तिका कसको हो ? _END
+why didnt you answer?,START_ तिमीले जवाफ किन नदिएको ? _END
+why shop there anyway?,START_ जे भए पनि त्यहाँ पसल किन ? _END
+will you let tom sing?,START_ के तपाइँ टमलाई गाउन दिनुहुनेछ? _END
+youre going to be ok.,START_ तपाईं ठीक हुन हुनुहुनेछ। _END
+your mother loves you.,START_ तिम्री आमाले तिमीलाई माया गर्नुहुन्छ। _END
+are you open on sunday?,START_ के तपाई आइतवार खाली हुनुहुन्छ? _END
+do you know about this?,START_ के तपाईलाई यसको बारेमा थाहा छ? _END
+do you live here alone?,START_ तिमी यहाँ एक्लै बस्छौ? _END
+do you live here alone?,START_ तपाई यहाँ एक्लै बस्नुहुन्छ? _END
+do you live here alone?,START_ त यहाँ एक्लै बस्छस्? _END
+"dont skip classes, ok?","START_ कक्षाहरू नछोड्नुहोस्, ठीक छ? _END"
+give me that iron ball.,START_ मलाई त्यो फलामको बल दिनुहोस्। _END
+give me that iron ball.,START_ मलाई त्यो फलामको बल देऊ। _END
+i am sixteen years old.,START_ म सोह्र वर्षको भएँ। _END
+i am sixteen years old.,START_ म सोह्र वर्षको हुँ। _END
+i decided to try again.,START_ मैले पुन: प्रयास गर्ने निर्णय गरें। _END
+i decided to try again.,START_ मैले फेरि प्रयास गर्ने निर्णय गरें। _END
+i decided to volunteer.,START_ मैले स्वयंसेवक हुने निर्णय गरें। _END
+i dont have seniority.,START_ मसँग वरिष्ठता छैन। _END
+i drink wine every day.,START_ म हरेक दिन वाइन पिउँछु। _END
+i got an a on my essay.,START_ मैले मेरो निबन्धमा ए पाएँ। _END
+i hate girls like that.,START_ म त्यस्ता केटीहरूलाई घृणा गर्छु। _END
+i kissed tom yesterday.,START_ मैले हिजो टमलाई चुम्बन गरें। _END
+i know tom is talented.,START_ मलाई थाहा छ टम प्रतिभाशाली छ। _END
+i know tom isnt happy.,START_ मलाई थाहा छ टम खुसी छैन। _END
+i must find the answer.,START_ यसको जवाफ मैले खोज्नुपर्छ। _END
+i must find the answer.,START_ यसको जवाफ मैले नखोजी हुदैन। _END
+i only eat kosher food.,START_ म कोषेर खाना मात्र खान्छु। _END
+i only eat kosher food.,START_ म कोषेर खाना बाहेक अरु खन्न। _END
+i really appreciate it.,START_ म साँच्चै यसको कदर गर्छु। _END
+i think i do good work.,START_ मलाई राम्रो काम गर्छु भन्ने लाग्छ। _END
+i went there yesterday.,START_ म हिजो त्यहाँ गएको थिएँ । _END
+i will not be defeated.,START_ म पराजित हुने छैन। _END
+ill pay for it myself.,START_ यसको लागि म आफैं तिर्नेछु। _END
+im literally starving.,START_ म साँच्चै भोकै छु। _END
+im not making changes.,START_ म परिवर्तन गरिरहेको छुइन। _END
+im on my way to toms.,START_ म टमको घर जाँदैछु। _END
+im ready for tomorrow.,START_ म भोलिको लागि तयार छु। _END
+im sure it isnt true.,START_ म पक्का छु कि यो सत्य होइन। _END
+ive got no complaints.,START_ मलाई कुनै गुनासो छैन। _END
+is it a recent picture?,START_ के यो हालको तस्वीर हो? _END
+is it unconstitutional?,START_ के यो असंवैधानिक हो? _END
+it was really exciting.,START_ यो साँच्चै रोमाञ्चक थियो। _END
+"its snowing here, too.",START_ यहाँ पनि हिउँ परेको छ । _END
+mosquitoes are insects.,START_ लामखुट्टे किराहरू हुन्। _END
+my mother is beautiful.,START_ मेरी आमा सुन्दर हुनुहुन्छ। _END
+my wifes name is mary.,START_ मेरी श्रीमतीको नाम मेरी हो। _END
+please make it cheaper.,START_ कृपया यसलाई सस्तो बनाउनुहोस्। _END
+she went to that store.,START_ उनी त्यो पसलमा गइन्। _END
+sometimes that happens.,START_ कहिलेकाहीँ त्यस्तो हुन्छ। _END
+thank you ever so much.,START_ सधैं धेरै धेरै धन्यवाद। _END
+thanks for the cookies.,START_ कुकीज को लागी धन्यवाद। _END
+that boys name is tom.,START_ त्यो केटाको नाम टम हो। _END
+thatll have to change.,START_ त्यो परिवर्तन गर्नुपर्छ। _END
+they got into the boat.,START_ तिनीहरू डुङ्गामा चढे। _END
+this is so humiliating.,START_ यो धेरै अपमानजनक छ। _END
+this tea is too bitter.,START_ यो चिया धेरै तितो छ। _END
+tom and i arent ready.,START_ टम र म अझै तयार छैनौं। _END
+tom broke his left arm.,START_ टमले आफ्नो देब्रे हात भाँच्यो। _END
+tom damaged the engine.,START_ टमले इन्जिनलाई क्षति पुर्यायो। _END
+tom eats a lot of fish.,START_ टमले धेरै माछा खान्छ। _END
+tom gave mary a kitten.,START_ टमले मेरीलाई एउटा बिरालोको बच्चा दिए। _END
+tom has a half-brother.,START_ टमको सौतेनी भाइ छ। _END
+tom has exams tomorrow.,START_ टमको भोलि परीक्षाहरु छन्। _END
+tom is my new roommate.,START_ टम मसँग कोठामा बस्ने नयाँ साथी हो। _END
+tom is reluctant to go.,START_ टम जान अनिच्छुक छ। _END
+tom is writing letters.,START_ टमले चिठीहरु लेख्दैछ। _END
+tom makes model planes.,START_ टमले नमुना विमानहरू बनाउँछ। _END
+tom needs an incentive.,START_ टमलाई प्रोत्साहनको आवश्यकता छ। _END
+tom only drinks coffee.,START_ टमले कफी मात्र पिउछ। _END
+tom wants a girlfriend.,START_ टम एक प्रेमिका चाहन्छ। _END
+tom wants a girlfriend.,START_ टम प्रेमिका चाहन्छ। _END
+tom was killed in .,START_ टमको हत्या सन् मा भएको थियो । _END
+we knew what to expect.,START_ के आशा गर्ने भन्ने हामीलाई थाहा थियो। _END
+we knew what to expect.,START_ हामीलाई के आशा गर्ने थाहा थियो। _END
+we walked to the store.,START_ हामी पसलतिर लाग्यौं। _END
+wed better not go now.,START_ हामी अब नजानु राम्रो हुन्छ। _END
+well meet you outside.,START_ हामी तपाईलाई बाहिर भेट्नेछौं। _END
+what do you plan to do?,START_ के गर्ने योजनामा हुनुहुन्छ? _END
+what do you want to do?,START_ तिमी के गर्न चाहान्छौ? _END
+what do you want to do?,START_ तपाई के गर्न चाहानुहुन्छ? _END
+when will you get back?,START_ तिमी कहिले फर्कनेछौ? _END
+who could ask for more?,START_ कसले धेरै माग्न सक्छ? _END
+who is this tom anyway?,START_ जे भए पनि यो टम को हो? _END
+why dont you eat beef?,START_ तपाई गाईको मासु किन खानु हुन्न ? _END
+wolves have long tails.,START_ ब्वाँसाको पुच्छर लामो हुन्छ। _END
+you can eat this fruit.,START_ यो फल खाए पनि हुन्छ। _END
+"you did very well, tom.","START_ तिमीले धेरै राम्रो गर्यौ, टम। _END"
+you wont see me again.,START_ तिमीले मलाई फेरि देख्ने छैनौ। _END
+youre a good teammate.,START_ तपाईं एक राम्रो टिममेट हुनुहुन्छ। _END
+youre always laughing.,START_ तपाईं सधैं हाँस्नुहुन्छ। _END
+youre not very polite.,START_ तिमी धेरै विनम्र छैनौ। _END
+youve made your point.,START_ तपाईंले आफ्नो कुरा राख्नुभएको छ। _END
+who is it? its tom.,START_ यो को हो? यो टम हो। _END
+a bear can climb a tree.,START_ भालु रूख चढ्न सक्छ। _END
+animals are our friends.,START_ जनावरहरू हाम्रा साथी हुन्। _END
+are you free on mondays?,START_ के तपाई सोमबार फ्री हुनुहुन्छ? _END
+are you free on mondays?,START_ के तपाई सोमबार खाली हुनुहुन्छ? _END
+are you willing to help?,START_ के तपाईं मद्दत गर्न इच्छुक हुनुहुन्छ? _END
+ask me something easier.,START_ मलाई केहि सजिलो सोध्नुहोस्। _END
+can you lower the price?,START_ तपाईं मूल्य कम गर्न सक्नुहुन्छ? _END
+could you call me later?,START_ के तपाईंले मलाई पछि कल गर्न सक्नुहुन्छ? _END
+did tom buy a lot today?,START_ के टमले आज धेरै किनेको छ? _END
+did tom buy a lot today?,START_ के टमले आज धेरै किन्यो ? _END
+did you buy a new phone?,START_ के तपाईंले नयाँ फोन किन्नु भयो? _END
+do you have cough drops?,START_ के तपाईसँग खोकी को औषधि छ? _END
+do you know what to say?,START_ के तपाईलाई थाहा छ के भन्ने हो? _END
+everythings going well.,START_ सबै कुरा राम्ररी चलिरहेको छ। _END
+exactly how old are you?,START_ ठ्याक्कै तपाईको उमेर कति हो? _END
+he is a friendly person.,START_ ऊ मिलनसार व्यक्ति छ। _END
+hes writing a book now.,START_ उनी अहिले किताब लेख्दै छन् । _END
+i am eighteen years old.,START_ म अठार वर्षको भएँ। _END
+i am eighteen years old.,START_ म अठार वर्षको हुँ। _END
+i am not going anywhere.,START_ म कतै जाँदै छैन। _END
+i believe i can do that.,START_ मलाई विश्वास छ म त्यो गर्न सक्छु। _END
+i collect foreign coins.,START_ म विदेशी मुद्रा सङ्कलन गर्छु। _END
+i could hear everything.,START_ म सबै कुरा सुन्न सक्थे। _END
+i danced all night long.,START_ म रातभरि नाचिरहेँ । _END
+i didnt know that rule.,START_ मलाई त्यो नियम थाहा थिएन। _END
+i dont blame you a bit.,START_ म तिमीलाई अलिकति पनि दोष दिन्न। _END
+i drink my coffee black.,START_ म मेरो कफी कालो पिउछु। _END
+i have nothing to share.,START_ मसँग बाँड्ने केही छैन । _END
+i know him only by name.,START_ मलाई उहाँको नाम मात्र थाहा छ। _END
+i lived in a small town.,START_ म एउटा सानो सहरमा बस्थे। _END
+i must admit i like tom.,START_ मैले मान्नु पर्छ कि म टमलाई मन पराउँछु। _END
+i only know him by name.,START_ मलाई उहाँको नाम मात्र थाहा छ। _END
+i play soccer every day.,START_ म हरेक दिन फुटबल खेल्छु। _END
+i really need your help.,START_ मलाई साँच्चै तपाईंको मद्दत चाहिन्छ। _END
+i slowly opened my eyes.,START_ मैले बिस्तारै आँखा खोलेँ। _END
+i think tom is talented.,START_ मलाई लाग्छ कि टम प्रतिभाशाली छ। _END
+i think its a bad idea.,START_ मलाई यो नराम्रो विचार हो जस्तो लाग्छ। _END
+i think youre mistaken.,START_ मलाई लाग्छ तपाईं गलत हुनुहुन्छ। _END
+i thought tom was happy.,START_ मैले सोचें कि टम खुसी थिए। _END
+i tried again and again.,START_ मैले धेरै पटक प्रयास गरें। _END
+i visited tom in boston.,START_ म बोस्टनमा टमलाई भेट्न गएँ। _END
+i want to wash my hands.,START_ म आफ्नो हात धुन चाहन्छु। _END
+i wish to see my father.,START_ म बुबालाई भेट्न चाहन्छु। _END
+ill be your tour guide.,START_ म तिम्रो टुर गाइड हुनेछु। _END
+ill meet you in boston.,START_ म तिमीलाई बोस्टनमा भेट्नेछु। _END
+"im a woman, not a girl.","START_ म महिला हुँ, केटी होइन। _END"
+im also from australia.,START_ म पनि अस्ट्रेलिया बाट हुँ । _END
+"im from australia, too.",START_ म पनि अस्ट्रेलिया बाट हुँ । _END
+it was nice knowing you.,START_ तिमीलाई चिन्दा राम्रो लाग्यो। _END
+it was nice knowing you.,START_ तपाईलाई चिन्न पाउँदा राम्रो लाग्यो। _END
+it was nice knowing you.,START_ तपाईलाई चिन्दा राम्रो लाग्यो। _END
+it will be hot tomorrow.,START_ भोलि गर्मी हुनेछ । _END
+look what theyre doing.,START_ हेर्नुहोस् तिनीहरू के गर्दैछन्। _END
+make it a little bigger.,START_ अलिक ठूलो बनाउनुहोस्। _END
+make it a little larger.,START_ अलिक ठूलो बनाउनुहोस्। _END
+make it a little louder.,START_ अलिक ठूलो बनाउनुहोस्। _END
+maybe theyll come back.,START_ सायद तिनीहरू फर्केर आउनेछन्। _END
+my birthday is tomorrow.,START_ मेरो जन्म दिन भोलि हो। _END
+my mother isnt at home.,START_ आमा घरमा हुनुहुन्न। _END
+please keep this secret.,START_ कृपया यसलाई गोप्य राख्नुहोस्। _END
+please show me the list.,START_ कृपया मलाई सूची देखाउनुहोस्। _END
+she is as busy as a bee.,START_ उनी मौरी जस्तै व्यस्त छिन्। _END
+sorry for being so late.,START_ धेरै ढिलो भएकोमा माफी चाहन्छु। _END
+that was unprofessional.,START_ त्यो अव्यवसायिक थियो। _END
+the door was still open.,START_ ढोका अझै खुल्ला थियो। _END
+the law is pretty clear.,START_ कानुन एकदमै स्पष्ट छ। _END
+the police came quickly.,START_ पुलिस छिट्टै आए। _END
+there are no exceptions.,START_ त्यहाँ कुनै अपवाद छैन। _END
+this is really exciting.,START_ यो साँच्चै रोमाञ्चक छ। _END
+tom blew out the candle.,START_ टमले मैनबत्ती निभाए। _END
+tom doesnt know french.,START_ टम फ्रान्सेली जान्दैन। _END
+tom is braver than i am.,START_ टम म भन्दा बहादुर छ। _END
+tom is doing all he can.,START_ टमले आफूले सक्ने सबै गरिरहेको छ। _END
+tom is still in the car.,START_ टम अझै कार भित्र छ। _END
+tom is writing a letter.,START_ टमले पत्र लेख्दैछ। _END
+tom is writing a letter.,START_ टमले चिठी लेख्दैछ। _END
+tom is writing a report.,START_ टमले रिपोर्ट लेख्दैछ। _END
+tom left because of you.,START_ टमले तिम्रो कारणले छोड्यो। _END
+tom said he felt lonely.,START_ टमले आफू एक्लो महसुस गरेको बताए। _END
+tom sang a song to mary.,START_ टमले मेरीको लागि एउटा गीत गाए। _END
+tom says mary was wrong.,START_ टम भन्छन् कि मेरी गलत थिहिन्। _END
+tom searched everywhere.,START_ टमले जताततै खोज्यो। _END
+tom wants to protect me.,START_ टम मेरो रक्षा गर्न चाहन्छ। _END
+tom was there yesterday.,START_ टम हिजो त्यहाँ थियो। _END
+tom wasnt the youngest.,START_ टम सबैभन्दा कान्छो थिएन। _END
+tom wears a tie to work.,START_ टमले काम गर्न टाई लगाउँछ। _END
+we cant live like this.,START_ हामी यसरी बाँच्न सक्दैनौं। _END
+we cant stay here long.,START_ हामी यहाँ लामो समय बस्न सक्दैनौ। _END
+we discussed what to do.,START_ हामीले के गर्ने भन्ने कुरा गर्यौँ। _END
+we dont have snow here.,START_ हामीसँग यहाँ हिउँ छैन। _END
+we have to be proactive.,START_ हामी सक्रिय हुनुपर्छ। _END
+we locked all the doors.,START_ हामीले सबै ढोकामा ताल्चा लगायौ। _END
+we should wait a little.,START_ हामीले थोरै पर्खनुपर्छ। _END
+what are we waiting for?,START_ हामी के पर्खिरहेका छौं? _END
+"what time is it, anyway?","START_ जे होस्, कति बजेको छ? _END"
+what time will you come?,START_ तिमी कति बजे आउने छौ? _END
+whats your wifes name?,START_ तिम्री श्रीमतीको नाम के हो? _END
+whens the next meeting?,START_ अर्को बैठक कहिले हुन्छ? _END
+which toe am i touching?,START_ म कुन औंला छुदैछु? _END
+who are you calling for?,START_ तपाई कसलाई बोलाउदै हुनुहुन्छ? _END
+who would notice anyway?,START_ जे भए पनि कसले ध्यान दिने ? _END
+why did tom do all this?,START_ किन टमले यो सबै गरे? _END
+why did you turn it off?,START_ किन बन्द गर्नुभएको ? _END
+you dont know who i am.,START_ तिमीलाई थाहा छैन म को हुँ। _END
+youd better stay quiet.,START_ तपाईं चुप लागेर बस्नु राम्रो हुन्छ। _END
+"as a rule, i dont drink.","START_ नियमको रूपमा, म पिउँदिन। _END"
+bring me a cup of coffee.,START_ मलाई एक कप कफी ल्याउनुहोस्। _END
+can i borrow your hammer?,START_ के म तिम्रो हथौडा उधारो लिन सक्छु? _END
+cant you leave me alone?,START_ के तिमी मलाई एक्लै छोड्न सक्दैनौ? _END
+christmas is almost here.,START_ क्रिसमस आइसकेको छ। _END
+did tom really kiss mary?,START_ के टमले साँच्चै मेरीलाई चुम्बन गरेको थियो? _END
+did you see tom steal it?,START_ के तपाईंले टमले चोरेको देख्नुभयो? _END
+does tom still play golf?,START_ के टम अझै पनि गल्फ खेल्छन्? _END
+how could you think that?,START_ तपाईं कसरी त्येस्तो सोच्न सक्नुहुन्छ? _END
+how did you convince tom?,START_ तपाईंले टमलाई कसरी मनाउनुभयो? _END
+how often do you do that?,START_ तपाईं कत्तिको त्यसो गर्नुहुन्छ? _END
+how tall is your brother?,START_ तिम्रो भाइ कति अग्लो छ? _END
+how tall is your brother?,START_ तिम्रो दाई कति अग्लो हुनुहुन्छ? _END
+i deserve to be rewarded.,START_ म पुरस्कृत हुन योग्य छु। _END
+i dont eat rice anymore.,START_ म अब भात खान्न। _END
+i dont have any regrets.,START_ मलाई कुनै पछुतो छैन। _END
+i dont have your number.,START_ मसँग तिम्रो नम्बर छैन। _END
+i have a lot of homework.,START_ म संग गृहकार्य धेरै छ। _END
+i have the same question.,START_ मेरो पनि एउटै प्रश्न छ। _END
+i know whats in the box.,START_ मलाई बक्समा के छ भनेर थाहा छ। _END
+i like the bright colors.,START_ मलाई उज्यालो रंग मन पर्छ। _END
+i like walking by myself.,START_ म एक्लै हिड्न रुचाउछु। _END
+i need a few suggestions.,START_ मलाई केही सुझावहरू चाहिन्छ। _END
+i really dont like dogs.,START_ मलाई साँच्चै कुकुरहरू मन पर्दैन। _END
+i saw him enter the room.,START_ मैले उसलाई कोठामा पसेको देखेँ। _END
+i think tom is obnoxious.,START_ मलाई लाग्छ टम अपमानजनक छ। _END
+i think we can handle it.,START_ मलाई लाग्छ हामी यसलाई सम्हाल्न सक्छौं। _END
+i thought it was obvious.,START_ मैले सोचे कि यो स्पष्ट छ। _END
+i took care of toms cat.,START_ मैले टमको बिरालोको हेरचाह गरें। _END
+i want to eat fried rice.,START_ म फ्राइड राइस खान चाहन्छु। _END
+i want to go and do that.,START_ म गएर त्यो गर्न चाहन्छु। _END
+id almost fallen asleep.,START_ म झन्डै निदाएको थिए । _END
+ill be there right away.,START_ म तुरुन्तै त्यहाँ जान्छु। _END
+ill be there right away.,START_ म तत्कालै त्यहाँ जान्छु। _END
+ill call you right back.,START_ म तिमीलाई तुरुन्तै फोन गर्छु। _END
+ill do whatever you ask.,START_ तपाईले जे सोध्नुहुन्छ म गर्नेछु। _END
+im not in love with you.,START_ म तिम्रो मायामा छैन। _END
+im very grateful to you.,START_ म तपाईप्रति धेरै आभारी छु। _END
+it didnt seem necessary.,START_ यो आवश्यक देखिएन। _END
+its not difficult to do.,START_ यो गर्न कठिन छैन। _END
+its not difficult to do.,START_ यो गर्नलाई धेरै गाह्रो छैन। _END
+its not difficult to do.,START_ यो त्यति मुस्किल छैन। _END
+may i turn off the radio?,START_ के म रेडियो बन्द गर्न सक्छु? _END
+may i turn the radio off?,START_ के म रेडियो बन्द गर्न सक्छु? _END
+my birthday is next week.,START_ मेरो जन्मदिन अर्को हप्ता हो। _END
+my kid brother is twelve.,START_ मेरो भाई वर्षको छ। _END
+my list has thirty names.,START_ मेरो लिस्टमा तीस वटा नामहरू छन् । _END
+my mother is not at home.,START_ आमा घरमा हुनुहुन्न। _END
+"my name is tom, not john.","START_ मेरो नाम जोन होइन, टम हो। _END"
+please turn on the radio.,START_ कृपया रेडियो खोल्नुहोस्। _END
+please water the flowers.,START_ कृपया फूलहरूमा पानी हाल्नुहोस्। _END
+stop being so nice to me.,START_ मसँग यति राम्रो नबन्नुहोस। _END
+take him to the hospital.,START_ उसलाई अस्पताल लैजानुहोस्। _END
+take him to the hospital.,START_ उहाँलाई अस्पताल लैजानुहोस्। _END
+take this to your mother.,START_ यसलाई आमालाई लगेर दिनुहोस्। _END
+ten years is a long time.,START_ दश वर्ष लामो समय हो। _END
+that house is very small.,START_ त्यो घर साँच्चै सानो छ। _END
+that looks like it hurts.,START_ त्यसले दुख्छ जस्तो लाग्छ। _END
+the girl washed her hair.,START_ केटीले आफ्नो कपाल धोइन्। _END
+theres been an accident.,START_ त्यहाँ दुर्घटना भएको छ। _END
+these flowers are pretty.,START_ यी फूलहरू सुन्दर छन्। _END
+this is a very tall tree.,START_ यो एकदमै अग्लो रुख हो। _END
+this is a very tall tree.,START_ यो रुख एकदमै अग्लो छ। _END
+tom and mary are dieting.,START_ टम र मेरी डाइट गर्दै छन्। _END
+tom became quite wealthy.,START_ टम धेरै धनी भए। _END
+tom destroyed everything.,START_ टमले सबै कुरा नष्ट गर्यो। _END
+tom didnt have a ticket.,START_ टमसँग कुनै टिकट थिएन। _END
+tom got a little excited.,START_ टम अलिकति उत्साहित भयो। _END
+tom had a very good time.,START_ टमले धेरै राम्रो समय बिताएको थियो। _END
+tom has a beautiful wife.,START_ टमकि सुन्दर श्रीमती छिन्। _END
+tom has a little brother.,START_ टमको एउटा भाइ छ। _END
+tom is working on it now.,START_ टम अहिले यसमा काम गरिरहेका छ। _END
+tom is working on it now.,START_ टम अहिले यसमा काम गर्दैछ। _END
+tom is working right now.,START_ टम अहिले काम गरिरहेको छ। _END
+"tom isnt jealous, is he?","START_ टम ईर्ष्यालु छैन, हो? _END"
+tom isnt very important.,START_ टम धेरै महत्त्वपूर्ण छैन। _END
+tom loved helping people.,START_ टम मानिसहरूलाई मद्दत गर्न मन पराउँथे। _END
+tom made a serious error.,START_ टमले गम्भीर गल्ती गर्‍यो। _END
+tom only has one shoe on.,START_ टमले एउटा मात्र जुत्ता लगाएको छ। _END
+tom pulled out his phone.,START_ टमले आफ्नो फोन निकाल्यो। _END
+tom said he felt awkward.,START_ टमले आफूलाई अप्ठ्यारो महसुस भएको बताए। _END
+tom sang a song for mary.,START_ टमले मेरीको लागि एउटा गीत गाए। _END
+tom says that hes happy.,START_ टम भन्छन् कि उनी खुशी छन्। _END
+tom was faster than mary.,START_ टम मेरी भन्दा छिटो थियो। _END
+tom was in constant pain.,START_ टम निरन्तर पीडामा थिए। _END
+tom was killed by a bull.,START_ टमलाई गोरुले मारेको थियो। _END
+tom was killed by a bull.,START_ टम गोरुले द्वारा मारिएको थियो। _END
+tom went to marys house.,START_ टम मेरीको घर गए। _END
+tom worked at a hospital.,START_ टम अस्पतालमा काम गर्थे। _END
+tom worked at a hospital.,START_ टमले अस्पतालमा काम गरेको थियो। _END
+tomorrow is fathers day.,START_ भोलि बुबाको मुख हेर्ने दिन हो। _END
+try to eat a little more.,START_ अलि बढी खाने कोसिस गर्नुहोस्। _END
+we put on our sunglasses.,START_ हामीले हाम्रो सनग्लास लगायौं। _END
+we put our sunglasses on.,START_ हामीले हाम्रो सनग्लास लगायौं। _END
+we wont take it anymore.,START_ अब हामी यसलाई लिने छैनौं। _END
+what do you use this for?,START_ तपाइँ यो के को लागी प्रयोग गर्नुहुन्छ? _END
+what shall we talk about?,START_ हामी के को बारेमा कुरा गर्ने? _END
+whats tom worried about?,START_ टमलाई केको चिन्ता छ? _END
+whats toms wifes name?,START_ टमकी श्रीमतीको नाम के हो? _END
+where can i buy a ticket?,START_ म कहाँ टिकट किन्न सक्छु? _END
+who is tom talking about?,START_ टम कसको बारेमा कुरा गर्दै हुनुहुन्छ? _END
+who painted this picture?,START_ यो तस्विर कसले बनाएको हो ? _END
+why is everybody in here?,START_ किन सबैजना यहाँ छन्? _END
+why isnt tom doing this?,START_ टमले किन यो गरिरहेको छैन? _END
+you didnt let me finish.,START_ तपाईंले मलाई पूरा गर्न दिनुभएन। _END
+you didnt let me finish.,START_ तिमीले मलाई समाप्त गर्न दिएनौ। _END
+you have great potential.,START_ तपाईंसँग ठूलो क्षमता छ। _END
+you must answer honestly.,START_ तपाईले इमानदारीपूर्वक जवाफ दिनुपर्छ। _END
+you were very convincing.,START_ तपाईं धेरै विश्वस्त हुनुहुन्थ्यो। _END
+your french is excellent.,START_ तपाईंको फ्रान्सेली उत्कृष्ट छ। _END
+who is this? its tom.,START_ यो को हो? यो टम हो। _END
+a gentle rain was falling.,START_ हल्का पानी परिरहेको थियो। _END
+all those boxes are empty.,START_ ती सबै बक्सहरू खाली छन्। _END
+do you actually like this?,START_ के तपाई साँच्चै यो मनपर्छ? _END
+do you think tom did that?,START_ के तपाई टमले त्यसो गर्नुभयो जस्तो लाग्छ? _END
+dont look out the window.,START_ झ्यालबाट बाहिर नहेर्नुस्। _END
+dont look out the window.,START_ झ्यालबाट बाहिर नहेर। _END
+have you been lying to me?,START_ के तिमीले मसँग झूट बोलेको छौ ? _END
+have you learned anything?,START_ के तपाईंले केही सिक्नुभयो? _END
+have you learned anything?,START_ के तिमिले केही सिकेउ? _END
+have you learned anything?,START_ के तैले केही सिकिस? _END
+have you seen tom tonight?,START_ के तपाईंले आज राती टमलाई देख्नुभएको छ? _END
+he can run faster than me.,START_ ऊ म भन्दा छिटो कुद्छ। _END
+he can run faster than me.,START_ ऊ म भन्दा छिटो कुद्न सक्छ। _END
+he helped me fix my watch.,START_ उहाँले मलाई मेरो घडी मिलाउन मद्दत गर्नुभयो। _END
+he seems to have been ill.,START_ ऊ बिरामी थियो जस्तो देखिन्छ। _END
+he used to be a gentleman.,START_ उहाँ पहिले सज्जन हुनुहुन्थ्यो। _END
+he used to be a gentleman.,START_ ऊ पहिले सज्जन थियो। _END
+he wants to learn to swim.,START_ उनी पौडी खेल्न सिक्न चाहन्छन्। _END
+he wants to learn to swim.,START_ ऊ पौडी खेल्न सिक्न चाहन्छ। _END
+how many santas are there?,START_ त्यहाँ कति सान्ताहरू छन्? _END
+how much milk did you buy?,START_ तपाईले कति दुध किन्नु भयो ? _END
+i am forever in your debt.,START_ म तिम्रो ऋणमा सदाको लागि छु। _END
+i believe that hes happy.,START_ मलाई लाग्छ ऊ खुसी छ। _END
+i cant find the rosemary.,START_ म रोजमेरी फेला पार्न सक्दिन। _END
+i cant find the rosemary.,START_ मैले रोजमेरी भेट्टाउन सक्दिन। _END
+i cant miss that meeting.,START_ म त्यो बैठक छुटाउन सक्दिन। _END
+i cant see the price tag.,START_ म मूल्य ट्याग देख्न सक्दिन। _END
+i didnt know what to say.,START_ मलाई के भन्ने थाहा थिएन। _END
+i dont even want to know.,START_ म जान्न पनि चाहन्न। _END
+i dont think i like that.,START_ मलाई लाग्दैन कि मलाई त्यो मनपर्छ। _END
+i dont want any crackers.,START_ मलाई कुनै पटाका चाहिदैन। _END
+i dont want any pancakes.,START_ मलाई कुनै प्यानकेक चाहिदैन। _END
+i dont want any problems.,START_ म कुनै समस्या चाहन्न। _END
+i dont want to be killed.,START_ म मारिन चाहन्न। _END
+i dont want to die alone.,START_ म एक्लै मर्न चाहन्न। _END
+i dont want to fight you.,START_ म तिमीसँग लड्न चाहन्न। _END
+i dont want to forget it.,START_ म यसलाई बिर्सन चाहन्न। _END
+i dont want to hear that.,START_ म त्यो सुन्न चाहन्न। _END
+i dont want to hear this.,START_ म यो सुन्न चाहन्न। _END
+i dont want to leave tom.,START_ म टमलाई छोड्न चाहन्न। _END
+i dont want to leave you.,START_ म तिमीलाई छोड्न चाहन्न। _END
+i dont want to marry tom.,START_ म टमसँग बिहे गर्न चाहन्न। _END
+i dont want to overreact.,START_ म अति प्रतिक्रिया गर्न चाहन्न। _END
+i dont want to shoot you.,START_ म तिमीलाई गोली हान्न चाहन्न। _END
+i dont want to sign that.,START_ म त्यसमा हस्ताक्षर गर्न चाहन्न। _END
+i dont want to stay here.,START_ म यहाँ बस्न चाहन्न। _END
+i dont want to upset you.,START_ म तिमीलाई विचलित गर्न चाहन्न। _END
+i dont want you involved.,START_ म तपाईलाई संलग्न गराउन चाहन्न। _END
+i dont want you to leave.,START_ म तिमीलाई छोड्न चाहन्न। _END
+i dont want you to worry.,START_ म तिमीले चिन्ता गरेको चाहन्न। _END
+i dont want your charity.,START_ मलाई तिम्रो परोपकार चाहिदैन। _END
+i dont want your opinion.,START_ मलाई तिम्रो राय चाहिदैन। _END
+i dont want your opinion.,START_ म तिम्रो राय चाहन्न। _END
+i drink tea without sugar.,START_ म चिनी बिनाको चिया पिउँछु । _END
+i have a lot of back pain.,START_ मलाई धेरै ढाड दुख्ने समस्या छ। _END
+i heard a good joke today.,START_ मैले आज एउटा राम्रो चुट्किला सुने। _END
+i hope i didnt scare tom.,START_ मलाई आशा छ कि मैले टमलाई डराएको छैन। _END
+i just want to find a cab.,START_ म बस एउटा ट्याक्सी खोज्न चाहन्छु। _END
+i just want to watch this.,START_ म यो मात्र हेर्न चाहन्छु। _END
+i just want you to listen.,START_ म केवल तपाईंले सुनेको चाहन्छु। _END
+i know how tom got strong.,START_ मलाई थाहा छ टम कसरी बलियो भयो। _END
+i know that tom is in bed.,START_ मलाई थाहा छ टम ओछ्यानमा छ। _END
+i really liked your story.,START_ मलाई तपाईको कथा साँच्चै मन पर्यो। _END
+i really liked your story.,START_ मलाई तिम्रो कथा साँच्चै मन पर्यो। _END
+i really want to help you.,START_ म साँच्चै तपाईंलाई मद्दत गर्न चाहन्छु। _END
+i really want to meet tom.,START_ म साँच्चै टमलाई भेट्न चाहन्छु। _END
+i sent tom back to boston.,START_ मैले टमलाई बोस्टन फिर्ता पठाएँ। _END
+i stopped drinking coffee.,START_ मैले कफी पिउन छाडिदिएँ। _END
+i suspect tom is involved.,START_ मलाई शंका छ टम संलग्न छ। _END
+i think that youre wrong.,START_ मलाई लाग्छ तपाईं गलत हुनुहुन्छ। _END
+i usually dream in french.,START_ म सामान्यतया फ्रान्सेलीमा सपना देख्छु। _END
+i want a few more minutes.,START_ मलाई अझै केही मिनेट चाहिन्छ। _END
+i want it to be a success.,START_ म यो सफल होस् भन्ने चाहन्छु। _END
+i want my dollars back.,START_ म मेरो डलर फिर्ता चाहन्छु। _END
+i want my kids to be safe.,START_ म मेरो बच्चाहरु सुरक्षित हुन भन्ने चाहन्छु। _END
+i want new business cards.,START_ म नयाँ व्यापार कार्ड चाहन्छु। _END
+i want the truth from you.,START_ म तिमीबाट सत्य चाहन्छु। _END
+i want to ask you a favor.,START_ म तपाईलाई एउटा कृपा सोध्न चाहन्छु। _END
+i want to be here for tom.,START_ म टमको लागि यहाँ हुन चाहन्छु। _END
+i want to be your husband.,START_ म तिम्रो श्रीमान बन्न चाहन्छु। _END
+i want to contribute more.,START_ म थप योगदान गर्न चाहन्छु। _END
+i want to stretch my legs.,START_ म मेरो खुट्टा फैलाउन चाहन्छु। _END
+i wrote you three letters.,START_ मैले तिमीलाई तीनवटा पत्र लेखेको छु । _END
+id never let tom kiss me.,START_ मैले टमलाई कहिल्यै चुम्बन गर्न दिइनँ। _END
+ill be there in a minute.,START_ म तत्कालै त्यहाँ जान्छु। _END
+im not here to celebrate.,START_ म यहाँ उत्सव मनाउन आएको होइन। _END
+it is likely to rain soon.,START_ छिट्टै पानी पर्ने जस्तो देखिन्छ। _END
+its five minutes to nine.,START_ बज्न मिनेट बाँकी छ। _END
+its getting dark outside.,START_ बाहिर अँध्यारो हुँदैछ। _END
+lets remember to do that.,START_ त्यसो गर्न सम्झौं। _END
+my birthday is in october.,START_ मेरो जन्मदिन अक्टोबरमा हो। _END
+my father isnt talkative.,START_ मेरो बुबा मौन हुनुहुन्छ। _END
+my father isnt talkative.,START_ मेरो बुबा खासै बोल्नु हुन्न। _END
+my name isnt on the list.,START_ सूचीमा मेरो नाम छैन। _END
+only tom knows the answer.,START_ टमलाई मात्र जवाफ थाहा छ। _END
+put this in your backpack.,START_ यसलाई आफ्नो झोलामा राख्नुहोस्। _END
+tell me what your name is.,START_ तिम्रो नाम के हो भन। _END
+the cows are eating grass.,START_ गाईहरूले घाँस खाइरहेका छन्। _END
+the station is pretty far.,START_ स्टेशनबाट अलि टाढा छ। _END
+the street is very narrow.,START_ त्यो गल्ली निकै साँघुरो छ। _END
+they were waiting for tom.,START_ उनीहरू टमलाई पर्खिरहेका थिए। _END
+they were waiting for tom.,START_ तिनीहरू टमको प्रतीक्षा गर्दै थिए। _END
+this dress suits you well.,START_ यो पोशाक तपाईलाई राम्रोसँग सुहाउँछ। _END
+this dress suits you well.,START_ यो लुगाले तपाईलाई राम्रो देखिन्छ। _END
+"today is my birthday, too.",START_ आज मेरो पनि जन्मदिन हो। _END
+tom and i danced together.,START_ टम र म सँगै नाच्यौं। _END
+tom and mary are finished.,START_ टम र मेरी ले सकाए। _END
+tom and mary like cycling.,START_ टम र मेरी साइकल चलाउन मन पराउँछन्। _END
+tom and mary will do that.,START_ टम र मेरीले त्यो गर्नेछन्। _END
+tom ate all the ice cream.,START_ टमले सबै आइसक्रिम खायो। _END
+tom burned marys picture.,START_ टमले मेरीको तस्बिर जलाए। _END
+tom burned marys picture.,START_ टमले मेरीको तस्बिर जलायो। _END
+tom cant write very well.,START_ टम धेरै राम्रो लेख्न सक्दैन। _END
+tom didnt run after mary.,START_ टम मेरीको पछि दौडिएन। _END
+tom felt quite threatened.,START_ उनीहरूले जे गर्नुपर्छ त्यही गर्छन्। _END
+tom has a younger brother.,START_ टमको एउटा भाइ छ। _END
+tom has changed his plans.,START_ टमले आफ्नो योजनाहरू परिवर्तन गरेको छ। _END
+"tom is talented, isnt he?","START_ टम प्रतिभाशाली छ, हैन? _END"
+tom is the name of my son.,START_ टम मेरो छोराको नाम हो। _END
+tom is the teams captain.,START_ टम टोलीको कप्तान हो। _END
+tom looked a bit confused.,START_ टम अलि अलमलमा परेको देखियो । _END
+tom opened the front door.,START_ टमले अगाडिको ढोका खोल्यो। _END
+tom plans to study french.,START_ टमले फ्रान्सेली अध्ययन गर्ने योजना बनायो। _END
+tom plans to study french.,START_ टमले फ्रान्सेली पढ्ने योजना बनाए। _END
+tom pretended not to look.,START_ टमले नदेखेको बहाना गरे। _END
+tom tried to fix the gate.,START_ टमले गेट बनाउने कोसिस गर्यो। _END
+tom was able to help mary.,START_ टम मेरीलाई मद्दत गर्न सक्षम थिए। _END
+tom was my boyfriend then.,START_ टम त्यतिबेला मेरो प्रेमी थियो। _END
+tom was quicker than mary.,START_ टम मेरी भन्दा छिटो थियो। _END
+tom was quicker than mary.,START_ टम मेरी भन्दा छिटो थिए। _END
+tom would agree with that.,START_ टम त्यसमा सहमत हुनेछन्। _END
+toms dog bit marys hand.,START_ टमको कुकुरले मेरीको हातमा टोक्यो। _END
+toms stuff is everywhere.,START_ टमको सामान जताततै छ। _END
+toms wifes name is mary.,START_ टमकी श्रीमतीको नाम मेरी हो। _END
+well be here for a while.,START_ हामी केही समयको लागि यहाँ हुनेछौं। _END
+weve got a real good car.,START_ हामीसँग साँच्चै राम्रो कार छ। _END
+welcome to our small town.,START_ हाम्रो सानो सहरमा स्वागत छ। _END
+were you able to help tom?,START_ के तपाइँ टमलाई मद्दत गर्न सक्षम हुनुहुन्थ्यो? _END
+what do you think of this?,START_ यसबारे तपाईलाई के लाग्छ? _END
+what have you seen so far?,START_ अहिलेसम्म के देख्नुभयो ? _END
+what would you like to do?,START_ तिमी के गर्न चाहान्छौ? _END
+what would you like to do?,START_ तपाई के गर्न चाहानुहुन्छ? _END
+"who is taller, you or tom?","START_ को अग्लो छ, तपाईं वा टम? _END"
+why dont they talk to me?,START_ तिनीहरू मसँग किन बोल्दैनन्? _END
+why havent you asked tom?,START_ तपाईंले टमलाई किन सोध्नुभएको छैन? _END
+why havent you asked tom?,START_ तपाईंले टमलाई किन सोध्नुभएन? _END
+will we have to wait long?,START_ के हामीले लामो समय पर्खनुपर्ने हो? _END
+you need to pay attention.,START_ तपाईंले ध्यान दिन आवश्यक छ। _END
+youll never see me again.,START_ तिमीले मलाई फेरि कहिल्यै देख्ने छैनौ। _END
+a friend lent me that book.,START_ त्यो किताब साथिबाट उधारो पाएको हो। _END
+a lot of people came today.,START_ आज धेरै मान्छे आए । _END
+act as if nothing happened.,START_ केही भएको छैन जस्तो व्यवहार गर्नुहोस्। _END
+are mary and alice sisters?,START_ के मेरी र एलिस दिदी-बहिनी हुन्? _END
+can you give me an example?,START_ के तपाईं मलाई एउटा उदाहरण दिन सक्नुहुन्छ? _END
+can you guess what this is?,START_ के तपाई अनुमान गर्न सक्नुहुन्छ यो के हो? _END
+can you guess what this is?,START_ के तिमी अनुमान गर्न सक्छौ यो के हो? _END
+can you please repeat that?,START_ के तपाइँ यसलाई दोहोर्याउन सक्नुहुन्छ? _END
+can you remember this game?,START_ के तपाइँ यो खेल याद गर्न सक्नुहुन्छ? _END
+do you have any bad habits?,START_ के तपाईको कुनै नराम्रो बानी छ? _END
+do you have to leave today?,START_ के आज तपाईले छोड्नु पर्ने हो ? _END
+do you think youre strong?,START_ के तपाईं बलियो हुनुहुन्छ जस्तो लाग्छ? _END
+do you think youre strong?,START_ के तलाई बलियो छु जस्तो लाग्छ? _END
+do you think youre strong?,START_ के तिमीलाई बलियो छु जस्तो लाग्छ? _END
+do you want us to help you?,START_ के तपाई हामीले तपाईलाई मद्दत गरुन भन्ने चाहनुहुन्छ? _END
+do you want us to help you?,START_ के तिमी हामीले तिमीलाई मद्दत गरुन भन्ने चाहान्छौ? _END
+express your ideas clearly.,START_ आफ्ना विचारहरू स्पष्ट रूपमा व्यक्त गर्नुहोस्। _END
+he comes round once a week.,START_ उनी हप्तामा एकपटक आउँछन् । _END
+he was seen to go upstairs.,START_ ऊ माथिल्लो तलामा गएको देखियो। _END
+how old is the lead singer?,START_ प्रमुख गायक कति वर्षको हो ? _END
+i apologize for being late.,START_ ढिलो भएकोमा माफी चाहन्छु। _END
+i brought tom some cookies.,START_ मैले टमलाई केही कुकीहरू किनें। _END
+"i dance, but not very well.","START_ म नाच्छु, तर खासै राम्रो छैन। _END"
+i didnt eat any more rice.,START_ मैले अब भात खाइनँ । _END
+"i dont care, but tom does.","START_ मलाई वास्ता छैन, तर टमलाई छ। _END"
+i dont eat rice every day.,START_ म हरेक दिन भात खान्न। _END
+i dont have any allergies.,START_ मलाई खासै केहीको पनि एलर्जी छैन। _END
+i guess its time to leave.,START_ मलाई लाग्छ यो छोड्ने समय हो। _END
+i know that im overweight.,START_ मलाई थाहा छ मेरो तौल धेरै छ। _END
+i often visit my relatives.,START_ म प्रायः मेरा आफन्तहरूलाई भेट्न जान्छु। _END
+i prefer walking to riding.,START_ म गाडीमा चढ्न भन्दा हिड्न रुचाउँछु। _END
+i swear that im not drunk.,START_ म कसम खान्छु कि म मातेको छैन। _END
+i think tom is working now.,START_ मलाई लाग्छ टम अहिले काम गरिरहेको छ। _END
+i think youre a great guy.,START_ मलाई लाग्छ तपाईं एक महान मान्छे हुनुहुन्छ। _END
+i was too drunk to do that.,START_ म त्यसो गर्नको लागि धेरै मातेको थिए। _END
+i wonder what tom would do.,START_ म आश्चर्यचकित छु कि टम के गर्ला। _END
+id like to report a theft.,START_ म चोरी रिपोर्ट गर्न चाहन्छु। _END
+ill see you all in boston.,START_ म तिमीहरु सबै बोस्टन मा भेट्नेछु। _END
+im from australia as well.,START_ म पनि अस्ट्रेलिया बाट हुँ । _END
+im looking for my brother.,START_ म भाईलाई खोज्दै छु। _END
+im not guilty of anything.,START_ मसँग केही पनि पछुतो छैन। _END
+im pretty bored right now.,START_ मलाई अहिले निकै बोर लागेको छ। _END
+im really grateful to you.,START_ म तपाईप्रति धेरै आभारी छु। _END
+ive got to cut toms hair.,START_ मैले टमको कपाल काट्नु परेको छ। _END
+ive never stolen anything.,START_ मैले कहिल्यै केही चोरेको छैन। _END
+it seemed that he was sick.,START_ ऊ बिरामी भएजस्तो लाग्थ्यो । _END
+it was nice and cool there.,START_ त्यहाँ राम्रो र सितल थियो। _END
+its : in the afternoon.,START_ अहिले दिउँसोको : बजेको छ। _END
+maybe you need to help tom.,START_ सायद तपाईंले टमलाई मद्दत गर्नु पर्छ। _END
+maybe you wont believe me.,START_ सायद तिमीले मलाई विश्वास गर्दैनौ। _END
+my birthday is coming soon.,START_ मेरो जन्मदिन चाँडै आउँदैछ। _END
+my birthday is next monday.,START_ मेरो जन्मदिन अर्को सोमबार हो। _END
+my first boyfriend was tom.,START_ मेरो पहिलो प्रेमी टम थियो। _END
+my toolbox is in the trunk.,START_ मेरो औजार बाकस ट्रंक मा छ। _END
+no one brought us anything.,START_ हामीलाई कसैले केही ल्याएनन्। _END
+"obviously, tom is talented.","START_ स्पष्ट रूपमा, टम प्रतिभाशाली छ। _END"
+"oh, thats ancient history!","START_ ओहो, त्यो पुरानो इतिहास हो! _END"
+old people deserve respect.,START_ ज्येष्ठ नागरिकलाई सम्मान गर्नुपर्छ। _END
+quite a few people do that.,START_ थोरै मानिसले त्यसो गर्छन्। _END
+some people would say that.,START_ कतिपयले त्यसो भन्न सक्छन्। _END
+that house is really small.,START_ त्यो घर साँच्चै सानो छ। _END
+thats not what tom wanted.,START_ यो होइन जुन टमले चाहेको थियो। _END
+the place was empty inside.,START_ भित्र ठाउँ खाली थियो । _END
+this could save many lives.,START_ यसले धेरैको ज्यान बचाउन सक्छ। _END
+this old coin is very rare.,START_ यो पुरानो सिक्का धेरै दुर्लभ छ। _END
+thisll only take a moment.,START_ यसले केही क्षण मात्र लिनेछ। _END
+tom jackson lived to be .,START_ टम ज्याक्सन वर्षसम्म बाँचेका थिए । _END
+tom and mary can both swim.,START_ टम र मेरी दुवै पौडी खेल्न सक्छन्। _END
+tom and mary live in a van.,START_ टम र मेरी एउटा भ्यानमा बस्छन्। _END
+tom called me to apologize.,START_ टमले माफी माग्न फोन गरे। _END
+tom didnt know the system.,START_ टमलाई प्रणालीको बारेमा थाहा थिएन। _END
+tom didnt want to keep it.,START_ टम यसलाई राख्न चाहँदैनन्। _END
+tom disappeared in october.,START_ टम अक्टोबरमा बेपत्ता भयो। _END
+tom has a chemistry degree.,START_ टमसँग रसायनशास्त्रको डिग्री छ। _END
+tom heard someone laughing.,START_ टमले कोही हाँसेको सुने। _END
+tom is at school right now.,START_ टम अहिले स्कूलमा छ। _END
+tom is certain to complain.,START_ टमले गुनासो गर्ने निश्चित छ। _END
+tom is coming back tonight.,START_ टम आज राती फर्किनेछ। _END
+tom is expecting your call.,START_ टम तपाईंको कलको प्रतीक्षा गर्दै छ। _END
+tom is expecting your call.,START_ टम तपाईंको कलको प्रतीक्षा गर्दै छन्। _END
+tom is expecting your call.,START_ टम तिम्रो कलको प्रतीक्षा गर्दै छन् । _END
+tom is extremely ambitious.,START_ टम अत्यन्तै महत्वाकांक्षी छ। _END
+tom is extremely ambitious.,START_ टम अत्यन्त महत्वाकांक्षी छ। _END
+tom is sitting on the wall.,START_ टम पर्खालमा बसिरहेको छ। _END
+tom is working with us now.,START_ टम अहिले हामीसँग काम गर्दैछ। _END
+tom lives with his parents.,START_ टम आफ्ना आमाबाबुसँग बस्छन्। _END
+tom often plays by himself.,START_ टम अक्सर एक्लै खेल्छन्। _END
+tom often plays by himself.,START_ टम प्रायः एक्लै खेल्छन्। _END
+tom said that he was sorry.,START_ टमले भने कि उनी माफी चाहन्छन्। _END
+tom thinks mary is my name.,START_ टमले मेरो नाम मेरी हो भन्ने सोच्दछ। _END
+tom thinks its impossible.,START_ टमले यो असम्भव छ भन्ने सोच्दछ। _END
+toms suitcase looks heavy.,START_ टमको सुटकेस भारी देखिन्छ। _END
+we dont know who did this.,START_ हामीलाई थाहा छैन यो कसले गर्यो। _END
+we hope that our team wins.,START_ हामी आशा गर्छौं कि हाम्रो टोलीले जित्छ। _END
+we really had a lot of fun.,START_ हामीले साँच्चै धेरै रमाइलो गर्यौं। _END
+we should eat healthy food.,START_ हामीले स्वस्थकर खानेकुरा खानुपर्छ। _END
+we tossed a coin to decide.,START_ हामीले निर्णय गर्न सिक्का फ्याँक्यौं। _END
+what language do you speak?,START_ कुन भाषा बोल्दै हुनुहुन्छ ? _END
+which house do you live in?,START_ कुन घरमा बस्नुहुन्छ? _END
+"who is taller, tom or mary?","START_ को अग्लो छ, टम वा मेरी? _END"
+who is your favorite actor?,START_ तपाईलाई मन पर्ने कलाकार को हो? _END
+you may choose any of them.,START_ तपाईंले ती मध्ये कुनै पनि रोज्न सक्नुहुन्छ। _END
+you should get out of town.,START_ तिमी सहरबाट निस्किनुपर्छ। _END
+youd better do that again.,START_ तपाईंले त्यो फेरि गर्नु राम्रो हुन्छ। _END
+youre part of the problem.,START_ तपाईं समस्या को एक हिस्सा हुनुहुन्छ। _END
+youre supposed to be busy.,START_ तपाईं व्यस्त हुनु पर्छ। _END
+"actually, it was my mistake.","START_ वास्तवमा, यो मेरो गल्ती थियो। _END"
+are your children all right?,START_ तिम्रा छोराछोरी सन्चै छन् ? _END
+children grow up so quickly.,START_ बच्चाहरू छिट्टै हुर्किन्छन् । _END
+english is spoken in canada.,START_ क्यानडामा अंग्रेजी बोलिन्छ। _END
+"first think, and then speak.","START_ पहिले सोच, अनि बोल। _END"
+he left the last page blank.,START_ उसले अन्तिम पाना खाली छाड्यो। _END
+how many books did you read?,START_ तपाईले कति पुस्तकहरू पढ्नुभएको छ ? _END
+i am looking for my brother.,START_ म भाईलाई खोज्दै छु। _END
+i bought a hat at the store.,START_ मैले पसलमा टोपी किनें। _END
+i cant emphasize it enough.,START_ म यसलाई पर्याप्त जोड दिन सक्दिन। _END
+i didnt know tom had a cat.,START_ टमसँग बिरालो छ भन्ने मलाई थाहा थिएन। _END
+i dont know where you live.,START_ मलाई थाहा छैन तपाईं कहाँ बस्नुहुन्छ। _END
+i dont know where you live.,START_ मलाई थाहा छैन तिमी कहाँ बस्छौ। _END
+i dont know where you live.,START_ मलाई थाहा छैन तिमी कहाँ बस्छेउ। _END
+i dont want any more tests.,START_ म कुनै थप परीक्षणहरू चाहन्न। _END
+i drink coffee after dinner.,START_ म बेलुकाको खाना पछि कफी पिउँछु। _END
+i eat only fresh vegetables.,START_ म ताजा तरकारी मात्र खान्छु। _END
+i eat rice almost every day.,START_ म लगभग हरेक दिन भात खान्छु। _END
+i encourage all my students.,START_ म मेरा सबै विद्यार्थीहरूलाई प्रोत्साहन गर्छु। _END
+i have nothing better to do.,START_ मसँग गर्नलाई केहि राम्रो छैन। _END
+i have some extra batteries.,START_ मसँग केही अतिरिक्त ब्याट्रीहरू छन्। _END
+i havent had my coffee yet.,START_ मैले अझै मेरो कफी खाएको छैन। _END
+i know tom is a strange kid.,START_ मलाई थाहा छ टम एक अनौठो बच्चा हो। _END
+i like tom better than mary.,START_ मलाई मेरी भन्दा टम राम्रो लाग्छ। _END
+i stayed up late last night.,START_ म हिजो राती अबेरसम्म जागै बसें। _END
+i think id like to do that.,START_ मलाई लाग्छ कि म त्यो गर्न चाहन्छु। _END
+i want to rent an apartment.,START_ म अपार्टमेन्ट भाडामा लिन चाहान्छु। _END
+id do anything to help tom.,START_ म टमलाई मद्दत गर्न जे पनि गर्नेछु। _END
+id rather die than give up.,START_ म हार मान्नु भन्दा मर्न रुचाउँछु । _END
+im feeling much better now.,START_ म अहिले धेरै राम्रो महसुस गर्दैछु। _END
+im glad it makes you happy.,START_ म खुसी छु यसले तपाईंलाई खुशी बनाउँछ। _END
+im not ok with this change.,START_ म यो परिवर्तन संग ठीक छैन। _END
+im not sitting next to tom.,START_ म टमको छेउमा बसेको छैन। _END
+im taking french next year.,START_ म अर्को वर्ष फ्रान्सेली लिँदैछु। _END
+im taking french next year.,START_ म अर्को वर्ष फ्रेन्च भाषा लिँदैछु। _END
+it has definitely helped me.,START_ यसले पक्कै पनि मलाई मद्दत गरेको छ। _END
+mary wore a strapless dress.,START_ मेरीले स्ट्र्यापलेस पोशाक लगाएकी थिइन्। _END
+math is my favorite subject.,START_ गणित मेरो मनपर्ने विषय हो। _END
+no one believed toms story.,START_ टमको कथा कसैले पत्याएनन्। _END
+she decided on the red coat.,START_ उनले रातो ज्याकेट लगाउने निर्णय गरिन्। _END
+she disappeared in the dark.,START_ उनी अन्धकारमा गायब भइन्। _END
+she was a beauty in her day.,START_ उनी जवान हुँदा सुन्दर थिइन्। _END
+she was accepted to harvard.,START_ उनी हार्वर्ड विश्वविद्यालयमा भर्ना हुन छानिएकी छिन्। _END
+someone threw a rock at tom.,START_ कसैले टमलाई ढुङ्गा हान्यो। _END
+tell me where you were born.,START_ तिम्रो जन्म कहाँ भएको हो भन । _END
+the back door was wide open.,START_ पछाडिको ढोका फराकिलो खुल्ला थियो । _END
+the bus has just pulled out.,START_ बस भर्खरै छुट्यो। _END
+the cat climbed up the tree.,START_ बिरालो रूखमा चढ्यो। _END
+there are always exceptions.,START_ त्यहाँ सधैं अपवादहरू छन्। _END
+there are ducks on the pond.,START_ पोखरीमा हाँसहरू छन्। _END
+theres violence everywhere.,START_ हिंसा जताततै छ। _END
+theres violence everywhere.,START_ जताततै हिंसा छ। _END
+this is part of the problem.,START_ यो समस्या को एक हिस्सा हो। _END
+this is the only tie i have.,START_ यो मसँग भएको एकमात्र टाई हो। _END
+"this isnt toms hat, is it?","START_ यो टमको टोपी होइन, हैन? _END"
+this knife isnt very sharp.,START_ यो चक्कु धेरै धारिलो छैन। _END
+this watch is made in japan.,START_ यो घडी जापानमा बनेको हो। _END
+those standing were all men.,START_ उभिएका सबै पुरुष थिए। _END
+tom and i are having a baby.,START_ टम र म बच्चा जन्माउँदैछौं। _END
+tom couldnt find his class.,START_ टमले आफ्नो कक्षा फेला पार्न सकेन। _END
+tom died when he was thirty.,START_ टम तीस वर्षको हुँदा मरो। _END
+tom fixed my bicycle for me.,START_ टमले मेरो लागि मेरो साइकल बनाईदियो ।। _END
+tom has one younger brother.,START_ टमको एउटा भाइ छ। _END
+"tom is fine, but mary isnt.","START_ टम ठीक छ, तर मेरी छैन। _END"
+tom is older than i thought.,START_ टम मैले सोचेको भन्दा बुढो रहेछ। _END
+tom is very happy in boston.,START_ टम बोस्टनमा धेरै खुसी छन्। _END
+tom looked like he was lost.,START_ टम हराएको जस्तो देखिन्थ्यो। _END
+tom repeated what mary said.,START_ टमले मेरीले भनेको कुरा दोहोर्यायो। _END
+tom spent the night in jail.,START_ टमले जेलमा रात बिताए। _END
+tom spent the night in jail.,START_ टमले जेलमा रात बितायो। _END
+tom threw something at mary.,START_ टमले मेरीलाई केही फ्याँको। _END
+tom was paid for doing that.,START_ टमलाई त्यसो गरेबापत पैसा दिइएको थियो। _END
+weve already paid our rent.,START_ हामीले पहिले नै हाम्रो भाडा तिरेका छौं। _END
+what does that mean for tom?,START_ टमको लागि त्यसको के अर्थ छ? _END
+where is the police station?,START_ प्रहरी चौकी कहाँ छ? _END
+"who is heavier, tom or mary?","START_ को भारी छ, टम वा मेरी? _END"
+"who is stronger, you or tom?","START_ को बलियो छ, तपाईं वा टम? _END"
+"who is younger, tom or mary?","START_ को कान्छो हो, टम वा मेरी? _END"
+who wants to ask a question?,START_ कसले प्रश्न सोध्न चाहन्छ? _END
+why are you still at school?,START_ तिमी किन अझै विद्यालयमा छौ? _END
+why didnt you just tell me?,START_ तिमीले मलाई किन नभनेको? _END
+why is tom so good at chess?,START_ टम किन चेसमा यति राम्रो छ? _END
+why was tom yelling at mary?,START_ टम मेरीलाई किन हप्काई रहेकोको थियो? _END
+you cant help what happens.,START_ तपाईंले के हुन्छ मद्दत गर्न सक्नुहुन्न। _END
+"you go to school, dont you?","START_ तिमी स्कुल जान्छौ, हैन ? _END"
+do they know whats going on?,START_ के भैरहेको छ भनेर के उनीहरुलाई थाहा छ? _END
+"do you love me, or dont you?","START_ तिमी मलाई माया गर्छौ, कि गर्दैनौ ? _END"
+do you think tom is talented?,START_ के तिमीलाई टम प्रतिभाशाली छ जस्तो लाग्छ? _END
+do you think tom understands?,START_ के तपाईलाई टमले बुज्छ जस्तो लाग्छ? _END
+dont depend on tom too much.,START_ टममा धेरै भर पर्नु हुँदैन। _END
+dont look out of the window.,START_ झ्यालबाट बाहिर नहेर्नुस्। _END
+dont look out of the window.,START_ झ्यालबाट बाहिर नहेर। _END
+dont try to understand this.,START_ यसलाई बुझ्ने कोसिस नगर्नुहोस् । _END
+dont underestimate my power.,START_ मेरो शक्तिलाई कम नठान्नुहोस्। _END
+dont you have an accountant?,START_ तपाईसँग लेखापाल छैन? _END
+have you ever eaten dog meat?,START_ के तपाईंले कहिल्यै कुकुरको मासु खानुभएको छ? _END
+he can run faster than i can.,START_ ऊ म भन्दा छिटो कुद्छ। _END
+he can run faster than i can.,START_ ऊ म भन्दा छिटो कुद्न सक्छ। _END
+he often eats breakfast here.,START_ उहाँ प्रायः यहाँ बिहानको खाजा खानुहुन्छ। _END
+he often eats breakfast here.,START_ उनी प्रायः यहाँ बिहानको खाजा खान्छन्। _END
+how could you be so careless?,START_ तिमी यति लापरवाह कसरी हुन सक्छौ ? _END
+i can help if you want me to.,START_ यदि तपाईं मलाई चाहनुहुन्छ भने म मद्दत गर्न सक्छु। _END
+i didnt know tom had a cold.,START_ टमलाई चिसो लागेको मलाई थाहा थिएन। _END
+i dont know what he is like.,START_ उहाँ कस्तो हुनुहुन्छ मलाई थाहा छैन। _END
+i dont want to pressure you.,START_ म तिमीलाई दबाब दिन चाहन्न। _END
+i got used to wearing a mask.,START_ मलाई मास्क लगाउने बानी परिसकेको छ । _END
+i have a slight headache now.,START_ अहिले हल्का टाउको दुखेको छ। _END
+i havent decided what to do.,START_ मैले के गर्ने भन्ने निर्णय गरेको छैन। _END
+i respect your point of view.,START_ म तपाईको दृष्टिकोणको सम्मान गर्दछु। _END
+i slept very well last night.,START_ हिजो राती राम्रोसँग सुतेँ । _END
+i spilled coffee on my shirt.,START_ मैले मेरो शर्टमा कफी पोखाए। _END
+i still go there once a week.,START_ म अझै पनि हप्तामा एक पटक त्यहाँ जान्छु। _END
+i think im in love with her.,START_ मलाई लाग्छ म उनको प्रेममा छु। _END
+i think its very impressive.,START_ मलाई यो धेरै प्रभावशाली छ जस्तो लाग्छ। _END
+"i want kids, but tom doesnt.","START_ म बच्चाहरू चाहन्छु, तर टमले चाहादैनन्। _END"
+i want to drink a cup of tea.,START_ म एक गिलास चिया पिउन चाहान्छु। _END
+i went to a concert with tom.,START_ म टम संग कन्सर्टमा गएको थिए। _END
+i wish i hadnt believed tom.,START_ काश मैले टमलाई विश्वास नगरेको भए। _END
+i wish we could go to boston.,START_ म चाहन्छु कि हामी बोस्टन जान सकौं। _END
+ill be home alone all night.,START_ म रातभर घरमा एक्लै हुनेछु। _END
+im going to give tom a bath.,START_ म टमलाई नुहाइदिन जाँदैछु। _END
+im going to save more money.,START_ म अझ धेरै पैसा बचत गर्न खोज्दै छु। _END
+im having a lot of fun here.,START_ म यहाँ धेरै रमाइलो गर्दैछु। _END
+im not very good with words.,START_ म बोल्नमा अब्बल छैन। _END
+im searching for my brother.,START_ म दाजुलाई खोज्दै छु। _END
+it was just a happy accident.,START_ यो केवल एक सुखद दुर्घटना थियो। _END
+its a very serious question.,START_ यो निकै गम्भीर प्रश्न हो। _END
+its normal to make mistakes.,START_ गल्ती हुनु सामान्य हो। _END
+maybe tom likes someone else.,START_ सायद टमले अरू कसैलाई मन पराउँछ। _END
+my best friend is a canadian.,START_ मेरो सबैभन्दा मिल्ने साथी क्यानेडियन हो। _END
+neither of us is from boston.,START_ हामी मध्ये कोही पनि बोस्टनका होइनौं। _END
+please teach me how to drive.,START_ कृपया मलाई कसरी ड्राइभ गर्ने सिकाउनुहोस्। _END
+remember to do your homework.,START_ आफ्नो गृहकार्य गर्न याद गर्नुहोस्। _END
+remember to do your homework.,START_ आफ्नो गृहकार्य गर्न याद गर। _END
+she has been dead five years.,START_ उनको मृत्यु भएको पाँच वर्ष भयो। _END
+"sorry, i dont have a pencil.","START_ माफ गर्नुहोस्, मसँग पेन्सिल छैन। _END"
+tell tom he ought to do that.,START_ टमलाई भन्नुहोस् कि उसले त्यो गर्नुपर्छ। _END
+thats what im trying to do.,START_ मैले गर्न खोजेको यही हो। _END
+the attackers escaped easily.,START_ आक्रमणकारीहरू सजिलै भागे। _END
+the capital of italy is rome.,START_ इटालीको राजधानी रोम हो। _END
+the color i like most is red.,START_ मलाई सबैभन्दा मनपर्ने रंग रातो हो। _END
+the door is already unlocked.,START_ ढोका पहिले नै खोलिएको छ। _END
+the one who does that is tom.,START_ गाडीमा को छ? टम छ। _END
+the only drummer here is tom.,START_ टम यहाँको एक मात्र ड्रमर हो। _END
+the response was predictable.,START_ प्रतिक्रिया अनुमान गर्न सकिने थियो। _END
+there was nothing more to do.,START_ त्यहाँ अरु केही गर्नु पर्ने थिएन। _END
+there was something going on.,START_ त्यहाँ केही भइरहेको थियो। _END
+this classroom is very large.,START_ यो कक्षा कोठा धेरै ठूलो छ। _END
+this food is very nutritious.,START_ यो खाना धेरै पौष्टिक छ। _END
+tom already understands that.,START_ टमले त्यो पहिले नै बुझेको छ। _END
+tom blocked the intersection.,START_ टमले चौराहा अवरुद्ध गर्यो। _END
+tom didnt do that last year.,START_ टमले गत वर्ष त्यो गरेन। _END
+tom didnt stay in australia.,START_ टम अस्ट्रेलियामा बसेनन्। _END
+tom gave mary the wrong book.,START_ टमले मेरीलाई गलत किताब दिए। _END
+tom has received many awards.,START_ टमले धेरै पुरस्कार पाएका छन्। _END
+tom is trying to ignore mary.,START_ टमले मेरीलाई बेवास्ता गर्न खोज्दैछ। _END
+"tom is very hungry, isnt he?","START_ टम धेरै भोकाएको छ, हैन? _END"
+tom is working in boston now.,START_ टम अहिले बोस्टनमा काम गर्दैछ। _END
+"tom is working now, isnt he?","START_ टम अहिले काम गर्दैछ, हैन? _END"
+"tom likes all of us, i think.","START_ मलाई लाग्छ, टमले हामी सबैलाई मनपराउछ। _END"
+tom married a canadian woman.,START_ टमले क्यानडाली महिलासँग विवाह गरे। _END
+tom said he doesnt eat meat.,START_ टमले मासु नखाने बताए। _END
+tom thinks highly of himself.,START_ टमले आफूलाई धेरै ठान्छ। _END
+tom was obviously a rich man.,START_ टम स्पष्ट रूपमा एक धनी व्यक्ति थिए। _END
+tom will arrive monday night.,START_ टम सोमबार राती आइपुग्नेछ। _END
+tom wont do that any longer.,START_ टमले अब देखि त्यसो गर्ने छैन। _END
+toms story makes zero sense.,START_ टमको कथाले शून्य अर्थ दिन्छ। _END
+we weighed the pros and cons.,START_ हामीले फाइदा र बेफाइदा तौल्यौं। _END
+were open seven days a week.,START_ हामी हप्ताको सात दिन खुल्ला छौं। _END
+whats todays exchange rate?,START_ आजको विनिमय दर कति छ ? _END
+"when im with you, im happy.",START_ तिम्रो साथमा हुँदा मलाई खुसी लाग्छ। _END
+when do you plan to get back?,START_ कहिले फर्कने योजनामा ​​हुनुहुन्छ? _END
+why are people afraid of you?,START_ मान्छेहरु तपाईसँग किन डराउँछन्? _END
+why do you want to work here?,START_ किन यहाँ काम गर्न चाहान्छौ? _END
+why was tom pointing at mary?,START_ टमले मेरीलाई किन औंल्याएको थियो? _END
+you can ask whoever you want.,START_ तपाईले चाहनु भएकोलाई सोध्न सक्नुहुन्छ। _END
+youd better not leave today.,START_ तिमी आज नजानु नै बेस हुन्छ। _END
+a cat is sitting on the chair.,START_ एउटा बिरालो कुर्सीमा बसेको छ। _END
+are you still looking for tom?,START_ के तपाइँ अझै टमलाई खोज्दै हुनुहुन्छ? _END
+are you sure you want to quit?,START_ के तपाई निश्चित हुनुहुन्छ कि तपाई छोड्न चाहनुहुन्छ? _END
+being with you makes me happy.,START_ तिम्रो साथमा हुँदा मलाई खुसी लाग्छ। _END
+do tom and mary work together?,START_ के टम र मेरी सँगै काम गर्छन्? _END
+do you know toms wifes name?,START_ के तपाईंलाई टमकी श्रीमतीको नाम थाहा छ? _END
+dont compare yourself to tom.,START_ आफूलाई टमसँग तुलना नगर्नुहोस्। _END
+dont compare yourself to tom.,START_ आफूलाई टमसँग तुलना नगर। _END
+dont worry too much about it.,START_ यसको बारेमा धेरै चिन्ता नगर्नुहोस्। _END
+food has been in short supply.,START_ खाद्यान्नको अभाव भएको छ । _END
+he knocked on the closed door.,START_ उसले बन्द ढोका ढकढक्यायो । _END
+how long will we have to wait?,START_ कति समय पर्खनु पर्छ जस्तो लाग्छ? _END
+how long will we have to wait?,START_ कति समय जति पर्खनु पर्छ? _END
+how old were you at that time?,START_ त्यतिबेला तपाईको उमेर कति थियो ? _END
+i agreed to write that letter.,START_ म त्यो पत्र लेख्न राजी भएँ। _END
+i am searching for my brother.,START_ म दाजुलाई खोज्दै छु। _END
+i am searching for my brother.,START_ म भाईलाई खोज्दै छु। _END
+i bought a new sewing machine.,START_ मैले नयाँ कल किनें। _END
+i can defeat any chess player.,START_ म कुनै पनि चेस खेलाडीलाई हराउन सक्छु। _END
+i cant leave work until five.,START_ म बजेसम्म काम छोड्न सक्दिन। _END
+i couldnt find what i wanted.,START_ मैले चाहेको कुरा फेला पार्न सकिन। _END
+i dont have a microwave oven.,START_ मसँग माइक्रोवेभ छैन। _END
+i dont know what to tell you.,START_ म तिमीलाई के भनूँ थाहा छैन। _END
+i dont know what to tell you.,START_ तिमीलाई के भनौ मलाई थाहा छैन _END
+i dont like being unemployed.,START_ मलाई बेरोजगार रहन मन पर्दैन। _END
+i dont like to talk about it.,START_ मलाई यसबारे कुरा गर्न मन लाग्दैन। _END
+i dont live in australia now.,START_ म अहिले अस्ट्रेलियामा बस्दिन। _END
+i dont think tom was shocked.,START_ मलाई लाग्दैन कि टम छक्क परेको थियो। _END
+i dont want to study tonight.,START_ मलाई आज राती पढ्न मन छैन। _END
+i forgot to close the windows.,START_ मैले झ्यालहरू बन्द गर्न बिर्सें। _END
+i know what tom is doing here.,START_ टम यहाँ के गर्दैछ भनेर मलाई थाहा छ। _END
+i sent a letter to my parents.,START_ मैले आमाबुवालाई चिठी पठाएँ। _END
+i shouldve been more careful.,START_ म अझ होसियार हुनुपर्थ्यो। _END
+i shouldnt have been so rude.,START_ म यति असभ्य हुनुहुँदैन थियो। _END
+i sometimes go out for a walk.,START_ कहिले काहिँ घुम्न जान्छु। _END
+i think he was speaking latin.,START_ मलाई लाग्छ उसले ल्याटिन बोलिरहेको थियो। _END
+i think he was speaking latin.,START_ मलाई लाग्छ ऊ ल्याटिन बोल्दै थियो। _END
+i want to eat a piece of cake.,START_ म एक टुक्रा केक खान चाहन्छु। _END
+i want to eat rice with beans.,START_ म गेडागुडी संग भात खान चाहन्छु। _END
+i wonder if that person is ok.,START_ के त्यो मान्छे ठीक छ? _END
+id like to be as rich as tom.,START_ म टम जस्तै धनी हुन चाहन्छु। _END
+ill pay for your lunch today.,START_ आजको खाजाको पैसा म तिर्छु। _END
+im happy with what ive seen.,START_ मैले जे देखेको छु त्यसमा म खुसी छु। _END
+im sorry to be such a bother.,START_ मलाई यस्तो अप्ठ्यारो भएकोमा माफ गर्नुहोस्। _END
+im thinking as fast as i can.,START_ म जति सक्दो छिटो सोच्छु। _END
+ive never heard tom complain.,START_ मैले कहिल्यै टमको गुनासो सुनेको छैन। _END
+it may have rained last night.,START_ सायद हिजो राति पानी परेको थियो। _END
+it wasnt tom who kissed mary.,START_ त्यो टम थिएन जसले मेरीलाई चुम्बन गर्यो। _END
+its toms birthday next week.,START_ अर्को हप्ता टमको जन्मदिन हो। _END
+my brother watches television.,START_ मेरो भाइ टेलिभिजन हेर्छ। _END
+nobody knew why this happened.,START_ यो किन भयो कसैलाई थाहा थिएन। _END
+please dont do that tomorrow.,START_ कृपया भोलि यस्तो नगर्नुहोस्। _END
+please dont do that tomorrow.,START_ कृपया भोलि त्यो नगर्नुहोस्। _END
+stay in bed until next monday.,START_ कृपया सोमबार सम्म आराम गर्नुहोस्। _END
+summer holiday begins in july.,START_ गर्मी बिदा जुलाई मा सुरु हुन्छ। _END
+tell me why youre doing that.,START_ मलाई भन्नुहोस् कि तपाइँ किन त्यसो गर्नुहुन्छ। _END
+"thank you very much, everyone.","START_ धेरै धेरै धन्यवाद, सबैलाई। _END"
+the capital of japan is tokyo.,START_ जापानको राजधानी टोकियो हो। _END
+the color i like most is blue.,START_ मलाई सबैभन्दा मन पर्ने रङ नीलो हो। _END
+the door of the safe was open.,START_ सेफको ढोका खुला थियो । _END
+the door of the safe was open.,START_ गल्लाको ढोका खुला थियो । _END
+the fact is that i cant swim.,START_ तथ्य यो हो कि म पौडिन सक्दिन। _END
+the situation is very complex.,START_ अवस्था निकै जटिल छ । _END
+there are many tall buildings.,START_ त्यहाँ धेरै गगनचुम्बी भवनहरू छन्। _END
+theyre walking without shoes.,START_ तिनीहरू जुत्ता बिना हिडिरहेका छन्। _END
+this is exactly what i wanted.,START_ यो मैले चाहेको नै हो। _END
+throw another log on the fire.,START_ आगोमा अर्को मुढा फ्याँक्नुहोस्। _END
+tokyo is the capital of japan.,START_ टोकियो जापानको राजधानी हो। _END
+tom admitted that it was true.,START_ टमले स्वीकार गरे कि यो सत्य थियो। _END
+tom always had a lot of money.,START_ टमसँग सधैं धेरै पैसा थियो। _END
+tom and i often work together.,START_ म प्राय टमसँग काम गर्छु। _END
+tom and i often work together.,START_ टम र म प्राय सँगै काम गर्छौ। _END
+tom and mary are really funny.,START_ टम र मेरी साँच्चै रमाइला छन्। _END
+tom complained about the heat.,START_ टमले गर्मीको बारेमा गुनासो गरे। _END
+tom didnt come to work today.,START_ टम आज काममा आएनन्। _END
+tom didnt come to work today.,START_ टम आज काममा आएन। _END
+tom didnt know mary was sick.,START_ टमलाई थाहा थिएन कि मेरी बिरामी छिन्। _END
+tom didnt want us to do this.,START_ टमले हामीले यो गरून् भन्ने चाहँदैनथ्यो। _END
+tom doesnt have a cell phone.,START_ टमसँग मोबाइल छैन। _END
+tom doesnt know how to reply.,START_ टमलाई कसरी जवाफ दिने थाहा छैन। _END
+tom has done everything wrong.,START_ टमले सबै गलत गरेको छ। _END
+tom is a high school freshman.,START_ टम हाईस्कूलको नयाँ विद्यार्थी हो। _END
+tom is a very charismatic man.,START_ टम एक धेरै आकर्षक मानिस हो। _END
+tom is already good at french.,START_ टम पहिले नै फ्रान्सेली मा राम्रो छ। _END
+"tom is very shallow, isnt he?","START_ टम धेरै खोक्रो छ, हैन? _END"
+tom just wanted to be helpful.,START_ टम केवल सहयोगी हुन चाहन्थे। _END
+tom lied about what hed done.,START_ टमले आफूले गरेको कामको बारेमा झूट बोल्यो। _END
+tom looked at his watch again.,START_ टमले आफ्नो घडी फेरी हेर्यो। _END
+tom said he needed to do that.,START_ टमले भने कि उनले त्यो गर्न आवश्यक छ। _END
+tom seemed dazed and confused.,START_ टम चकित र भ्रमित देखिन्थ्यो। _END
+tom served drinks to everyone.,START_ टमले सबैलाई पेय पदार्थ दिए। _END
+tom taught me a lot of things.,START_ टमले मलाई धेरै कुरा सिकाए। _END
+tom thinks mary is over forty.,START_ टमले मेरीलाई चालीस वर्ष नाघेको सोच्छ। _END
+tom was the only one who came.,START_ टम मात्र आएका थिए। _END
+tom would never have approved.,START_ टमले कहिल्यै अनुमोदन गर्ने थिएन। _END
+wash your hands before eating.,START_ खाना खानु अघि आफ्नो हात धुनुहोस्। _END
+we really want to impress tom.,START_ हामी वास्तवमै टमलाई प्रभावित गर्न चाहन्छौं। _END
+were going as fast as we can.,START_ हामी सकेसम्म छिटो गइरहेका छौं। _END
+what are toms sisters names?,START_ टमका बहिनीहरूको नाम के हो? _END
+what are you doing these days?,START_ तपाई आजकल के गर्दै हुनुहुन्छ? _END
+"what are you looking for, sir?","START_ महोदय, तपाई के खोज्दै हुनुहुन्छ? _END"
+what high school do you go to?,START_ तपाईं कुन हाईस्कूल जानुहुन्छ? _END
+what high school do you go to?,START_ तपाईं कुन हाईस्कूलमा जादै हुनुहुन्छ? _END
+what is that big new building?,START_ त्यो ठूलो नयाँ भवन के हो? _END
+whats toms favorite dessert?,START_ टमको मनपर्ने मिठाई के हो? _END
+whats toms favorite dessert?,START_ टमको मनपर्ने डेजर्ट के हो? _END
+when did you buy this bicycle?,START_ तपाईले यो साइकल कहिले किन्नु भयो? _END
+why are you talking like that?,START_ किन यसरी बोल्दै हुनुहुन्छ ? _END
+you havent met my family yet.,START_ तिमीले मेरो परिवारलाई अझै भेटेका छैनौ। _END
+all of my children like boston.,START_ मेरा सबै बच्चाहरूलाई बोस्टन मन पर्छ। _END
+did you see the game yesterday?,START_ हिजोको खेल हेर्नुभयो ? _END
+dont forget to pack sunscreen.,START_ सनस्क्रिन प्याक गर्न नबिर्सनुहोस्। _END
+february is the shortest month.,START_ फेब्रुअरी सबैभन्दा छोटो महिना हो। _END
+hes popular with the students.,START_ उनी विद्यार्थीमाझ लोकप्रिय छन्। _END
+hes popular with the students.,START_ ऊ विद्यार्थीमाझ लोकप्रिय छ। _END
+i didnt do all this by myself.,START_ यो सब मैले एक्लै गरेको हैन । _END
+"i didnt want to go, but i did.","START_ मलाई जान मन थिएन, तर म गएँ। _END"
+i didnt want to take a chance.,START_ मलाई मौका लिन मन लागेन । _END
+i feel happy when im with you.,START_ तिम्रो साथमा हुँदा मलाई खुसी लाग्छ। _END
+i have a lot of homework to do.,START_ म संग गृहकार्य धेरै छ। _END
+i havent decided anything yet.,START_ मैले अझै केही निर्णय गरेको छैन। _END
+i havent decided what ill do.,START_ मैले के गर्ने भन्ने निर्णय गरेको छैन। _END
+i havent done anything so far.,START_ मैले अहिलेसम्म केही गरेको छैन। _END
+i need to have another surgery.,START_ मलाई अर्को शल्यक्रिया गर्न आवश्यक छ। _END
+i think tom gave up too easily.,START_ मलाई लाग्छ टमले सजिलै हार मान्यो। _END
+i thought tom would be pleased.,START_ मैले सोचें कि टम खुसी हुनेछ। _END
+i told tom to lose some weight.,START_ मैले टमलाई केही तौल घटाउन भनें। _END
+i want you to watch this video.,START_ म तपाईले यो भिडियो हेर्नुहोस् भन्ने चाहन्छु। _END
+i was always very close to tom.,START_ म सधैं टमसँग धेरै नजिक थिए। _END
+i was working when it happened.,START_ यो घटना हुँदा म काम गरिरहेको थिएँ। _END
+id like to drink a cup of tea.,START_ म एक गिलास चिया पिउन चाहान्छु। _END
+ill be back in thirty minutes.,START_ म तीस मिनेटमा फर्कने छु। _END
+"im tom. this is my wife, mary.",START_ म टम हुँ। यिनी मेरी श्रीमती मेरी हुन्। _END
+im friends with toms brother.,START_ म टमको भाईसँग साथी छु। _END
+im friends with toms brother.,START_ म टमको दाईसँग साथी छु। _END
+im going to break up with tom.,START_ म टमसँग ब्रेकअप गर्न जाँदैछु। _END
+im now used to wearing a mask.,START_ मलाई अहिले मास्क लगाउने बानी परेको छ । _END
+im pretty sure toms canadian.,START_ म टम क्यानेडियन हो भनेर पक्का छु। _END
+ive already found a volunteer.,START_ मैले पहिले नै स्वयंसेवक फेला पारेको छु। _END
+ive finished cleaning my room.,START_ मैले मेरो कोठा सफा गरिसकेको छु। _END
+is tom good at speaking french?,START_ के टम फ्रान्सेली बोल्नमा राम्रो छ? _END
+it started raining really hard.,START_ भारी पानी पर्न थाल्यो। _END
+itll be much better next time.,START_ यो अर्को पटक धेरै राम्रो हुनेछ। _END
+its healthy to breathe deeply.,START_ गहिरो सास फेर्नु स्वस्थकर हुन्छ। _END
+kyiv is the capital of ukraine.,START_ कीभ युक्रेनको राजधानी हो। _END
+let me think over until monday.,START_ मलाई सोमबार सम्म सोच्न दिनुहोस्। _END
+madrid is the capital of spain.,START_ म्याड्रिड स्पेनको राजधानी हो। _END
+paris is the capital of france.,START_ पेरिस फ्रान्सको राजधानी हो। _END
+payment is required in advance.,START_ अग्रिम भुक्तानी आवश्यक छ। _END
+please call me tom from now on.,START_ कृपया मलाई अब देखि टम भन्ने गर्नुहोस्। _END
+please call me tom from now on.,START_ कृपया मलाई अब देखि टम भनेर बोलाउनुहोस्। _END
+tell me why you dont like tom.,START_ मलाई भन्नुहोस् कि तपाई टमलाई किन मन पराउनुहुन्न। _END
+that book is written in french.,START_ त्यो पुस्तक फ्रान्सेलीमा लेखिएको छ। _END
+the capital of ukraine is kyiv.,START_ युक्रेनको राजधानी कीभ हो। _END
+the students helped each other.,START_ विद्यार्थीहरूले एकअर्कालाई सहयोग गरे। _END
+things didnt turn out so well.,START_ चीजहरू त्यति राम्ररी बाहिर आएनन्। _END
+those roses are very beautiful.,START_ त्यो गुलाब एकदमै सुन्दर छ। _END
+tom and mary are great friends.,START_ टम र मेरी महान साथी हुन्। _END
+tom asked me several questions.,START_ टमले मलाई धेरै प्रश्नहरू सोधे। _END
+tom asked me several questions.,START_ टमले मलाई धेरै प्रश्नहरू सोध्यो। _END
+tom bought a very cheap camera.,START_ टमले एकदमै सस्तो क्यामेरा किन्यो। _END
+tom decided not to go swimming.,START_ टमले पौडी खेल्न नजाने निर्णय गरे। _END
+tom doesnt usually wear a hat.,START_ टमले सामान्यतया टोपी लगाउँदैन। _END
+tom has been bitten by a snake.,START_ टमलाई सर्पले टोकेको छ। _END
+tom is working as a waiter now.,START_ टम अहिले वेटरको रूपमा काम गर्दैछ। _END
+tom knows he shouldnt be here.,START_ टमलाई थाहा छ ऊ यहाँ हुनुहुँदैन। _END
+tom obviously needed some help.,START_ टमलाई स्पष्ट रूपमा केही मद्दत चाहिन्छ। _END
+tom offered to buy mary a beer.,START_ टमले मेरीलाई बियर किनिदिने प्रस्ताव गरे। _END
+tom put the knife on the table.,START_ टमले चक्कु टेबुलमा राख्यो। _END
+tom rolled his shirtsleeves up.,START_ टमले आफ्नो शर्टको बाहुला माथि घुमाए। _END
+tom rolled up his shirtsleeves.,START_ टमले आफ्नो शर्टका बाहुलाहरू सुर्कियो। _END
+tom was as nervous as mary was.,START_ टम मेरी जस्तै नर्भस थियो। _END
+tom was detained by the police.,START_ टमलाई प्रहरीले नियन्त्रणमा लिएको थियो। _END
+tom was hiding in the basement.,START_ टम बेसमेन्टमा लुकेको थियो। _END
+we really appreciate your help.,START_ हामी तपाईंको सहयोगको साँच्चै कदर गर्छौं। _END
+what does a liter of milk cost?,START_ एक लिटर दूधको मूल्य कति पर्छ? _END
+what language are you speaking?,START_ तपाई कुन भाषा बोल्नुहुन्छ? _END
+what language are you speaking?,START_ कुन भाषा बोल्दै हुनुहुन्छ ? _END
+whats marys boyfriends name?,START_ मेरीको प्रेमीको नाम के हो? _END
+where do you go to high school?,START_ तपाईं कुन हाईस्कूल जानुहुन्छ? _END
+where do you go to high school?,START_ तपाईं कुन हाईस्कूलमा जादै हुनुहुन्छ? _END
+whos your downstairs neighbor?,START_ तपाईको तलको छिमेकी को हो? _END
+why didnt anyone say anything?,START_ किन कसैले केही भनेनन् ? _END
+will anyone care if we do that?,START_ हामीले त्यसो गर्‍यौं भने कसैले वास्ता गर्छ? _END
+you need someone you can trust.,START_ तपाईलाई विश्वास गर्न सक्ने व्यक्ति चाहिन्छ। _END
+zoology is my favorite subject.,START_ प्राणीशास्त्र मेरो मनपर्ने विषय हो। _END
+who is it? its your mother.,START_ उँहा को हुनुहुन्छ? मेरी आमा। _END
+are you still afraid to do that?,START_ के तपाई अझै पनि त्यसो गर्न डराउनुहुन्छ? _END
+arent you allergic to anything?,START_ तपाईलाई कुनै कुरामा एलर्जी छैन? _END
+beijing is the capital of china.,START_ बेइजिङ चीनको राजधानी हो। _END
+being modest never hurt anybody.,START_ नम्र हुनाले कसैलाई कहिल्यै हानि पुर्याउदैन। _END
+contact tom jackson for details.,START_ विवरणका लागि टम ज्याक्सनलाई सम्पर्क गर्नुहोस्। _END
+could i have something to drink?,START_ के म पिउन केहि पाउन सक्छु? _END
+delete toms name from the list.,START_ सूचीबाट टमको नाम मेटाउनुहोस्। _END
+everyone knows that you hit tom.,START_ सबैलाई थाहा छ कि तपाईले टमलाई हिर्काउनुभयो। _END
+everything was clear and simple.,START_ सबै कुरा स्पष्ट र सरल थियो। _END
+excuse me. do you speak english?,START_ मलाईं माफ गर्नुहोस्। के तपाईँ अङ्ग्रेजी बोल्नुहुन्छ? _END
+have you ever made marshmallows?,START_ के तपाईंले कहिल्यै मार्शमेलो बनाउनुभएको छ? _END
+have you seen any movies lately?,START_ हालसालै कुनै चलचित्र हेर्नुभएको छ? _END
+he has no more than dollars.,START_ उहाँसँग डलरभन्दा बढी छैन। _END
+how long did you stay in boston?,START_ तपाईं बोस्टनमा कति लामो बस्नु भयो? _END
+how much of this is toms fault?,START_ यसमा टमको कत्तिको गल्ती छ? _END
+how much of this stuff is yours?,START_ यो सामान तपाईको कति हो? _END
+how often do you ride a bicycle?,START_ तपाई कत्तिको पटक साइकल चलाउन हुन्छ? _END
+i did not understand him at all.,START_ मैले उसलाई पटक्कै बुझिन। _END
+i dont think that youre funny.,START_ मलाई लाग्दैन कि तपाईं हास्यास्पद हुनुहुन्छ। _END
+i have more than one girlfriend.,START_ मेरो एक भन्दा बढी प्रेमिका छन्। _END
+i have more than one girlfriend.,START_ मे संग एक भन्दा बढी प्रेमिका छन्। _END
+i hope our plane leaves on time.,START_ मलाई आशा छ कि हाम्रो विमान समयमै प्रस्थान गर्छ। _END
+i probably wont be able to win.,START_ सायद म जित्न सक्दिन होला। _END
+i slept for the rest of the day.,START_ म बाँकी दिन सुतेको थिएँ । _END
+i think id like to go with you.,START_ मलाई लाग्छ म तपाईंसँग जान चाहन्छु। _END
+i think itll be sunny tomorrow.,START_ भोलि घाम लाग्छ जस्तो लाग्छ। _END
+i think that tom is working now.,START_ मलाई लाग्छ कि टम अहिले काम गरिरहेको छ। _END
+"i think you worry too much, tom.","START_ मलाई लाग्छ तपाईं धेरै चिन्तित हुनुहुन्छ, टम। _END"
+i want to eat breakfast outside.,START_ म बिहानको खाजा बाहिर खान चाहन्छु। _END
+i want to punch you in the face.,START_ म तेरो अनुहारमा मुक्का हान्न चाहन्छु। _END
+ill be staying here for a week.,START_ म यहाँ एक हप्ता बस्नेछु। _END
+ill give you anything you want.,START_ म तिमी जे चाहन्छौ त्यहि दिन्छु। _END
+im hoping we can do that today.,START_ मलाई आशा छ कि आज हामी त्यो गर्न सक्छौं। _END
+im positive that i can do that.,START_ म त्यो गर्न सक्छु भन्नेमा सकारात्मक छु। _END
+im pretty sure toms competent.,START_ म पक्का छु कि टम सक्षम छ। _END
+im sure that tom remembers you.,START_ म पक्का छु कि टमले तपाईलाई सम्झेको छ। _END
+ive already spent all my money.,START_ मैले पहिले नै सबै पैसा खर्च गरिसकेको छु। _END
+ive been in line all afternoon.,START_ दिउँसो दिनभर लाइनमा बसेको छु । _END
+ive changed my opinion on that.,START_ मैले यसमा मेरो धारणा परिवर्तन गरेको छु। _END
+it isnt raining much this year.,START_ यो वर्ष खासै पानी परेको छैन । _END
+its getting darker outside now.,START_ बाहिर अँध्यारो हुँदैछ। _END
+its not healthy to eat and run.,START_ खाना खाएर दौडनु स्वस्थकर होइन। _END
+its walking distance from here.,START_ यहाँबाट हिड्ने दूरीमा छ। _END
+learning french isnt difficult.,START_ फ्रान्सेली सिक्न गाह्रो छैन। _END
+"mary doesnt eat pork, does she?","START_ मेरी सुँगुरको मासु खादिनन् , हैन? _END"
+"may i see your passport, please?",START_ के म तपाईंको पासपोर्ट हेर्न सक्छु? _END
+ottawa is the capital of canada.,START_ ओटावा क्यानाडाको राजधानी हो। _END
+the capital of poland is warsaw.,START_ पोल्याण्डको राजधानी वारसा हो। _END
+the color i like most is orange.,START_ मलाई सबैभन्दा मनपर्ने रङ सुन्तले हो। _END
+the exam is coming up next week.,START_ अर्को हप्ता परीक्षा आउँदैछ। _END
+the plane flew above the clouds.,START_ विमान बादल माथि उड्यो। _END
+the process is very complicated.,START_ प्रक्रिया एकदमै जटिल छ। _END
+this is one of toms best poems.,START_ यो टमको उत्कृष्ट कविताहरू मध्ये एक हो। _END
+tom and mary are often together.,START_ टम र मेरी अक्सर सँगै हुन्छन्। _END
+tom and mary were drinking beer.,START_ टम र मेरी बियर पिइरहेका थिए। _END
+tom did marys homework for her.,START_ टमले उनको लागि मेरीको गृहकार्य गरे। _END
+tom didnt look very busy to me.,START_ टम मेरो लागि धेरै व्यस्त देखिएन। _END
+tom is already three hours late.,START_ टम पहिले नै तीन घण्टा ढिलो छ। _END
+"tom is an amazing guy, isnt he?","START_ टम एक अचम्मको मान्छे हो, हैन? _END"
+tom is my husbands middle name.,START_ टम मेरो श्रीमानको बीचको नाम हो। _END
+tom is my husbands middle name.,START_ टम मेरो पतिको बीचको नाम हो। _END
+tom is still too young to drive.,START_ टम अझै पनि ड्राइभ गर्न को लागी धेरै जवान छ। _END
+tom is working in australia now.,START_ टम अहिले अस्ट्रेलियामा काम गर्दैछ। _END
+tom left at four in the morning.,START_ टम बिहान चार बजे निस्कियो। _END
+tom left at four in the morning.,START_ टम बिहान चार बजे गए। _END
+tom looked really uncomfortable.,START_ टम साँच्चै असहज देखिन्थ्यो । _END
+tom plans to go home by himself.,START_ टमले एक्लै घर जाने योजना बनाउँछ। _END
+tom planted a little peach tree.,START_ टमले एउटा सानो आरुको रूख रोपे। _END
+tom said he couldnt believe it.,START_ टमले भने कि उसले यो विश्वास गर्न सक्दैनन्। _END
+tom seemed very full of himself.,START_ टम आफैंमा धेरै भरिएको देखिन्थ्यो। _END
+tom should tell mary to do that.,START_ टमले मेरीलाई त्यसो गर्न भन्नु पर्छ। _END
+tom thinks that mary is my name.,START_ टम सोच्छन् कि मेरो नाम मेरी हो। _END
+tom went from boston to chicago.,START_ टम बोस्टनबाट शिकागो गए। _END
+toms dog never barks at anyone.,START_ टमको कुकुर कहिल्यै कसैलाई भुक्दैन। _END
+toms grandfather couldnt read.,START_ टमका हजुरबुवाले पढ्न सक्नुहुदैन थियो। _END
+we should only eat healthy food.,START_ हामीले स्वस्थकर खाना मात्रै खानुपर्छ। _END
+were you popular in high school?,START_ के तपाई हाई स्कूलमा लोकप्रिय हुनुहुन्थ्यो? _END
+what kind of mushrooms are they?,START_ तिनीहरू कुन प्रकारका च्याउ हुन्? _END
+where do you attend high school?,START_ तपाईं कुन हाईस्कूल जानुहुन्छ? _END
+where do you attend high school?,START_ तपाईं कुन हाईस्कूलमा जादै हुनुहुन्छ? _END
+why dont you have any kids yet?,START_ तपाईका अझै बच्चाहरू किन छैनन्? _END
+why would you like to work here?,START_ किन यहाँ काम गर्न चाहान्छौ? _END
+"you like older women, dont you?","START_ तपाईलाई वृद्ध महिलाहरू मनपर्छ, हैन? _END"
+you need to respect the elderly.,START_ ज्येष्ठ नागरिकलाई सम्मान गर्नुपर्छ। _END
+you seem to know a lot about me.,START_ तिमीलाई मेरो बारेमा धेरै कुरा थाहा छ जस्तो लाग्छ। _END
+berlin is the capital of germany.,START_ बर्लिन जर्मनीको राजधानी हो। _END
+can i still get something to eat?,START_ के म अझै पनि खानेकुरा पाउन सक्छु? _END
+can you talk about that a little?,START_ यसबारे अलिकति कुरा गर्न सक्नुहुन्छ? _END
+did you forget your wallet again?,START_ के तपाईंले आफ्नो वालेट फेरि बिर्सनुभयो? _END
+do you know how to change a fuse?,START_ के तपाईंलाई फ्यूज कसरी परिवर्तन गर्ने थाहा छ? _END
+do you know where toms house is?,START_ के तपाईलाई थाहा छ टमको घर कहाँ छ? _END
+dont forget to do your homework.,START_ आफ्नो गृहकार्य गर्न नबिर्सनुहोस्। _END
+have you already eaten some cake?,START_ अघिनै केक खाइसक्नु भयो? _END
+he has been dead for three years.,START_ उनको मृत्यु भएको तीन वर्ष भयो । _END
+how will the weather be tomorrow?,START_ भोलिको मौसम कस्तो रहनेछ? _END
+i didnt really think about that.,START_ मैले साँच्चै यसको बारेमा सोचेको छैन। _END
+i dont mind the smell of durian.,START_ मलाई डुरियनको गन्धमा कुनै आपत्ति छैन। _END
+i dont want anybody to get hurt.,START_ म कसैलाई चोट पुर्याउन चाहन्न। _END
+i gave tom some milk and cookies.,START_ मैले टमलाई केही दूध र कुकीहरू दिएँ। _END
+i havent decided what to do yet.,START_ मैले अझै के गर्ने निर्णय गरेको छैन। _END
+i just downloaded a lot of files.,START_ मैले भर्खरै धेरै फाईलहरू डाउनलोड गरें। _END
+i live next door to the toy shop.,START_ म खेलौना पसलको छेउमा बस्छु। _END
+i thought tom might be in boston.,START_ मैले सोचे कि टम बोस्टन मा हुन सक्छ। _END
+i was surprised when tom told me.,START_ जब टमले मलाई भन्यो म छक्क परें। _END
+ive forgotten toms wifes name.,START_ मैले टमकी श्रीमतीको नाम बिर्सिए। _END
+it is said that he was very rich.,START_ भनिन्छ उनी निकै धनी थिए । _END
+its colder today than yesterday.,START_ हिजो भन्दा आज चिसो बढेको छ । _END
+london is the capital of england.,START_ लन्डन इङ्गल्याण्ड को राजधानी हो। _END
+my brother and i were very close.,START_ मेरो भाइ र म धेरै नजिक थियौं। _END
+never be afraid to make mistakes.,START_ असफलता देखि नडराऊ। _END
+results will be announced monday.,START_ नतिजा सोमबार घोषणा हुनेछ। _END
+the pig is an intelligent animal.,START_ सुँगुर एक बुद्धिमान प्राणी हो। _END
+the public has the right to know.,START_ जनतालाई जान्न पाउने अधिकार छ । _END
+theres no time to do that today.,START_ आज त्यो गर्ने समय छैन। _END
+this ring is the one tom gave me.,START_ यो टमले मलाई दिएको एउटा औंठी हो। _END
+tom always gets up at six-thirty.,START_ टम जहिले पनि साढे छ बजे उठ्छ। _END
+tom doesnt express himself well.,START_ टमले आफूलाई राम्रोसँग व्यक्त गर्दैन। _END
+tom gave me this for my birthday.,START_ टमले मलाई मेरो जन्मदिनको लागि यो दिए। _END
+tom has everything under control.,START_ टमको नियन्त्रणमा सबै कुरा छ। _END
+"tom is in the hospital, isnt he?","START_ टम अस्पतालमा छ, हैन? _END"
+"tom is still doing that, i think.","START_ टम अझै पनि त्यही गरिरहेको छ, मलाई लाग्छ। _END"
+tom is working in his office now.,START_ टम अहिले आफ्नो कार्यालयमा काम गर्दैछ। _END
+tom isnt here because hes sick.,START_ टम यहाँ छैन किनभने ऊ बिरामी छ। _END
+tom loves pizza and french fries.,START_ टमलाई पिज्जा र फ्रेन्च फ्राइज मन पर्छ। _END
+tom said he was happy to do that.,START_ टमले यसो गर्न पाउँदा खुसी लागेको बताए। _END
+tom was the one who gave me this.,START_ टम एक थियो जसले मलाई यो दियो। _END
+we expected tom to behave better.,START_ हामीले टमले राम्रो व्यवहार गर्ने अपेक्षा गरेका थियौं। _END
+what did you do for fathers day?,START_ बुवाको दिनमा के गर्नुभयो ? _END
+when was the last time you cried?,START_ तिमी अन्तिम पटक कहिले रोएको थियौ ? _END
+why do you need to borrow my car?,START_ तपाईंले मेरो कार किन सापटी लिनु पर्यो ? _END
+you have to go back to australia.,START_ तपाई अष्ट्रेलिया फर्किनु पर्छ। _END
+you must respect senior citizens.,START_ ज्येष्ठ नागरिकलाई सम्मान गर्नुपर्छ। _END
+youre going to be my son-in-law.,START_ तपाई मेरो ज्वाइँ बन्दै हुनुहुन्छ। _END
+youre in better shape than i am.,START_ तपाईं म भन्दा राम्रो अवस्थामा हुनुहुन्छ। _END
+what are you studying? french.,START_ तिमी के पढ्दै छौ? फ्रान्सेली भाषा। _END
+an explosion blew the house apart.,START_ विष्फोटले घर ध्वस्त पारेको छ । _END
+can you pick me up at the station?,START_ के मलाई स्टेशनमा लिन आउन सक्छौ? _END
+can you please explain this to me?,START_ कृपया मलाई यो कुरा बुझाउन सक्नुहुन्छ? _END
+could you leave this book with me?,START_ के तपाईं यो किताब मसँग छोड्न सक्नुहुन्छ? _END
+"excuse me, are you a student here?","START_ माफ गर्नुहोस्, के तपाईं यहाँको विद्यार्थी हुनुहुन्छ? _END"
+french is an interesting language.,START_ फ्रेन्च एउटा रोचक भाषा हो। _END
+have my piece of cake if you like.,START_ यदि तपाईलाई मन पर्यो भने मेरो केकको टुक्रा लिनुहोस्। _END
+he had friends all over the world.,START_ संसारभरि उनका साथी थिए । _END
+he is very good at playing violin.,START_ उनी भायोलिन बजाउन निकै माहिर छन् । _END
+he really likes the united states.,START_ उसलाई संयुक्त राज्य अमेरिका मन पर्छ। _END
+he was very friendly to everybody.,START_ उनी सबैसँग निकै मिलनसार थिए। _END
+he was very friendly to everybody.,START_ उहाँ सबैसँग धेरै मिलनसार हुनुहुन्थ्यो। _END
+how could you write such a letter?,START_ तपाई यस्तो पत्र कसरी लेख्न सक्नु हुन्छ ? _END
+how could you write such a letter?,START_ तिमीले यस्तो चिठ्ठी कसरी लेख्न सक्यौ? _END
+how long are you going to do this?,START_ तपाई कहिले सम्म यो गर्न जाँदै हुनुहुन्छ? _END
+how was the man you met yesterday?,START_ हिजो भेटेको मान्छे कस्तो थियो? _END
+i bought a watch and an empty box.,START_ मैले एउटा घडी र एउटा खाली बक्स किनेँ। _END
+i didnt know tom was from boston.,START_ टम बोस्टनबाट आएको मलाई थाहा थिएन। _END
+i dont think i have one of those.,START_ के तपाई आज त्यसो गर्न रुचाउनुहुन्छ? _END
+i forgot tom used to be a plumber.,START_ टम प्लम्बर हुनुहुन्थ्यो भनेर मैले बिर्सें। _END
+i found a good mexican restaurant.,START_ मैले एउटा स्वादिष्ट मेक्सिकन रेस्टुरेन्ट फेला पारे। _END
+i guess nobody buys these anymore.,START_ मलाई लाग्छ अब यो कसैले किन्दैन। _END
+i had the good fortune to succeed.,START_ म सफल हुन भाग्यशाली थिएँ। _END
+i have heard nothing from him yet.,START_ मैले अहिलेसम्म उहाँबाट केही पनि सुनेको छैन। _END
+i never thought id do this again.,START_ मैले कहिल्यै सोचेको थिइन कि म यो फेरि गर्नेछु। _END
+i saw tom limping down the street.,START_ मैले टमलाई सडकमा लङ्गडा गरिरहेको देखेँ। _END
+i showed tom how to tie a bowline.,START_ मैले टमलाई बाउलाइन कसरी बाँध्ने भनेर देखाएँ। _END
+i think tom is having a good time.,START_ मलाई लाग्छ टमले राम्रो समय बिताइरहेको छ। _END
+i think tom was born in australia.,START_ मलाई लाग्छ टम अष्ट्रेलियामा जन्मिएको हो। _END
+i think that tom would be nervous.,START_ मलाई लाग्छ कि टम नर्भस हुनेछ। _END
+i was at a loss as to what to say.,START_ म के भन्नू भनी अलमलमा परें। _END
+i would like to improve my french.,START_ म मेरो फ्रान्सेली सुधार गर्न चाहन्छु। _END
+im tired and i want to go to bed.,START_ म थाकेको छु र म ओछ्यानमा जान चाहन्छु। _END
+ive never seen tom wearing a tie.,START_ मैले टमलाई टाई लगाएको कहिल्यै देखेको छैन। _END
+itll be finished in a day or two.,START_ यो एक दुई दिनमा सकिन्छ। _END
+my father is the one drinking tea.,START_ चिया पिउने मेरो बुवा हुनुहुन्छ। _END
+nowadays jobs are hard to come by.,START_ आजकल काम पाउन गाह्रो छ। _END
+only a few people listened to him.,START_ थोरै मानिसले मात्र उनको कुरा सुने। _END
+phoenix is the capital of arizona.,START_ फिनिक्स एरिजोना को राजधानी हो। _END
+something has gone terribly wrong.,START_ केही नराम्रोसँग गडबड भएको छ। _END
+the capital of brazil is brasilia.,START_ ब्राजिलको राजधानी ब्रासिलिया हो। _END
+the fire destroyed the whole city.,START_ आगलागीले पूरै सहर ध्वस्त पारेको छ । _END
+those books are written in french.,START_ ती पुस्तकहरू फ्रेन्चमा लेखिएका छन्। _END
+tom and i agreed to work together.,START_ टम र म सँगै काम गर्न सहमत भयौं। _END
+tom and mary are now eating lunch.,START_ टम र मेरी अहिले खाजा खाँदैछन्। _END
+tom and mary argued all afternoon.,START_ टम र मेरीले दिउँसो भरी बहस गरे। _END
+tom asked me a confusing question.,START_ टमले मलाई एक भ्रमित प्रश्न सोध्यो। _END
+tom has decided to buy the island.,START_ टमले टापु किन्ने निर्णय गरेको छ। _END
+tom has earned a number of awards.,START_ टमले धेरै अवार्ड जितिसकेका छन्। _END
+tom is a former student of marys.,START_ टम मेरीको पूर्व विद्यार्थी हो। _END
+tom is good at baking gingerbread.,START_ टम जिंजरब्रेड पकाउने मा राम्रो छ। _END
+tom is likely to be here tomorrow.,START_ टम भोलि यहाँ हुने सम्भावना छ। _END
+tom is no longer marys boyfriend.,START_ टम अब मेरीको प्रेमी रहेन। _END
+tom left the hospital immediately.,START_ टमले तुरुन्तै अस्पताल छोड्यो। _END
+tom put something in marys drink.,START_ टमले मेरीको पेय पदार्थमा केही राख्यो। _END
+tom said he had something for you.,START_ टमले तिम्रो लागि केही छ भन्यो। _END
+tom said he would quit doing that.,START_ टमले त्यसो गर्न छोड्ने बताए। _END
+tom said that mary was very drunk.,START_ टमले मेरी धेरै मातेको बताए। _END
+tom speaks french as well as mary.,START_ टम फ्रेन्च बोल्छन् र मेरी पनि। _END
+tom threw a chair across the room.,START_ टमले कोठाभरि कुर्सी फ्याँक्यो। _END
+tom told mary to try to keep calm.,START_ टमले मेरीलाई शान्त रहन कोसिस गर्न भने। _END
+tom urged mary to drive carefully.,START_ टमले मेरीलाई सावधानीपूर्वक गाडी चलाउन आग्रह गरे। _END
+tom was dating mary in those days.,START_ टम ती दिनहरूमा मेरीलाई डेट गर्दै थिए। _END
+tom was dating mary in those days.,START_ टम त्यतिबेला मेरीसँग डेट गर्दै थिए। _END
+tom was sitting alone in his room.,START_ टम आफ्नो कोठामा एक्लै बसिरहेको थियो। _END
+tom wasnt wearing a blue sweater.,START_ टमले निलो स्वेटर लगाएको थिएन। _END
+tom works every day except monday.,START_ टम सोमबार बाहेक हरेक दिन काम गर्दछ। _END
+tom works every day except monday.,START_ टम सोमबार बाहेक हरेक दिन काम गर्छ। _END
+well all be dead in thirty years.,START_ तीस वर्षमा हामी सबै मर्नेछौं। _END
+where did you buy your motorcycle?,START_ तपाईले आफ्नो मोटरसाइकल कहाँ किन्नुभयो? _END
+why dont you ask tom to help you?,START_ तपाईं किन टमलाई मद्दत गर्न आग्रह गर्नुहुन्न? _END
+why is it important to save money?,START_ किन पैसा बचत गर्न महत्त्वपूर्ण छ? _END
+youve always been a quiet person.,START_ तपाईं सधैं शान्त व्यक्ति हुनुहुन्छ। _END
+bangkok is the capital of thailand.,START_ बैंकक थाइल्याण्डको राजधानी हो। _END
+being with you makes me feel happy.,START_ तिम्रो साथमा हुँदा मलाई खुसी लाग्छ। _END
+bern is the capital of switzerland.,START_ बर्न स्विट्जरल्याण्ड को राजधानी हो। _END
+boston is a really beautiful place.,START_ बोस्टन साँच्चै सुन्दर ठाउँ हो। _END
+boston is a really beautiful place.,START_ बोस्टन एक साँच्चै सुन्दर स्थान हो। _END
+brussels is the capital of belgium.,START_ ब्रसेल्स बेल्जियम को राजधानी हो। _END
+did i tell you i got my own office?,START_ के मैले तपाईलाई मेरो आफ्नै अफिस छ भनेको थिएँ? _END
+dont forget to take your medicine.,START_ आफ्नो औषधि लिन नबिर्सनुहोस्। _END
+halloween is still three days away.,START_ हलोविन आउन अझै तीन दिन बाँकी छ। _END
+he has red spots all over his body.,START_ मेरो जिउभरि रात दागहरू छन्। _END
+he tends to ask a lot of questions.,START_ उसको धेरै प्रश्न सोध्ने बानी छ। _END
+helsinki is the capital of finland.,START_ हेलसिंकी फिनल्याण्डको राजधानी हो। _END
+how much does a liter of milk cost?,START_ एक लिटर दूधको मूल्य कति पर्छ? _END
+i cant buy such an expensive book.,START_ म यति महँगो किताब किन्न सक्दिन। _END
+i cant conceive of tom doing that.,START_ टमले त्यसो गरेको म कल्पना गर्न सक्दिन। _END
+i cant remember toms wifes name.,START_ म टमकी श्रीमतीको नाम सम्झन सक्दिन। _END
+i didnt want to be a part of that.,START_ म त्यसको हिस्सा बन्न चाहन्नथें। _END
+i dont know what i need to do yet.,START_ मलाई थाहा छैन मैले के गर्न आवश्यक छ। _END
+i dont remember toms wifes name.,START_ मलाई टमकी श्रीमतीको नाम याद छैन। _END
+i dont suppose anyone will notice.,START_ कसैको ध्यानाकर्षण होला जस्तो मलाई लाग्दैन। _END
+i dont think that you can do that.,START_ मलाई लाग्दैन कि तपाईंले त्यो गर्न सक्नुहुन्छ। _END
+i dont think that you can do that.,START_ मलाई लाग्दैन कि तिमीले त्यो गर्न सक्छौ। _END
+i dont want to spend time in jail.,START_ म कारागारमा समय बिताउन चाहन्न। _END
+i hate going outside in the winter.,START_ मलाई जाडोमा बाहिर जान मन लाग्दैन। _END
+i hate going outside in the winter.,START_ मलाई जाडोमा बाहिर निस्कन मन लाग्दैन। _END
+"i know you from somewhere, dont i?","START_ म तिमीलाई कतैबाट चिन्छु, हैन? _END"
+i prefer silver rings to gold ones.,START_ म सुनको भन्दा चाँदीको औंठी मन पराउँछु। _END
+i prefer silver rings to gold ones.,START_ मलाई सुनको भन्दा चाँदीको औंठी मनपर्छ। _END
+i promised i wouldnt say anything.,START_ मैले केही नबोल्ने वाचा गरेँ । _END
+i submitted the application myself.,START_ मैले आफैंले आवेदन बुझाएँ। _END
+i thought tom was marys boyfriend.,START_ मलाई टम मेरीको प्रेमी थियो भन्ने लाग्यो। _END
+i usually eat rice with chopsticks.,START_ म प्रायः चपस्टिकले भात खान्छु। _END
+ill call tom when i get to boston.,START_ म बोस्टन पुग्दा टमलाई कल गर्नेछु। _END
+ill finish it as quickly as i can.,START_ म जतिसक्दो चाँडो यसलाई सक्छु। _END
+im going to miss you an awful lot.,START_ म तिमीलाई धेरै मिस गर्नेछु। _END
+im going to take a trip to boston.,START_ म बोस्टन यात्रा गर्न जाँदैछु। _END
+im learning two foreign languages.,START_ म दुई विदेशी भाषाहरू सिक्दैछु। _END
+ive gotten used to wearing a mask.,START_ मलाई मास्क लगाउने बानी परेको छ । _END
+"if you eat that, tom will be angry.",START_ यदि यो खायौ भने टम रिसाउनेछ। _END
+it is especially cold this morning.,START_ विशेषगरी आज बिहान चिसो छ। _END
+let tom do whatever he wants to do.,START_ टमले जे गर्न चाहन्छ त्यो गर्न दिनुहोस्। _END
+lets see whats happening outside.,START_ बाहिर के भइरहेको छ हेरौं। _END
+mathematics is my favorite subject.,START_ गणित मेरो मनपर्ने विषय हो। _END
+my grandfather likes reading books.,START_ हजुरबुबालाई किताब पढ्न मन पर्छ। _END
+remember to thank tom for the gift.,START_ उपहारको लागि टमलाई धन्यवाद दिन सम्झनुहोस्। _END
+she didnt know what to say to him.,START_ उसलाई के भन्ने उनीलाई थाहा थिएन। _END
+she felt insecure about her future.,START_ उनलाई आफ्नो भविष्यको चिन्ता लागेको थियो। _END
+she is always cheerful and smiling.,START_ उनी सधैं उज्याली र हँसिली छिन्। _END
+"she is not a doctor, but a teacher.","START_ उनी डाक्टर होइनन्, शिक्षक हुन्। _END"
+"the book doesnt have a title, yet.",START_ किताबको अहिलेसम्म शीर्षक छैन। _END
+the enemy of my enemy is my friend.,START_ मेरो शत्रुको पनि शत्रु मेरो मित्र हो। _END
+the king once lived in that palace.,START_ कुनै समय राजा त्यही दरबारमा बस्थे । _END
+the king once lived in that palace.,START_ कुनै समय त्यो दरबारमा राजा बस्थे। _END
+the person who can help you is tom.,START_ तपाईलाई मद्दत गर्न सक्ने व्यक्ति टम हो। _END
+the single rooms were fully booked.,START_ सिंगल कोठाहरू पूरै बुक भइसकेका थिए। _END
+"this isnt your kind of place, tom.","START_ यो तिम्रो प्रकारको ठाउँ होइन, टम। _END"
+tom admitted that he was terrified.,START_ टमले स्वीकार गरे कि उनी डराएको थिए। _END
+tom asked me what i had been doing.,START_ टमले मलाई के गरिरहेको थियौ भनेर सोधे। _END
+tom bought a very expensive camera.,START_ टमले धेरै महँगो क्यामेरा किने। _END
+tom covered his eyes with one hand.,START_ टमले एक हातले आफ्नो आँखा छोप्यो। _END
+tom doesnt care what people think.,START_ टमले मानिसहरू के सोच्छन् वास्ता गर्दैन। _END
+tom got married when he was thirty.,START_ टमले तीस वर्षको हुँदा विवाह गरे। _END
+tom has already finished breakfast.,START_ टमले पहिले नै बिहानको खाजा खाइसकेको छ। _END
+tom has visited a lot of countries.,START_ टमले धेरै देशको भ्रमण गरेको छ। _END
+tom headed straight for the bazaar.,START_ टम सिधै बजार तर्फ लागे। _END
+tom is leaving for boston tomorrow.,START_ टम भोलि बोस्टनको लागि प्रस्थान गर्दैछ। _END
+tom is not in prison at the moment.,START_ टम हाल जेलमा छैनन्। _END
+tom is not in prison at the moment.,START_ टम हाल जेलमा छैन। _END
+tom is older than i thought he was.,START_ टम मैले सोचेको भन्दा बुढो रहेछ। _END
+tom is sleeping in the living room.,START_ टम बैठक कोठामा सुतिरहेको छ। _END
+tom is still somewhere in the park.,START_ टम अझै पनि पार्क मा कतै छ। _END
+tom is too ugly to work as a model.,START_ मोडेलको रूपमा काम गर्न टम धेरै कुरूप छ। _END
+tom isnt marys boyfriend anymore.,START_ टम अब मेरीको प्रेमी रहेन। _END
+tom isnt very good at mathematics.,START_ टम गणितमा धेरै राम्रो छैन। _END
+tom often goes out with his father.,START_ टम अक्सर आफ्नो बुबा संग बाहिर जान्छ। _END
+tom often goes out with his father.,START_ टम प्रायः आफ्नो बुबासँग बाहिर जान्छ। _END
+tom said that he needed to do that.,START_ टमले भने कि उनले त्यो गर्न आवश्यक छ। _END
+tom says he cant walk any further.,START_ टम भन्छन् कि उनी अगाडि हिड्न सक्दैनन्। _END
+tom should arrive in a few minutes.,START_ टम केही मिनेटमा आइपुग्नु पर्छ। _END
+tom started whistling a happy tune.,START_ टमले सुसेलेर खुशीको धुन बजाउन थाल्यो। _END
+tom tells me youre his girlfriend.,START_ टमले मलाई तिमी उसको प्रेमिका हौ भन्छन्। _END
+tom was afraid to stay in the cave.,START_ टम गुफामा बस्न डरायो। _END
+tom was on the same plane as i was.,START_ टम म भएकै विमानमा थियो। _END
+"tom will follow my advice, i think.","START_ मलाई लाग्छ, टमले मेरो सल्लाह पालन गर्नेछ। _END"
+toms coffee mug is next to marys.,START_ टमको कफी मग मेरीको छेउमा छ। _END
+we havent actually set a date yet.,START_ हामीले वास्तवमा अझै मिति तय गरेका छैनौं। _END
+we washed our clothes in the river.,START_ हामीले खोलामा लुगा धोयौं। _END
+whatll tomorrows weather be like?,START_ भोलिको मौसम कस्तो रहनेछ? _END
+whats the worlds biggest problem?,START_ संसारको सबैभन्दा ठूलो समस्या के हो? _END
+whats your favorite kind of pizza?,START_ तपाइँको मनपर्ने पिज्जा कस्तो प्रकारको हो? _END
+where did tom get all those plants?,START_ टमले ती सबै बिरुवाहरू कहाँ ल्याए? _END
+where should i put these suitcases?,START_ मैले मेरो सुटकेस कहाँ राख्नु पर्छ? _END
+why did you let mary go by herself?,START_ तिमीले मेरीलाई किन एक्लै जान दियौ? _END
+you look good without your glasses.,START_ तपाईं आफ्नो चश्मा बिना राम्रो देखिनुहुन्छ। _END
+you must be very worried about tom.,START_ तपाईं टमको बारेमा धेरै चिन्तित हुनुपर्छ। _END
+are you going to attend the meeting?,START_ के तपाई बैठकमा भाग लिने योजनामा हुनुहुन्छ? _END
+are you going to attend the meeting?,START_ के तपाई बैठकमा भाग लिनुहुन्छ? _END
+do you have a fountain pen with you?,START_ के तपाईसँग फाउन्टेन पेन छ? _END
+do you know where tom mightve gone?,START_ के तपाईंलाई थाहा छ टम कहाँ गएको हुन सक्छ? _END
+"excuse me, which way is the station?","START_ माफ गर्नुहोस्, स्टेशन कुन दिशातिर छ? _END"
+he is the black sheep of the family.,START_ ऊ परिवारको कालो भेडा हो। _END
+how long may i borrow this notebook?,START_ म यो नोटबुक कहिले सम्म लिन सक्छु? _END
+how long may i borrow this notebook?,START_ म यो नोटबुक कहिले सम्म उधारो लिन सक्छु? _END
+i assure you this is only temporary.,START_ म तपाईलाई आश्वासन दिन्छु कि यो अस्थायी मात्र हो। _END
+i come to boston three times a year.,START_ म वर्षमा तीन पटक बोस्टन आउँछु। _END
+i couldnt think of anything to say.,START_ मैले केही बोल्ने सोच्नै सकिन। _END
+i dont know this part of town well.,START_ मलाई सहरको यो भाग राम्ररी थाहा छैन। _END
+i fell in love with a canadian girl.,START_ म क्यानाडाली केटीसँग प्रेममा परे। _END
+i have to be in australia on monday.,START_ म सोमबार अस्ट्रेलियामा हुनु पर्छ। _END
+i hope tom isnt still in australia.,START_ मलाई आशा छ कि टम अझै अष्ट्रेलियामा छैन। _END
+i knew tom could do that by himself.,START_ मलाई थाहा थियो कि टम आफैले यो गर्न सक्छ। _END
+i might be able to help you do that.,START_ म तपाईंलाई त्यसो गर्न मद्दत गर्न सक्षम हुन सक्छु। _END
+i opened the drawer to get a pencil.,START_ मैले पेन्सिल लिनको लागि दराज खोलेँ। _END
+i still havent decided where to go.,START_ कहाँ जाने भनेर मैले अझै निर्णय गरेको छैन। _END
+i think i locked my keys in the car.,START_ मलाई लाग्छ कि मैले मेरो चाबी कारमा लक गरेको छु। _END
+i understand what you want me to do.,START_ म बुझ्छु तिमीले मलाई के गरोस् भन्ने चाहन्छौ। _END
+im not feeling particularly hungry.,START_ मलाई खासै भोक लागेको छैन। _END
+im not sure that i want to do this.,START_ म यो गर्न चाहन्छु भनेर म पक्का छुइन। _END
+ive been working very hard all day.,START_ मैले दिनभरि निकै मेहनत गरेको छु । _END
+it will be finished in a day or two.,START_ यो एक दुई दिनमा सकिन्छ। _END
+lets get together here once a week.,START_ हामी हप्तामा एकपटक यहाँ भेटौ। _END
+my parents died when i was thirteen.,START_ म वर्षको हुँदा आमाबुवाको मृत्यु भयो। _END
+my parents died when i was thirteen.,START_ म वर्षको हुँदा मेरा आमाबुवाको मृत्यु भयो। _END
+please write down your home address.,START_ कृपया आफ्नो घरको ठेगाना प्रविष्ट गर्नुहोस्। _END
+she couldnt hold back her laughter.,START_ उनले आफ्नो हाँसो थाम्न सकिनन्। _END
+she visited at her aunts yesterday.,START_ उनी हिजो आफ्नो काकीको घरमा गएकी थिइन्। _END
+someone shouldve called the police.,START_ कसैले प्रहरीलाई बोलाउनुपर्थ्यो। _END
+sometimes my questions are answered.,START_ कहिलेकाहीँ मेरा प्रश्नहरूको जवाफ दिइन्छ। _END
+the climate problem is very complex.,START_ जलवायु समस्या निकै जटिल छ। _END
+the headline is somewhat misleading.,START_ शीर्षक अलि भ्रामक छ। _END
+this watch cost me ten thousand yen.,"START_ यो घडीको मूल्य , येन थियो। _END"
+today i want to eat something light.,START_ म आज केहि हल्का खानेकुरा खान चाहन्छु। _END
+tom and mary really liked australia.,START_ टम र मेरीले अस्ट्रेलियालाई साँच्चै मन पराए। _END
+tom didnt know what to say to mary.,START_ मेरीलाई के भन्ने भनेर टमलाई थाहा थिएन। _END
+tom didnt want anyone to get angry.,START_ टमले कोही रिसाएको चाहँदैनथे। _END
+tom doesnt like milk in his coffee.,START_ टमलाई आफ्नो कफीमा दूध मन पर्दैन। _END
+tom doesnt need to wait any longer.,START_ टमले अब पर्खनु पर्दैन। _END
+tom intends to visit mary on monday.,START_ टम सोमबार मेरीलाई भेट्न चाहन्छन्। _END
+tom is a doctor like his father was.,START_ टम आफ्नो बुबा जस्तै डाक्टर हो। _END
+tom is at the bank exchanging money.,START_ टम बैंकमा पैसा साट्दै छ। _END
+tom is working at a supermarket now.,START_ टम अहिले सुपरमार्केटमा काम गर्दैछ। _END
+tom killed himself three months ago.,START_ तीन महिनाअघि टमले आत्महत्या गरेका थिए । _END
+tom killed himself three months ago.,START_ टमले तीन महिनाअघि आत्महत्या गरेका थिए । _END
+tom learned a lot from his mistakes.,START_ टमले आफ्नो गल्तीबाट धेरै कुरा सिक्यो। _END
+tom lives in the apartment above us.,START_ टम हाम्रो अपार्टमेन्ट भन्दा माथिल्लो तल्लामा बस्छ। _END
+tom might be in australia with mary.,START_ टम मेरीसँग अष्ट्रेलियामा हुन सक्छ। _END
+tom put ketchup on his french fries.,START_ टमले आफ्नो फ्रेन्चफ्राइजमा केट्चप हाल्यो। _END
+tom said that he had a lot of money.,START_ टमले भने कि उनीसँग धेरै पैसा छ। _END
+tom seemed to know nothing about it.,START_ टमलाई यसबारे केही थाहा नभएको देखिन्थ्यो। _END
+tom stayed in boston for three days.,START_ टम बोस्टनमा तीन दिन बसे। _END
+tom was waiting for someone outside.,START_ टम बाहिर कसैलाई पर्खिरहेको थियो। _END
+tom was wearing tight-fitting jeans.,START_ टमले टाइट फिटिङ जीन्स लगाएका थिए। _END
+try to get home before it gets dark.,START_ अँध्यारो हुनु अघि घर जाने प्रयास गर्नुहोस्। _END
+what was that song you were singing?,START_ तिमीले गाएको त्यो गीत के थियो ? _END
+what was that song you were singing?,START_ तपाईंले गाएको त्यो गीत के थियो ? _END
+when will you come back from boston?,START_ बोस्टनबाट कहिले फर्किदै हुनुहुन्छ ? _END
+which one of these do you like best?,START_ तपाईलाई यी मध्ये कुन राम्रो लाग्छ? _END
+would you put those bags in the car?,START_ के तपाईं ती झोलाहरू कारमा राख्नु हुन्छ? _END
+beauty is in the eye of the beholder.,START_ सुन्दरता हेर्नेको नजरमा भर पर्छ। _END
+do tom and mary both want to do that?,START_ के टम र मेरी दुबै त्यसो गर्न चाहन्छन् ? _END
+dont you have anything better to do?,START_ के तपाईसँग राम्रो गर्न केहि छैन र? _END
+"gradually, things are getting better.","START_ बिस्तारै, चीजहरू राम्रो हुँदैछन्। _END"
+how far is it from boston to chicago?,START_ बोस्टन देखि शिकागो कति टाढा छ? _END
+i can understand what you are saying.,START_ मलाई थाहा छ तिमी के भन्दै छौ। _END
+i dont remember who wrote that song.,START_ त्यो गीत कसले लेखेको मलाई याद छैन। _END
+i found it easy when i gave it a try.,START_ मैले प्रयास गर्दा यो सजिलो लाग्यो। _END
+i saw the girl swimming in the river.,START_ मैले केटीलाई खोलामा पौडी खेलेको देखेँ। _END
+i want to be with you whenever i can.,START_ जब म सक्छु म तिम्रो साथ हुन चाहन्छु। _END
+ill meet you there as soon as i can.,START_ जति सक्दो चाँडो त्यहाँ भेट्छु। _END
+"im, as you know, a very busy person.","START_ म, तपाईलाई थाहा नै छ, धेरै व्यस्त व्यक्ति हुँ। _END"
+"if the weathers fine, lets do that.","START_ यदि मौसम ठीक छ भने, त्यसो गरौं। _END"
+it probably wont be easy to do that.,START_ सायद यो गर्न सजिलो छैन। _END
+japan produces a lot of good cameras.,START_ जापानले धेरै राम्रा क्यामेराहरू उत्पादन गर्छ। _END
+language is a means of communication.,START_ भाषा संचार को एक माध्यम हो। _END
+let us know if youd like to join us.,START_ यदि तपाईं हामीसँग सामेल हुन चाहनुहुन्छ भने हामीलाई थाहा दिनुहोस्। _END
+mary spread the big map on the table.,START_ मेरीले आफ्नो टेबलमा ठूलो नक्सा फैलाइन। _END
+my sister is my daughters godmother.,START_ मेरी बहिनी मेरी छोरीको धर्ममाता हो। _END
+my watch is more accurate than yours.,START_ मेरो घडी तपाईको भन्दा धेरै सटीक छ। _END
+"not knowing what to do, i called her.","START_ के गर्ने भनेर थाहा नभएर , मैले उनलाई बोलाए। _END"
+only time will tell if tom was right.,START_ केवल समयले बताउनेछ कि टम सही थियो। _END
+please remind me to call tom at :.,START_ कृपया मलाई : मा टमलाई कल गर्न सम्झाउनुहोस्। _END
+she used to play tennis every sunday.,START_ उनी हरेक आइतबार टेनिस खेल्ने गर्दथिन्। _END
+"sorry, but i cant go along with you.","START_ माफ गर्नुहोस्, तर म तपाईंसँग जान सक्दिन। _END"
+the drink i drink the most is coffee.,START_ मैले सबैभन्दा धेरै पिउने पेय भनेको कफी हो। _END
+the game was put off because of rain.,START_ वर्षाका कारण खेल स्थगित भएको थियो। _END
+the sun is setting below the horizon.,START_ सूर्य क्षितिज मुनि अस्ताउँदैछ। _END
+theres a cat in the conference room.,START_ सम्मेलन कक्षमा बिरालो छ। _END
+those two children were the same age.,START_ ती दुई बच्चा एउटै उमेरका थिए। _END
+tom and mary both enjoyed that movie.,START_ टम र मेरी दुबैले चलचित्रको आनन्द लिए। _END
+tom didnt know what the problem was.,START_ टमलाई समस्या के हो थाहा थिएन। _END
+tom has also spent time in australia.,START_ टमले अष्ट्रेलियामा पनि समय बिताएका छन्। _END
+tom isnt going to help mary do that.,START_ टमले मेरीलाई त्यसो गर्न मद्दत गर्ने छैन। _END
+tom realized that i couldnt do that.,START_ टमले बुझे कि म त्यो गर्न सक्दिन। _END
+tom refused to shake hands with mary.,START_ टमले मेरीसँग हात मिलाउन अस्वीकार गरे। _END
+tom spends a lot of money on clothes.,START_ टमले कपडाको लागि धेरै पैसा खर्च गर्दछ। _END
+tom took a book out of his briefcase.,START_ टमले आफ्नो ब्रिफकेसबाट एउटा किताब निकाले। _END
+tom was obviously not very impressed.,START_ टम स्पष्ट रूपमा धेरै प्रभावित थिएनन्। _END
+tom was the first person to sit down.,START_ पहिलो बस्ने व्यक्ति टम थियो। _END
+"tom was there, but he didnt help us.","START_ टम त्यहाँ थियो, तर उसले हामीलाई मद्दत गरेन। _END"
+what color is the roof of your house?,START_ तपाईको घरको छानो कस्तो रङको छ? _END
+what do you call that bird in french?,START_ तपाईं त्यो चरालाई फ्रेन्चमा कसरी भन्नुहुन्छ? _END
+what do you want to be in the future?,START_ भविष्यमा के बन्न चाहनुहुन्छ? _END
+what do you want to do in the future?,START_ तिमी भविष्यमा के गर्न चाहान्छौ? _END
+what time does that restaurant close?,START_ त्यो रेस्टुरेन्ट कति बजे बन्द हुन्छ? _END
+what website do you visit most often?,START_ तपाइँ प्रायः कुन वेबसाइट चलाउने गर्नुहुन्छ? _END
+whatll the weather be like tomorrow?,START_ भोलिको मौसम कस्तो रहनेछ? _END
+"who is better at french, tom or mary?","START_ फ्रान्सेली मा को राम्रो छ, टम वा मेरी? _END"
+why did you stop only the foreigners?,START_ तिमीले किन विदेशीलाई मात्र रोकेको ? _END
+why did you stop only the foreigners?,START_ तपाईले किन विदेशीलाई मात्र रोक्नुभएको ? _END
+will you please call me this evening?,START_ के तपाईं मलाई आज बेलुका फोन गर्न सक्नुहुन्छ? _END
+women generally live longer than men.,START_ महिलाहरु सामान्यतया पुरुषहरु भन्दा लामो समय बाँच्ने गर्दछ। _END
+you can never forget your first love.,START_ तिमीले आफ्नो पहिलो प्रेमलाई कहिल्यै भुल्न सक्दैनौ। _END
+you must not forget your schoolbooks.,START_ तिमीले आफ्नो स्कूलका किताबहरू बिर्सनु हुँदैन। _END
+youre the only one who wants to win.,START_ तपाईं मात्र एक हुनुहुन्छ जसले जित्न चाहन्छ। _END
+do you have any time to help me today?,START_ के तपाईसँग आज मलाई मद्दत गर्नको लागि कुनै समय छ? _END
+how do you say i love you in french?,START_ फ्रान्सेली भाषामा म तिमीलाई माया गर्छु भन्दा कसरी भन्छौ? _END
+how many times a day does the bus run?,START_ बस दिनमा कति पटक चल्छ? _END
+how often do you think thatll happen?,START_ तपाइँ कति पटक यो हुनेछ भन्ने सोच्नुहुन्छ? _END
+i cant leave work until five oclock.,START_ म बजेसम्म काम छोड्न सक्दिन। _END
+i havent decided yet if i want to go.,START_ यदि म जान चाहन्छु कि भनेर मैले अझै निर्णय गरेको छैन। _END
+i havent finished paying off my loan.,START_ मैले अझै पनि ऋण तिर्न सकेको छैन। _END
+i knew that tom was afraid of heights.,START_ मलाई थाहा थियो कि टम उचाइबाट डराउँछन्। _END
+i like white roses more than red ones.,START_ मलाई रातो गुलाब भन्दा सेतो गुलाब मन पर्छ। _END
+i need to talk to you about this soon.,START_ मलाई यस बारे तपाईंसँग चाँडै कुरा गर्न आवश्यक छ। _END
+i think i know what tom is doing here.,START_ टम यहाँ के गर्दैछ भनेर मलाई थाहा छ। _END
+i think you shouldnt have called tom.,START_ मलाई लाग्छ तपाईंले टमलाई बोलाउनु हुँदैनथ्यो। _END
+i thought that tom would want it back.,START_ मैले सोचे कि टमले यो फिर्ता चाहन्छ। _END
+im just buying some stuff for dinner.,START_ म बेलुकाको खानाको लागि केही सामान किन्दै छु। _END
+im not going to speak to tom anymore.,START_ म अब टमसँग कुरा गर्ने छैन। _END
+im pretty sure toms happy in boston.,START_ म पक्का छु कि टम बोस्टनमा खुसी छ। _END
+im sorry to hear that tom is so sick.,START_ टम धेरै बिरामी भएको कुरा सुनेर मलाई दुख लाग्यो। _END
+ive been boxing since i was thirteen.,START_ म तेह्र वर्षको उमेरदेखि बक्सिङ गर्दै आएको छु। _END
+it has been raining since last monday.,START_ गत सोमबारदेखि पानी परिरहेको छ। _END
+it wouldve been unethical to do that.,START_ त्यसो गर्नु अनैतिक हुने थियो। _END
+making model planes is his only hobby.,START_ मोडल प्लेन बनाउनु उनको एकमात्र शौक हो। _END
+mathematics is an interesting subject.,START_ गणित एउटा रोचक विषय हो। _END
+the mountaintops are hidden by clouds.,START_ पहाडको चुचुरोलाई बादलले छोपेको छ । _END
+the store opens for business tomorrow.,START_ भोलिदेखि पसल खुल्नेछ। _END
+they went on many adventures together.,START_ उनीहरु सँगै धेरै साहसिक कार्यमा गए । _END
+this is a poem written by tom jackson.,START_ यो टम ज्याक्सन द्वारा लेखिएको कविता हो। _END
+this is the perfect fathers day gift.,START_ यो उत्तम बुबाको मुख हेर्ने दिनको उपहार हो। _END
+tom always blames mary for everything.,START_ टमले सधैं सबै कुरामा मेरीलाई दोष दिन्छ। _END
+tom and i danced together all evening.,START_ टम र मैले पुरै साँझमा सँगै नाच्यौं। _END
+tom didnt do what you told him to do.,START_ टमले तपाईंले उसलाई जे गर्न भन्नुभएको थियो त्यो गरेन। _END
+tom died when he was thirty years old.,START_ तीस वर्षको हुँदा टमको मृत्यु भयो। _END
+tom doesnt like to talk about boston.,START_ टम बोस्टनको बारेमा कुरा गर्न मन पराउँदैनन्। _END
+"tom has an umbrella, but mary doesnt.","START_ टमसँग छाता छ, तर मेरीसँग छैन। _END"
+tom is a very talented young director.,START_ टम धेरै प्रतिभाशाली युवा निर्देशक हुन्। _END
+tom is probably still waiting for you.,START_ टम सायद अझै तपाइँको लागि पर्खिरहेको छ। _END
+tom is probably still waiting for you.,START_ टम सायद अझै तिम्रो लागि पर्खिरहेको छ। _END
+tom is the one who gave me this apple.,START_ टम एक हो जसले मलाई यो स्याउ दियो। _END
+tom is the one who told us what to do.,START_ टम एक हो जसले हामीलाई के गर्ने भन्यो। _END
+tom isnt as intelligent as you think.,START_ टम तपाईले सोचे जस्तो बुद्धिमानी छैन। _END
+tom probably went to a friends house.,START_ टम सायद साथीको घरमा गएको छ। _END
+tom says he doesnt like his nickname.,START_ टम भन्छन् कि उसलाई आफ्नो उपनाम मन पर्दैन। _END
+tom translated the letter into french.,START_ टमले पत्रलाई फ्रेन्चमा अनुवाद गर्यो। _END
+tom was hoping wed do that with mary.,START_ टमलाई आशा थियो कि हामीले मरियमसँग त्यसो गर्नेछौं। _END
+tom was supposed to help me on monday.,START_ टमले मलाई सोमबार मद्दत गर्ने थियो। _END
+tom wasnt the only one who drank tea.,START_ चिया पिउने टम मात्र थिएनन्। _END
+tom will never become a good musician.,START_ टम कहिल्यै राम्रो संगीतकार बन्ने छैन। _END
+"we tried it again, but couldnt do it.",START_ हामीले फेरि प्रयास गर्यौ तर गर्न सकेनौ। _END
+we want a woman whos good at cooking.,START_ हामी खाना पकाउन माहिर महिला चाहान्छौं। _END
+what kind of person do you want to be?,START_ तपाई कस्तो मान्छे बन्न चाहनुहुन्छ? _END
+whats the weather like in boston now?,START_ बोस्टनको मौसम अहिले कस्तो छ? _END
+"when i got up, it was snowing outside.",START_ म उठ्दा खेरि बाहिर हिउँ परिरहेको थियो। _END
+why does tom like living in australia?,START_ टम किन अस्ट्रेलियामा बस्न मन पराउँछन्? _END
+you dont have to take off your socks.,START_ तपाईंले आफ्नो मोजाहरू फुकाउन आवश्यक छैन। _END
+"you know tom wont do that, dont you?","START_ तपाईलाई थाहा छ टमले त्यसो गर्दैन, हैन? _END"
+you need to be a bit more cooperative.,START_ तिमि अलि बढी सहयोगी बन्न जरुरी छ । _END
+you need to hire people you can trust.,START_ तपाईंले विश्वास गर्न सक्ने व्यक्तिहरूलाई भर्ना गर्न आवश्यक छ। _END
+cant you and tom stay a little longer?,START_ के तपाईं र टम केही समय बस्न सक्नुहुन्न? _END
+do you know anybody who teaches french?,START_ के तपाइँ फ्रान्सेली सिकाउने कसैलाई चिन्नुहुन्छ? _END
+dont blame yourself for what happened.,START_ जे भयो त्यसको लागि आफैलाई दोष नदिनुहोस्। _END
+dont forget to thank tom for the gift.,START_ उपहारको लागि टमलाई धन्यवाद दिन नबिर्सनुहोस्। _END
+dont you have something to say to tom?,START_ के तपाइँसँग टमलाई भन्न केहि छैन? _END
+dont you think we should raise prices?,START_ तपाईंलाई हामीले मूल्यवृद्धि गर्नुपर्छ जस्तो लाग्दैन ? _END
+how many of you drink coffee every day?,START_ तपाईहरु मध्ये कति जना हरेक दिन कफी पिउनुहुन्छ? _END
+i didnt know that tom was from boston.,START_ टम बोस्टनबाट आएको मलाई थाहा थिएन। _END
+i dont like it when people yell at me.,START_ मानिसहरूले मलाई चिच्याएको मलाई यो मन पर्दैन। _END
+i dont think this is a very good idea.,START_ मलाई लाग्दैन कि यो एकदम राम्रो विचार हो। _END
+i dont think this is a very good idea.,START_ मलाई लाग्दैन कि यो धेरै राम्रो विचार हो। _END
+i dont think youll have that problem.,START_ मलाई लाग्दैन कि तपाईलाई त्यो समस्या हुनेछ। _END
+i have enough sandwiches for everybody.,START_ मसँग सबैजनाका लागि स्यान्डविचहरू छन्। _END
+i jumped out of bed and ran downstairs.,START_ म ओछ्यानबाट हाम फालेर तल दगुरेँ। _END
+"i told tom a joke, but he didnt laugh.","START_ मैले टमलाई चुड्किला भनेँ, तर ऊ हाँसेन। _END"
+im drinking water because im thirsty.,START_ तिर्खा लागेकोले पानी पिउदै छु । _END
+im from australia. where are you from?,START_ म अस्ट्रेलिया बाट हुँ। तिमी कहाँको हौं? _END
+im from australia. where are you from?,START_ म अस्ट्रेलिया बाट हुँ। तपाईं कहाँबाट हुनुहुन्छ? _END
+im from australia. where are you from?,START_ म अष्ट्रेलियाबाट आएको हुँ। तपाईं कहाँबाट हुनुहुन्छ? _END
+im from australia. where are you from?,START_ म अस्ट्रेलिया बाट हुँ। तिमी कहाँबाट हौ? _END
+many japanese travel abroad every year.,START_ हरेक वर्ष धेरै जापानीजहरु विदेश भ्रमण गर्दछन्। _END
+oranges are a good source of vitamin c.,START_ सुन्तला भिटामिन सी को राम्रो स्रोत हो। _END
+please send in your summary by tuesday.,START_ कृपया मङ्गलबारसम्म आफ्नो सारांश पठाउनुहोस्। _END
+raise your hand if you have a question.,START_ यदि तपाइँसँग कुनै प्रश्न छ भने हात उठाउनुहोस्। _END
+thanks in advance for your suggestions.,START_ तपाईंको सुझावहरूको लागि अग्रिम धन्यवाद। _END
+the last time i saw tom was in october.,START_ अन्तिम पटक मैले टमलाई अक्टोबरमा देखेको थिएँ। _END
+there are a lot of things tom wont do.,START_ त्यहाँ धेरै चीजहरू छन् जुन टमले गर्नेछैन। _END
+theres someone waiting for me outside.,START_ बाहिर कोही मलाई पर्खिरहेको छ। _END
+tom finally got here around lunch time.,START_ टम अन्ततः खाजाको समयको आसपासमा यहाँ आइपुगे। _END
+tom hasnt taken a bath in a long time.,START_ टमले लामो समयदेखि नुहाएको छैन। _END
+"tom is still in love with you, i think.","START_ मलाई लाग्छ, टम अझै पनि तपाईंसँग प्रेममा छ। _END"
+tom looks cool no matter what he wears.,START_ टमले जस्तोसुकै लगाए पनि राम्रो देखिन्छ। _END
+tom was showing mary how to fly a kite.,START_ टमले मेरीलाई चङ्गा उडाउने तरिका देखाउँदै थिए। _END
+tom went straight home after the party.,START_ टम पार्टी पछि सिधै घर गए। _END
+tom wouldnt be happy if mary did that.,START_ यदि मेरीले त्यसो गरिन् भने टम खुसी हुनेछैनन्। _END
+ulaanbaatar is the capital of mongolia.,START_ उलानबाटार मंगोलियाको राजधानी हो। _END
+we have three televisions in our house.,START_ हाम्रो घरमा तीनवटा टिभी छन्। _END
+why do you think tom went to australia?,START_ तपाईलाई टम किन अष्ट्रेलिया गएको जस्तो लाग्छ? _END
+you know this isnt where i want to be.,START_ तिमीलाई थाहा छ यो त्यो ठाउँ होइन जहाँ म हुन चाहन्छु। _END
+"youre feeling very sleepy, arent you?","START_ तपाईलाई धेरै निद्रा लागेको छ, हैन? _END"
+"youre feeling very sleepy, arent you?","START_ तिमीलाई धेरै निद्रा लागेको छ, हैन? _END"
+a man cant be judged by his appearance.,START_ मानिसलाई उसको रूपले मूल्याङ्कन गर्न सकिँदैन। _END
+do you know whats going to happen next?,START_ के तपाईलाई थाहा छ अब के हुने छ? _END
+do you really think you need to do that?,START_ के तपाई साँच्चै सोच्नुहुन्छ कि तपाईले त्यसो गर्नु आवश्यक छ? _END
+"every year, many japanese travel abroad.",START_ हरेक वर्ष धेरै जापानीजहरु विदेश भ्रमण गर्दछन्। _END
+germany is about half the size of texas.,START_ जर्मनी टेक्सासको आधा आकारको छ। _END
+germany is about the same size as japan.,START_ जर्मनीको आकार जापान जत्तिकै छ। _END
+he made a great fortune in his lifetime.,START_ उसले जिन्दगीमा धेरै सम्पति जोड्यो। _END
+i cant understand what you said at all.,START_ तपाईंले के भन्नुभयो मैले केही पनी बुझ्न सकिन। _END
+i dont know how long ill be in boston.,START_ मलाई थाहा छैन म कहिलेसम्म बोस्टनमा बस्छु। _END
+i dont know why youre studying french.,START_ मलाई थाहा छैन तिमी किन फ्रेन्च पढ्दै छौ। _END
+i dont remember how to spell your name.,START_ तिम्रो नाम कसरी लेख्ने मलाई याद छैन। _END
+i knew that tom was in his room reading.,START_ मलाई थाहा थियो कि टम आफ्नो कोठामा पढिरहेको थियो। _END
+i like white roses better than red ones.,START_ मलाई रातो गुलाब भन्दा सेतो गुलाब मन पर्छ। _END
+i think tom wont be nervous doing that.,START_ मलाई लाग्छ कि टम त्यसो गर्दा नर्भस हुनेछैन। _END
+i usually eat rice at least twice a day.,START_ म सामान्यतया दिनमा कम्तिमा दुई पटक भात खान्छु। _END
+i went to the airport to meet my father.,START_ बुबालाई भेट्न एयरपोर्ट गएँ। _END
+id be willing to help if you need help.,"START_ यदि तपाईंलाई मद्दत चाहिन्छ भने, म मद्दत गर्न सक्छु। _END"
+im not convinced ghosts actually exist.,START_ भूतहरू वास्तवमा छन् भन्ने कुरामा म विश्वस्त छैन। _END
+im not particularly good at doing that.,START_ म त्यसो गर्नमा खासै राम्रो छैन। _END
+"im sorry, could you repeat that please?","START_ कृपया मलाई माफ गर्नुहोस्, फेरी एक पटक दोहोर्याउन सक्नुहुन्छ? _END"
+im very interested in irish folk music.,START_ मलाई आयरिश लोक संगीतमा धेरै रुचि छ। _END
+ive finished preparations for tomorrow.,START_ भोलिको तयारी पूरा गरिसकेको छु। _END
+it has developed into a very large city.,START_ यो एक धेरै ठूलो शहर मा विकसित भएको छ। _END
+it is rumored that he has gone bankrupt.,START_ ऊ टाट पल्टियो भन्ने हल्ला छ। _END
+thank you very much for your suggestion.,START_ तपाईको सुझावको लागि धेरै धेरै धन्यवाद। _END
+that old house is thought to be haunted.,START_ त्यो पुरानो घरमा तर्साउने गरेको मानिन्छ । _END
+there are some empty bottles in the box.,START_ बाकसमा खाली बोतलहरु छन्। _END
+tom couldnt read until he was thirteen.,START_ टमले तेह्र वर्षको नहुँदासम्म पढ्न सकेनन्। _END
+tom doesnt have a girlfriend right now.,START_ टमको अहिले कुनै प्रेमिका छैन। _END
+tom has asked me to lend him some money.,START_ टमले मलाई केही पैसा उधारो दिन आग्रह गरेको छ। _END
+"tom is a billionaire, not a millionaire.","START_ टम अर्बपति हो, करोडपति होइन। _END"
+tom is all alone with no one to talk to.,START_ टम एक्लै छ जससँग कुरा गर्न कोही छैन। _END
+tom isnt here. do you know where he is?,START_ टम यहाँ छैन। ऊ कहाँ छ थाहा छ? _END
+tom probably went to his friends house.,START_ टम सायद साथीको घरमा गएको छ। _END
+tom showed mary where he kept his money.,START_ टमले मेरीलाई आफ्नो पैसा कहाँ राखेको देखाए । _END
+tom will never forgive us if we do that.,START_ यदि हामीले त्यसो गर्यौं भने टमले हामीलाई कहिल्यै माफ गर्नेछैन। _END
+"we have a dog, a cat and three canaries.","START_ हामीसँग एउटा कुकुर, एउटा बिरालो र तीनवटा क्यानरीहरू छन्। _END"
+you dont need to finish it by tomorrow.,START_ तपाईंले यसलाई भोलिसम्म पूरा गर्न आवश्यक छैन। _END
+you may come visit whenever you want to.,START_ तपाईले चाहानु भएको बेला घुम्न आउन सक्नुहुन्छ। _END
+youd better stay in bed for a few days.,START_ तपाईं केही दिन ओछ्यानमै बस्नु राम्रो हुन्छ। _END
+a lot of companies will do that nowadays.,START_ आजकल धेरै कम्पनीहरूले त्यसो गर्नेछन्। _END
+i dont feel like studying english today.,START_ आज मलाई अंग्रेजी पढ्न मन लागेको छैन। _END
+i dont know how long its going to take.,START_ मलाई थाहा छैन यसले कति समय लिन्छ। _END
+i dont think ill ever understand women.,START_ मलाई लाग्दैन कि मैले महिलालाई कहिल्यै बुझ्नेछु। _END
+i dont want to go to australia with you.,START_ म तिमीसँग अस्ट्रेलिया जान चाहन्न। _END
+i first met tom when he was years old.,START_ मैले पहिलो पटक टमलाई ऊ वर्षको हुँदा भेटेको थिएँ। _END
+i think youve got a really bad attitude.,START_ मलाई लाग्छ कि तपाईंले साँच्चै नराम्रो मनोवृत्ति पाउनुभएको छ। _END
+i waited by myself in front of the hotel.,START_ म होटल अगाडि एक्लै पर्खिरहेको थिएँ । _END
+i want to become a doctor like my father.,START_ म मेरो बुबा जस्तै डाक्टर बन्न चाहन्छु। _END
+i want to get out of the car and stretch.,START_ म कारबाट बाहिर निस्कन र जिउ तन्काउन चाहन्छु। _END
+id like a room facing the ocean instead.,START_ म यसको सट्टा समुद्रतिर फर्केको कोठा चाहन्छु। _END
+ill be with tom all next week in boston.,START_ म अर्को हप्ता बोस्टनमा टमसँग हुनेछु। _END
+its fun to learn about foreign cultures.,START_ विदेशी संस्कृतिको बारेमा जान्न पाउँदा रमाइलो हुन्छ। _END
+its fun to learn about foreign cultures.,START_ विदेशी संस्कृतिको बारेमा जान्न रमाइलो हुन्छ। _END
+many japanese travel overseas every year.,START_ हरेक वर्ष धेरै जापानीजहरु विदेश भ्रमण गर्दछन्। _END
+mary wore a strapless dress to the party.,START_ मेरीले पार्टीमा स्ट्र्यापलेस पोशाक लगाएकी थिइन्। _END
+"my mother is strict, but my father isnt.","START_ मेरी आमा कडा हुनुहुन्छ, तर बुबा त्यस्तो हुनुहुन्न। _END"
+thank you for teaching me so many things.,START_ मलाई धेरै कुरा सिकाउनु भएकोमा धन्यवाद। _END
+the truth can be more painful than a lie.,START_ सत्य झूट भन्दा धेरै पीडादायी हुन सक्छ। _END
+there is a suspension bridge ahead of us.,START_ हाम्रो अगाडि एउटा झोलुङ्गे पुल छ। _END
+tom and i danced together all night long.,START_ टम र म सँगै रातभर नाच्यौं। _END
+tom first came to boston three years ago.,START_ टम पहिलो पटक तीन वर्ष पहिले बोस्टन आएका थिए। _END
+tom gave almost all his money to charity.,START_ टमले आफ्नो प्रायः सबै पैसा परोपकारलाई दिए। _END
+tom put himself and his children at risk.,START_ टमले आफू र आफ्ना छोराछोरीलाई जोखिममा राखे। _END
+tom told me that he hasnt done that yet.,START_ टमले मलाई भन्यो कि उसले त्यो अहिलेसम्म गरेको छैन। _END
+tom wasnt able to get the motor started.,START_ टम मोटर सुरु गर्न सक्षम थिएन। _END
+tom will be able to do what he has to do.,START_ टमले आफूले गर्नुपर्ने काम गर्न सक्षम हुनेछ। _END
+were beginning a long and difficult job.,START_ हामी लामो र कठिन काम सुरु गर्दैछौं। _END
+what time did you go to sleep last night?,START_ हिजो राति कति बजे सुत्नु भएको थियो ? _END
+"without me, you wont be able to do that.","START_ म बिना, तपाईं त्यो गर्न सक्षम हुनुहुने छैन। _END"
+would it be ok if i turned off the radio?,START_ के म रेडियो बन्द गर्न सक्छु? _END
+would it be ok if i turned the radio off?,START_ के म रेडियो बन्द गर्न सक्छु? _END
+would you mind if i turned off the radio?,START_ के म रेडियो बन्द गर्न सक्छु? _END
+would you mind if i turned the radio off?,START_ के म रेडियो बन्द गर्न सक्छु? _END
+you dont have to answer these questions.,START_ तपाईंले यी प्रश्नहरूको जवाफ दिनु पर्दैन। _END
+what time is it now? its ten oclock.,START_ अहिले कति बज्यो? दश बज्यो। _END
+cats were sacred animals in ancient egypt.,START_ बिरालाहरू प्राचीन इजिप्टमा पवित्र जनावरहरू थिए। _END
+did i ever tell you why i moved to boston?,START_ म किन बोस्टनमा सरेँ भनेर के मैले तपाईंलाई कहिल्यै बताएको छु? _END
+do you spend more time at home or at work?,START_ तपाई घरमा कि काममा धेरै समय बिताउनुहुन्छ? _END
+"every year, many japanese travel overseas.",START_ हरेक वर्ष धेरै जापानीजहरु विदेश भ्रमण गर्दछन्। _END
+he is the greatest singer that ever lived.,START_ उनी अहिलेसम्मकै उत्कृष्ट गायक हुन्। _END
+how many languages can you speak fluently?,START_ तपाईं कतिवटा भाषाहरू सजिलै बोल्न सक्नुहुन्छ? _END
+"i like rice, but i dont eat it every day.","START_ मलाई भात मनपर्छ, तर म हरेक दिन खान्न। _END"
+i really dont understand whats so funny.,START_ म साँच्चै बुझ्न सक्दिन कि यति हास्यास्पद के हो। _END
+id like to stay here for a few more days.,START_ म अझै केही दिन यहाँ बस्न चाहन्छु। _END
+ill meet up with you guys this afternoon.,START_ म आज दिउँसो तपाईंहरूसँग भेट गर्नेछु। _END
+im not the kind of person you think i am.,START_ म तिमीले सोचेको जस्तो मान्छे होइन। _END
+im not used to making speeches in public.,START_ मलाई सार्वजनिक रूपमा भाषण गर्ने बानी छैन। _END
+im really looking forward to toms visit.,START_ म साँच्चै टमको भ्रमणको लागि पर्खिरहेको छु। _END
+im sure that tom feels the same way i do.,START_ म पक्का छु कि टमले पनि मैले जस्तै महसुस गर्छ। _END
+mark the words that you cannot understand.,START_ तपाईंले नबुझेका शब्दहरूमा चिन्ह लगाउनुहोस्। _END
+the policeman took the knife from the boy.,START_ प्रहरी जवानले केटाबाट छुरी लिए। _END
+the question is who will go there for tom.,"START_ प्रश्न यो छ, टमको लागि त्यहाँ को जानेछ? _END"
+there is a parking lot behind the theater.,START_ थिएटरको पछाडि एउटा पार्किङ छ। _END
+this is one of the best-selling cookbooks.,START_ यो सबैभन्दा धेरै बिक्री हुने कुकबुकहरू मध्ये एक हो। _END
+tom didnt seem to know anything about it.,START_ टमलाई यसबारे सबै थाहा भए जस्तो देखिदैनथ्यो। _END
+tom doesnt seem to agree with you at all.,START_ टम तपाईंसँग बिलकुलै सहमत छैन जस्तो देखिन्छ। _END
+tom doesnt seem to agree with you at all.,START_ टम तपाईंसँग बिलकुल सहमत छ जस्तो देखिँदैन। _END
+tom doesnt seem to be enjoying the party.,START_ टम पार्टीको मजा लिइरहेको जस्तो देखिदैन। _END
+tom gave his father a tie on fathers day.,START_ टमले आफ्नो बुबालाई फादर्स डेमा टाई दिए। _END
+tom gave his father a tie on fathers day.,START_ टमले आफ्नो बुबालाई बुबा को मुख हेर्ने दिनमा टाई दिए। _END
+tom has a friend who is a wrestling coach.,START_ टमको एक साथी छन् जो कुश्तीका प्रशिक्षक हुन्। _END
+tom no longer works as much as he used to.,START_ टमले पहिलेको जस्तो काम गर्दैनन्। _END
+tom said something that he shouldnt have.,START_ टमले आफुले भन्न नहुने कुरा भने। _END
+tom should be getting ready for the party.,START_ टम पार्टीको लागि तयार हुनुपर्दछ। _END
+tom told mary that hed agreed to do that.,START_ टमले मेरीलाई भने कि उनी त्यसो गर्न सहमत छन्। _END
+tom was kind of chubby in the third grade.,START_ टम तेस्रो कक्षामा एक प्रकारको मोटो थियो। _END
+what does being a good mother mean to you?,START_ तपाईलाई असल आमा हुनुको अर्थ के हो? _END
+why did tom decide not to go to australia?,START_ टमले किन अस्ट्रेलिया नजाने निर्णय गरे? _END
+you could do that if you really wanted to.,START_ यदि तपाईं साँच्चै चाहनुहुन्छ भने तपाईंले त्यो गर्न सक्नुहुन्छ। _END
+you could do that if you really wanted to.,START_ यदि तिमी साँच्चै चाहान्छौ भने तिमीले त्यो गर्न सक्छौ। _END
+concert tickets are on sale at this office.,START_ यस कार्यालयमा कन्सर्टका टिकटहरू बिक्रीमा छन्। _END
+do you think its safe to drink this water?,START_ के तपाईलाई यो पानी पिउन सुरक्षित छ भन्ने लाग्छ? _END
+everybody except us knew what was going on.,START_ के भइरहेको छ हामी बाहेक सबैलाई थाहा थियो। _END
+germany is about twice the size of uruguay.,START_ जर्मनी उरुग्वे भन्दा दोब्बर ठुलो छ। _END
+i cant figure out why you dont like jazz.,START_ तपाईलाई ज्याज किन मन पर्दैन भन्ने कुरा म बुझ्न सक्दिन। _END
+i dont want to be involved in that matter.,START_ म यसमा संलग्न हुन चाहन्न। _END
+i first used a computer about years ago.,START_ मैले वर्ष अगाडी पहिलो पटक कम्प्युटर चलाएको थिए। _END
+i just wanted to see how youve been doing.,START_ म भर्खरै हेर्न चाहे कि तपाईं कस्तो गरिरहनुभएको छ। _END
+i think you need to keep your mouth closed.,START_ मलाई लाग्छ कि तपाईंले आफ्नो मुख बन्द राख्नुपर्छ। _END
+i thought that tom might be your boyfriend.,START_ टम तिम्रो प्रेमी हुन सक्छ भन्ने सोचेको थिएँ। _END
+i thought that we wouldnt have to do that.,START_ मैले सोचेँ कि हामीले त्यसो गर्नु पर्दैन। _END
+i want to eat the same thing tom is eating.,START_ म टमले जे खाइरहेको छ त्यही खान चाहन्छु। _END
+ill bring you a cup of tea while you wait.,START_ तिमी पर्खँदा म एक कप चिया ल्याइदिन्छु। _END
+im sure tom will be ready to do that soon.,START_ टम फ्रान्सेली मा आश्चर्यजनक रूपमा राम्रो छ। _END
+its almost three miles from here to there.,START_ यहाँदेखि त्यहाँसम्म करिब तीन किलोमिटर छ। _END
+mary joined the army when she was eighteen.,START_ मेरीअठार वर्षको हुँदा सेनामा भर्ना भएकी थिइन्। _END
+maybe im the one who should be doing that.,START_ सायद म नै हुँ जसले त्यसो गर्नु पर्छ। _END
+tell tom that im working as fast as i can.,START_ टमलाई भन्नुहोस् कि म सकेसम्म छिटो काम गरिरहेको छु। _END
+the photographs are the only proof we have.,START_ तस्बिरहरू मात्र हामीसँग प्रमाण हुन्। _END
+"this chair was cheap, but its comfortable.","START_ यो कुर्सी सस्तो थियो, तर यो सहज छ। _END"
+this is exactly what ive been looking for.,START_ यो ठ्याक्कै मैले खोजेको कुरा हो। _END
+this is the only way to solve this problem.,START_ यो समस्या समाधान गर्ने एक मात्र तरिका हो। _END
+tom asked mary to take him to the hospital.,START_ उसलाई अस्पताल लैजान टमले मेरीलाई आग्रह गरे। _END
+tom doesnt care whether we do that or not.,START_ टमलाई वास्ता छैन कि हामीले त्यसो गर्छौं वा गर्दैनौं। _END
+tom looked pretty sick when i last saw him.,START_ मैले अन्तिम पटक देख्दा टम एकदमै बिरामी देखिन्थे। _END
+tom said he was glad that you werent hurt.,START_ टमले भने तपाईलाई चोट नलागेकोमा उ खुसि थियो। _END
+tom wanted to know who mary was talking to.,START_ टम जान्न चाहन्थे मेरी कोसंग कुरा गर्दै थिहिन्। _END
+tom was aware that mary was staring at him.,START_ टमलाई थाहा थियो कि मेरीले उसलाई हेरिरहेकी छिन्। _END
+tom was reprimanded for being rude to mary.,START_ टमलाई मेरीसँग असभ्य व्यवहार गरेकोमा हप्काइयो। _END
+were worried about what might happen next.,START_ हामी अब के हुन सक्छ भनेर चिन्तित छौं। _END
+where is it? ive been searching for hours.,START_ त्यो कहाँ छ? म घण्टौंदेखि खोज्दै छु । _END
+did you notice that tom was staring at mary?,START_ के तपाईंले टमले मेरीलाई हेरिरहेको याद गर्नुभयो? _END
+do you know exactly what youre looking for?,START_ के तपाईलाई थाहा छ ठ्याकै तपाई के खोज्दै हुनुहुन्छ? _END
+how many more days are you planning to stay?,START_ अझै कति दिन बस्ने सोचमा हुनुहुन्छ ? _END
+i always have trouble pronouncing that word.,START_ मलाई त्यो शब्द उच्चारण गर्न सधैं गाह्रो हुन्छ। _END
+i asked tom why he had never gotten married.,START_ मैले टमलाई सोधेँ किन उसले कहिल्यै बिहे नगरेको। _END
+i didnt really like the food that tom made.,START_ मलाई टमले बनाएको खाना मन परेन। _END
+i dont understand the meaning of this word.,START_ मैले यो शब्दको अर्थ बुझिन। _END
+i think you spend too much time watching tv.,START_ मलाई लाग्छ तपाईं टिभी हेरेर धेरै समय बिताउनुहुन्छ। _END
+i want to eat curry rice for supper tonight.,START_ म आज रातको खानाको लागि भात तरकारी खान चाहन्छु। _END
+neither tom nor mary wants to do that today.,START_ न टम न मेरी आज त्यो गर्न चाहन्छन्। _END
+nobody was listening to what tom was saying.,START_ टमको कुरा कसैले सुनिरहेका थिएनन्। _END
+tom asked mary to make him something to eat.,START_ टमले मेरीलाई उसका लागी केही खानेकुरा बनाउन आग्रह गरे। _END
+tom doesnt know why mary wanted to do that.,START_ टमलाई थाहा छैन किन मेरीले त्यसो गर्न चाहान्थिन। _END
+tom isnt as intelligent as you might think.,START_ टम तपाईले सोचे जस्तो बुद्धिमानी छैन। _END
+whos your favorite character in this movie?,START_ यो चलचित्रमा तपाईलाई मन पर्ने पात्र को हो ? _END
+why dont we go and see the cherry blossoms?,START_ फूल फुलेको हेर्न जाऔं। _END
+why dont we go and see the cherry blossoms?,START_ हानामी मनाउन जाऔं। _END
+why dont we go and see the cherry blossoms?,START_ हानामी मनाउन जाने हैन? _END
+you probably already know about our company.,START_ सायद तपाईलाई हाम्रो कम्पनी बारेमा पहिले नै थाहा छ। _END
+"can i have two hamburgers and a coke, please?",START_ कृपया दुईवटा ह्याम्बर्गर र एउटा कोक दिनुहोस्। _END
+have you made plans for your summer vacation?,START_ के तपाईंले आफ्नो गर्मी बिदाको लागि योजना बनाउनुभएको छ? _END
+he is amusing himself by playing video games.,START_ उनी भिडियो गेम खेलेर रमाइलो गरिरहेका छन् । _END
+he is amusing himself by playing video games.,START_ उ भिडियो गेम खेलेर रमाइलो गरिरहेका छ । _END
+how many billionaires are there in the world?,START_ विश्वमा कति अर्बपति छन् ? _END
+i didnt realize tom didnt know how to swim.,START_ टम पौडी खेल्न जान्दैनन् भन्ने मलाई थाहा थिएन। _END
+i dont have as much money as i used to have.,START_ मसँग पहिलाको जति पैसा छैन। _END
+i dont like to use liquid laundry detergent.,START_ मलाई तरल लुगा धुने डिटर्जेन्ट प्रयोग गर्न मन लाग्दैन। _END
+i have only one picture of great-grandmother.,START_ मसँग बुढी हजुरआमाको एउटा मात्र तस्वीर छ। _END
+i want to spend the rest of my life with you.,START_ म बाँकी जीवन तिमीसँगै बिताउन चाहन्छु। _END
+im sorry that i opened your mail by mistake.,START_ मैले गल्तीले तपाईको मेल खोलेकोमा क्षमाप्रार्थी छु। _END
+mt. everest is the highest peak in the world.,START_ माउन्ट एभरेष्ट संसारको सबैभन्दा अग्लो चुचुरो हो। _END
+please take care of our dog while were away.,START_ कृपया हामी टाढा हुँदा हाम्रो कुकुरको हेरचाह गर्नुहोस्। _END
+that bridge took nearly three years to build.,START_ उक्त पुल निर्माणमा करिब तीन वर्ष लागेको थियो। _END
+the driver of the car that hit tom was drunk.,START_ टमलाई ठक्कर दिने कारको चालक रक्सीले मातेको थियो। _END
+there is a station in the center of the city.,START_ शहर को बीच मा एक स्टेशन छ। _END
+there was nobody else in the room except tom.,START_ कोठामा टम बाहेक कोही थिएन। _END
+tom is one of the smartest men ive ever met.,START_ टम मैले भेटेको सबैभन्दा चतुर मान्छे मध्ये एक हो। _END
+tom is studying to become a marine biologist.,START_ टम एक समुद्री जीवविज्ञानी बन्न अध्ययन गर्दैछ। _END
+tom is studying to become a marine biologist.,START_ टम समुद्री जीवविज्ञानी बन्नको लागि अध्ययन गर्दैछ। _END
+tom never told me that he was from australia.,START_ टमले मलाई आफू अस्ट्रेलियाबाट आएको कुरा कहिल्यै भनेनन्। _END
+"tom speaks three languages, including french.",START_ टम फ्रान्सेली सहित तीन भाषा बोल्छन्। _END
+"tom speaks three languages, including french.",START_ टम फ्रेन्च सहित तीन भाषा बोल्छ। _END
+tom told me it would be dangerous to do that.,START_ टमले मलाई भने कि यो गर्न खतरनाक हुनेछ। _END
+whats the best way to get in touch with you?,START_ तपाईंसँग सम्पर्कमा रहन उत्तम तरिका के हो? _END
+whats the weather going to be like tomorrow?,START_ भोलिको मौसम कस्तो रहनेछ? _END
+would you ever accept a ride from a stranger?,START_ के तपाइँ कहिल्यै अपरिचित व्यक्तिबाट सवारी स्वीकार गर्नुहुन्छ? _END
+"hes a british citizen, but he lives in india.",START_ उनी बेलायती नागरिक हुन् तर उनी भारतमा बस्छन्। _END
+i didnt know tom was that good at doing that.,START_ मलाई थाहा थिएन कि टम त्यो गर्नमा राम्रो थियो। _END
+i dont think i can do this without your help.,START_ मलाई लाग्दैन कि म तपाईंको सहयोग बिना यो गर्न सक्छु। _END
+i dont think tom will ever speak to me again.,START_ मलाई लाग्दैन कि टमले मसँग फेरि कहिल्यै बोल्नेछ। _END
+i played the violin when i was in high school.,START_ म हाईस्कूलमा हुँदा भायोलिन बजाउथें । _END
+id rather stay at home than go to the movies.,START_ म चलचित्र हेर्न जानु भन्दा घरमै बस्न रुचाउँछु । _END
+"im from australia, but i live in new zealand.","START_ म अष्ट्रेलियाबाट हुँ, तर म न्यूजील्याण्डमा बस्छु। _END"
+my mother is two years younger than my father.,START_ मेरी आमा बुबा भन्दा दुई वर्ष कान्छी हुनुहुन्छ। _END
+my parents died when i was thirteen years old.,START_ म वर्षको हुँदा आमाबुवाको मृत्यु भयो। _END
+my parents died when i was thirteen years old.,START_ म वर्षको हुँदा मेरा आमाबुवाको मृत्यु भयो। _END
+please put this where children cant reach it.,START_ कृपया बच्चाहरूको पहुँचबाट टाढा राख्नुहोस्। _END
+tom always says funny things to make me laugh.,START_ टमले मलाई हँसाउनको लागि सधैं रमाइला कुराहरू भन्छन्। _END
+tom couldnt come with us because he was sick.,START_ टम हामीसँग आउन सकेन किनभने ऊ बिरामी थियो । _END
+tom gave a sleeping bag to me a few weeks ago.,START_ टमले केही हप्ता अघि मलाई सुत्ने झोला दिए। _END
+"tom has borrowed over , dollars from mary.","START_ टमले मेरीबाट , डलरभन्दा बढी ऋण लिएका छन्। _END"
+tom is out playing with the neighborhood boys.,START_ टम छिमेकी केटाहरु संग बाहिर खेल्दै छ। _END
+tom saw a car parked in front of marys house.,START_ टमले मेरीको घर अगाडि एउटा कार पार्क गरेको देखे। _END
+tom says he has never tried eating whale meat.,START_ टम भन्छन् कि उनले कहिल्यै ह्वेलको मासु खाने प्रयास गरेनन्। _END
+have you ever eaten anything that toms cooked?,START_ के तपाईंले कहिल्यै टमले बनाएको खाना खानुभएको छ? _END
+i have a dog. he is black and his name is tiki.,START_ म संग कुकुर छ। ऊ कालो छ र उसको नाम टिकी हो। _END
+i should probably not tell tom that im sleepy.,START_ मैले सायद टमलाई मलाई निद्रा लागेको कुरा भन्नु हुँदैन। _END
+i think that car is a little too small for you.,START_ मलाई लाग्छ कि त्यो कार तपाईका लागि अलिकति सानो छ। _END
+im not the kind of person that you think i am.,START_ म तिमीले सोचेको जस्तो मान्छे होइन। _END
+its nice to see you again after so many years.,START_ धेरै वर्ष पछी फेरी भेट्दा खुशी लाग्यो। _END
+let me teach you a simple way to remember that.,START_ म तपाइँलाई सम्झन को लागी एक सरल तरिका सिकाउँछु। _END
+"no matter how old you get, you can still learn.",START_ तपाईं जति उमेरको भए पनि सिक्न सक्नुहुन्छ। _END
+tom cant see whats written on the blackboard.,START_ टमले ब्ल्याकबोर्डमा के लेखेको छ भनेर देख्न सक्दैन। _END
+tom forgot to put the milk in the refrigerator.,START_ टमले फ्रिजमा दूध राख्न बिर्सियो। _END
+tom has known mary since she was a little girl.,START_ टमले मेरीलाई सानी हुँदादेखि नै चिनेका छन्। _END
+tom said he isnt used to this kind of weather.,START_ टमले भने कि उनलाई यस प्रकारको मौसमको बानी छैन। _END
+toms birthday is exactly one month from today.,START_ टमको जन्मदिन ठ्याक्कै एक महिना टाढा छ। _END
+whats the distance between boston and chicago?,START_ बोस्टन र शिकागोको बीचको दूरी कति छ? _END
+"when i was young, we used to swim in the river.","START_ म सानो छँदा, हामी खोलामा पौडी खेल्थ्यौं । _END"
+how long will it take me to walk to the station?,START_ मलाई हिड्दै स्टेशनसम्म पुग्न कति मिनेट लाग्ला? _END
+i dont have time to answer all those questions.,START_ मसँग ती सबै प्रश्नहरूको जवाफ दिने समय छैन। _END
+i dont think theyve found a cure for that yet.,START_ मलाई लाग्दैन कि उनीहरूले अहिलेसम्म यसको उपचार फेला पारेका छन्। _END
+im glad that tom and mary are both on our team.,START_ म खुसी छु कि टम र मेरी दुबै हाम्रो टोलीमा छन्। _END
+is there anyone here who hasnt yet eaten lunch?,START_ यहाँ कोही हुनुहुन्छ जसले अहिले सम्म खाजा खाएको छैन? _END
+it took nearly three years to build that bridge.,START_ उक्त पुल निर्माणमा करिब तीन वर्ष लागेको थियो। _END
+my mother always gets up earlier in the morning.,START_ मेरी आमा सधैं बिहान सबेरै उठ्नुहुन्छ। _END
+students from the suburbs come to school by bus.,START_ उपनगरका विद्यार्थीहरू बसबाट विद्यालय आउँछन् । _END
+thanks for your suggestion. ill think about it.,START_ तपाईंको सुझावको लागि धन्यवाद। म यसको बारेमा सोच्नेछु। _END
+the car parked in front of toms house was blue.,START_ टमको घर अगाडि पार्क गरिएको कार निलो थियो। _END
+tom claims he can accurately predict the future.,START_ टमले भविष्यको सही भविष्यवाणी गर्न सक्ने दाबी गर्छन्। _END
+tom doesnt often have a chance to speak french.,START_ टमसँग प्राय: फ्रेन्च बोल्ने मौका हुँदैन। _END
+"as long as you remember to do that, youll be ok.","START_ जबसम्म तपाइँ त्यो गर्न सम्झनुहुन्छ, तपाइँ ठीक हुनुहुनेछ। _END"
+"as requested, we are submitting our final report.","START_ अनुरोध गरे अनुसार, हामी हाम्रो अन्तिम प्रतिवेदन पेश गर्दैछौं। _END"
+how old were you when you graduated from college?,START_ तपाईंले कलेजबाट स्नातक गर्दा कति वर्षको हुनुहुन्थ्यो? _END
+"i bought three apples, some eggs and some yogurt.","START_ मैले तीनवटा स्याउ, केही अण्डा र केही दही किनेँ। _END"
+i didnt think that tom understood what you said.,START_ टमले तपाईले भनेको कुरा बुझ्नुभयो जस्तो मलाई लागेन। _END
+im not very likely to find what im looking for.,START_ मैले खोजेको कुरा मैले भेट्टाउन सक्ने धेरै सम्भावना छैन। _END
+my grandmother is convalescing in a nursing home.,START_ मेरी हजुरआमा नर्सिङ होममा निको भइरहनुभएको छ। _END
+the teacher wrote french words on the blackboard.,START_ शिक्षकले ब्ल्याकबोर्डमा फ्रान्सेली शब्दहरू लेखे। _END
+those two shirts are made from the same material.,START_ ती दुई शर्टहरू एउटै सामग्रीबाट बनाइएका हुन्। _END
+tom and mary first met at a restaurant in boston.,START_ टम र मेरी पहिलो पटक बोस्टनको एक रेस्टुरेन्टमा भेटेका थिए। _END
+tom has a hard time believing anything mary says.,START_ टमलाई मेरीले भनेको कुरा पत्याउन गाह्रो हुन्छ। _END
+tom isnt studying french. hes studying english.,START_ टमले फ्रान्सेली भाषा पढिरहेको छैन। ऊ अंग्रेजी पढ्दै छ। _END
+tom started learning french when he was thirteen.,START_ टमले तेह्र वर्षको हुँदा फ्रेन्च सिक्न थाले। _END
+whats your favorite song in last years top ?,START_ गत वर्षका उत्कृष्ट गीतहरूमध्ये तपाईलाई मन पर्ने गीत कुन हो? _END
+i dont think that tom knows how to read or write.,START_ मलाई लाग्दैन कि टमलाई कसरी पढ्ने वा लेख्न भन्ने थाहा छ। _END
+i dont think you have to worry about tom anymore.,START_ मलाई लाग्दैन कि तपाईंले अब टमको बारेमा चिन्ता लिनु पर्छ। _END
+i know that i wont be allowed to do that anymore.,START_ मलाई थाहा छ मलाई अब त्यसो गर्न दिइने छैन। _END
+"im from australia, but now i live in new zealand.","START_ म अष्ट्रेलियाबाट हुँ, तर अहिले म न्यूजील्याण्डमा बस्छु। _END"
+"im very sorry, but theres really no alternative.","START_ म धेरै माफी चाहन्छु, तर त्यहाँ कुनै पनि विकल्प छैन। _END"
+ive already told tom i dont want him to do that.,START_ मैले पहिले नै टमलाई भनिसकेको छु म उसले त्यसो गरून् भन्ने चाहन्न। _END
+"if you continue doing that, youll get in trouble.","START_ यदि तपाईंले त्यसो गरिरहनुभयो भने, तपाईं समस्यामा पर्नुहुनेछ। _END"
+"in the first place, we have to decide on the name.",START_ सबैभन्दा पहिले मैले नाम तय गर्नुपर्छ। _END
+japan began to import rice from the united states.,START_ जापानले अमेरिकाबाट चामल आयात गर्न थाल्यो। _END
+she wants to be a tennis player when she grows up.,START_ उनी ठूली भएपछि टेनिस खेलाडी बन्न चाहन्छिन्। _END
+tom and i almost never speak french to each other.,START_ टम र म प्राय: एकअर्कासँग फ्रेन्च बोल्दैनौं। _END
+you should take an umbrella with you this morning.,START_ बिहान छाता बोकेर जादा राम्रो हुन्छ। _END
+congratulations! youve just won a million dollars!,START_ बधाई छ! तपाईंले भर्खर एक मिलियन डलर जित्नुभएको छ! _END
+he walked so fast that i couldnt keep up with him.,START_ ऊ यति छिटो हिँड्यो कि म ऊसंगै रहन सकिन। _END
+how much money do you spend on clothing every year?,START_ तपाइँ प्रत्येक वर्ष कपडामा कति खर्च गर्नुहुन्छ? _END
+i cant drive anywhere because my cars out of gas.,START_ म कतै ड्राइभ गर्न सक्दिन किनकि मेरो कारको तेल सकिएको छ। _END
+i couldnt sleep well because it was noisy outside.,START_ बाहिर कोलाहल भएकोले म राम्ररी सुत्न सकिन। _END
+i didnt know that tom was that good at doing that.,START_ मलाई थाहा थिएन कि टम त्यो गर्नमा राम्रो थियो। _END
+i dont think these are toms and marys umbrellas.,START_ मलाई लाग्दैन कि यी टम र मेरीका छाताहरु हुन्। _END
+i dont usually say anything at our staff meetings.,START_ म प्रायः हाम्रा कर्मचारी बैठकहरूमा केही बोल्दिनँ। _END
+i have to return this book to the library tomorrow.,START_ मैले यो पुस्तक भोलि पुस्तकालयमा फिर्ता नगरी हुदैन। _END
+i hope ill be able to help you at some other time.,START_ मलाई आशा छ कि म तपाईलाई अर्को पटक मद्दत गर्न सक्छु। _END
+i want you to stay in australia until october th.,START_ म तपाईंलाई अक्टोबर सम्म अस्ट्रेलियामा बस्नु भन्ने चाहन्छु। _END
+im telling you this because im worried about you.,START_ म तिमीलाई यसो भन्दैछु किनकि म तिम्रो बारेमा चिन्तित छु। _END
+its always important to have money in your pocket.,START_ तपाईको खल्तीमा पैसा हुनु सधैं महत्त्वपूर्ण छ। _END
+mount everest is the tallest mountain in the world.,START_ माउन्ट एभरेष्ट विश्वको सबैभन्दा अग्लो हिमाल हो। _END
+the tallest mountain in the world is mount everest.,START_ संसारको सबैभन्दा अग्लो हिमाल माउन्ट एभरेस्ट हो। _END
+there are only two prime numbers between and .,START_ र को बीचमा दुईवटा मात्र रुढ संख्याहरू छन्। _END
+tom and mary are having a little financial trouble.,START_ टम र मेरी अलि आर्थिक समस्यामा छन्। _END
+tom didnt know that yesterday was marys birthday.,START_ टमलाई थाहा थिएन कि हिजो मेरीको जन्मदिन थियो। _END
+tom took a day off from work because he had a cold.,START_ टमले कामबाट एक दिन बिदा लियो किनभने उसलाई चिसो थियो। _END
+whats the name of the store where you bought that?,START_ तपाईले त्यो किन्नु भएको पसलको नाम के हो? _END
+better be the head of a dog than the tail of a lion.,START_ सिंहको पुच्छर भन्दा कुकुरको टाउको हुनु राम्रो। _END
+dont look out the window. concentrate on your work.,START_ झ्याल बाहिर नहेर्नुहोस्। आफ्नो काममा ध्यान दिनुहोस्। _END
+i didnt spend as much time studying as i shouldve.,"START_ पढाइमा जति समय दिनुपर्थ्यो, त्यति खर्च गर्न सकिनँ । _END"
+i doubt very seriously that tom did that on purpose.,START_ टमले त्यो जानाजानी गरेको हो भन्नेमा मलाई धेरै गम्भीर शंका छ। _END
+i know tom doesnt know ive never done that before.,START_ मलाई थाहा छ कि टमलाई थाहा छैन मैले यो पहिले कहिल्यै गरेको छैन। _END
+this morning was much cooler than yesterday morning.,START_ हिजो बिहानको तुलनामा आज बिहान निकै चिसो थियो। _END
+this morning was much cooler than yesterday morning.,START_ हिजो बिहान हेरी आज बिहान निकै चिसो थियो। _END
+tom called his dad to wish him a happy fathers day.,START_ टमले आफ्नो बुबालाई बुबाको दिनको शुभकामना दिन फोन गरे। _END
+what are some of the health benefits of eating fish?,START_ माछा खाँदा स्वास्थ्यमा हुने केही फाइदाहरु के के हुन ? _END
+where did you take the children yesterday afternoon?,START_ हिजो दिउँसो केटाकेटीलाई कहाँ लैजानुभयो ? _END
+"todays my birthday. its my birthday today, too.",START_ आज मेरो जन्मदिन हो। मेरो जन्मदिन पनि आज नै हो। _END
+i want to make it clear that i dont want to do that.,START_ म त्यसो गर्न चाहन्न भनेर स्पष्ट पार्न चाहन्छु। _END
+sharkskin can be used like the skin of other animals.,START_ सार्कस्किन अन्य जनावरहरूको छाला जस्तै प्रयोग गर्न सकिन्छ। _END
+the train wasnt as crowded as i thought it would be.,START_ रेलमा मैले सोचे जस्तो भीड थिएन। _END
+theres nothing i like as much as the smell of roses.,START_ मलाई गुलाबको सुगन्ध भन्दा बढी मनपर्ने केहि छैन। _END
+tom knows a lot more about that than you might think.,START_ टमलाई तपाईंले सोचेभन्दा धेरै कुरा थाहा छ। _END
+tom told mary not to waste her money on such a thing.,START_ टमले मेरीलाई यस्तो कुरामा आफ्नो पैसा खेर नफाल्नु भन्यो । _END
+tom was holding a small flashlight in his right hand.,START_ टमले आफ्नो दाहिने हातमा सानो फ्ल्यासलाइट समातिरहेको थियो। _END
+"you know that that isnt likely to happen, dont you?","START_ तपाईलाई थाहा छ कि त्यो हुने सम्भावना छैन, हैन? _END"
+i havent decided yet whether i will attend the party.,START_ पार्टीमा जाने कि नजाने भन्ने मैले अहिलेसम्म निर्णय गरेको छैन। _END
+i heard something interesting from a friend yesterday.,START_ मैले हिजो साथीबाट एउटा रोचक कथा सुनें। _END
+i think that everyone should study a foreign language.,START_ मलाई लाग्छ कि सबैले विदेशी भाषा पढ्नुपर्छ। _END
+"if you want to, you can eat the rest of the cake, too.","START_ यदि तपाइँ चाहनुहुन्छ भने, तपाइँ बाँकी केक पनि खान सक्नुहुन्छ। _END"
+this is a list of products that we dont make anymore.,START_ यो उत्पादनहरूको सूची हो जुन हामीले अब बनाउँदैनौं। _END
+tom gave his three-year-old son a puppy for christmas.,START_ टमले आफ्नो वर्षीय छोरालाई क्रिसमसको लागि कुकुरको बच्चा दिए। _END
+a number of japanese people travel abroad every summer.,"START_ प्रत्येक बर्षको गर्मीमा, धेरै जापानीहरू विदेश भ्रमण गर्छन्। _END"
+dont ever challenge someone whos got nothing to lose.,START_ कसैलाई कहिल्यै चुनौती नदिनुहोस् जससँग गुमाउन केहि छैन। _END
+has anyone ever told you what really happened that day?,START_ के त्यो दिन साँच्चै के भयो भनेर कसैले तपाईलाई बताएको छ? _END
+"i want to buy a new laptop, but i dont have the money.","START_ म नयाँ ल्यापटप किन्न चाहन्छु, तर मसँग पैसा छैन। _END"
+tom and i are planning on going to australia next fall.,START_ टम र म अर्को शरद ऋतुमा अष्ट्रेलिया जाने योजनामा ​​छौं। _END
+tom called his father to wish him a happy fathers day.,START_ टमले आफ्नो बुबालाई बुबाको दिनको शुभकामना दिन फोन गरे। _END
+tom never knew that mary lived on the bad side of town.,START_ टमलाई कहिल्यै थाहा थिएन कि मेरी सहरको खराब ठाउँ तिर बस्छिन्। _END
+what language do you usually use when talking with tom?,START_ तपाइँ सामान्यतया टमसँग कुन भाषामा बोल्नुहुन्छ? _END
+i hope that ill be able to help you at some other time.,START_ मलाई आशा छ कि म तपाईलाई अर्को पटक मद्दत गर्न सक्छु। _END
+i promised tom that i wouldnt go to boston without him.,START_ मैले टमलाई वाचा गरें कि म उबिना बोस्टन जाने छैन। _END
+i think i like eating white rice better than brown rice.,START_ मलाई खैरो चामल भन्दा सेतो चामल खान राम्रो लाग्छ। _END
+thats delicious. where did you learn to cook like that?,START_ त्यो स्वादिष्ट छ। यस्तो खाना पकाउन कहाँ सिकेको ? _END
+tom and his friends love to get together and play music.,START_ टम र उनका साथीहरू सँगै बस्न र संगीत बजाउन मन पराउँछन्। _END
+tom likes boston better than any other place hes lived.,START_ टमले आफू बसेको ठाउँहरु मध्ये बोस्टनलाई धेरै मन पराउँछन्। _END
+tom seemed more concerned about the situation than mary.,START_ टम मेरी भन्दा अवस्थाको बारेमा बढी चिन्तित देखिन्थे। _END
+has anyone ever told you youve got serious trust issues?,START_ के कसैले तपाईंलाई कहिल्यै भन्यो कि तपाईंसँग गम्भीर विश्वास मुद्दाहरू छन्? _END
+i knew that tom wouldnt be able to find a job in boston.,START_ मलाई थाहा थियो कि टमले बोस्टनमा जागिर पाउन सक्नेछैनन्। _END
+tom had forgotten his umbrella so i lent him one of mine.,START_ टमले आफ्नो छाता बिर्सेको थियो त्यसैले मैले उसलाई मेरो एउटा दिएँ। _END
+tom should probably not tell mary what she wants to know.,START_ टमले सायद मेरीलाई उनी के जान्न चाहन्छन् भनेर बताउन हुँदैन। _END
+tom told everybody he and mary were going to get married.,START_ टमले सबैलाई बताए कि उनी र मेरी विवाह गर्न जाँदैछन्। _END
+who do you think was watching tv in this room last night?,START_ हिजो राती यो कोठामा कसले टिभी हेरिरहेको थियो जस्तो लाग्छ? _END
+i have to tell her that the phone rang while she was gone.,START_ मैले उसलाई भन्नु पर्छ कि उनी गएको बेला फोनको घण्टी बज्यो। _END
+i hope that i will be able to help you at some other time.,START_ मलाई आशा छ कि म तपाईलाई अर्को पटक मद्दत गर्न सक्छु। _END
+the last time we saw each other was about three years ago.,START_ हामीले एकअर्कालाई अन्तिम पटक देखेका थियौं लगभग तीन वर्षअघि। _END
+"tom has gone to get a haircut, but he should be back soon.","START_ टम कपाल काट्न गएको छ, तर ऊ चाँडै फर्कनु पर्छ। _END"
+tom might not have enough money to buy everything he wants.,START_ टमसँग आफूले चाहेको सबै कुरा किन्न पर्याप्त पैसा नहुन सक्छ। _END
+tom said he read a lot of interesting books over the summer.,START_ टमले गर्मीमा धेरै रोचक किताबहरू पढेको बताए। _END
+tom seemed more concerned about the situation than mary did.,START_ टम मेरी भन्दा अवस्थाको बारेमा बढी चिन्तित देखिन्थे। _END
+tom told everyone that he and mary were going to get married.,START_ टमले सबैलाई बताए कि उनी र मेरी विवाह गर्न जाँदैछन्। _END
+"after winning the nobel prize, she remained as modest as ever.",START_ नोबेल पुरस्कार जितेपछि उनी सधैँजस्तै नम्र भइन्। _END
+are you still driving that car that your grandfather gave you?,START_ हजुरबुवाले दिनुभएको गाडी तपाईं अझै चलाउँदै हुनुहुन्छ? _END
+has anyone ever told you that youve got serious trust issues?,START_ के कसैले तपाईंलाई कहिल्यै भन्यो कि तपाईंसँग गम्भीर विश्वास समस्याहरू छन् भनेर? _END
+"he did a lot for his people, but he could have done much more.","START_ उहाँले आफ्ना जनताको लागि धेरै गर्नुभयो, तर उहाँले अझ धेरै गर्न सक्नुहुन्थ्यो। _END"
+"if its possible, id like to exchange this for a larger size.","START_ यदि यो सम्भव छ भने, म यसलाई ठूलो आकारको लागि साट्न चाहन्छु। _END"
+"when i see someone eating hayashi rice, i want to eat it, too.","START_ जब म कसैले हयासी भात खाएको देख्छु, मलाई पनि खान मन लाग्छ। _END"
+did you know that both tom and mary have houses on park street?,START_ के तपाईंलाई थाहा छ कि टम र मेरी दुबैको पार्क स्ट्रीटमा घरहरू छन्? _END
+tom asked mary to find out what papers needed to be filled out.,START_ टमले मेरीलाई कुन कागजातहरू भर्न आवश्यक छ भनेर पत्ता लगाउन सोधे। _END
+"youre friends with tom, arent you? yeah. whats he like?","START_ तिमी टमसँग साथी हौ, हैन? ओह। टम कस्तो मान्छे हो? _END"
+the express train does not stop between shibuya and naka-meguro.,START_ एक्सप्रेस ट्रेन शिबुया र नाका-मेगुरोको बीचमा रोक्दैन। _END
+im from australia. where are you from? im from new zealand.,START_ म अस्ट्रेलियाबाट हुँ। तिमी कहाँबाट हौ? म न्युजिल्याण्डबाट हुँ। _END
+im from australia. where are you from? im from new zealand.,START_ म अस्ट्रेलियाबाट हुँ। तिमी कहाँबाट हौ? म न्युजिल्यान्डबाट आएको हुँ। _END
+im from australia. where are you from? im from new zealand.,START_ म अस्ट्रेलियाबाट आएको हुँ। तपाईं कहाँबाट हुनुहुन्छ? म न्युजिल्यान्डबाट आएको हुँ। _END
+im from australia. where are you from? im from new zealand.,START_ म अस्ट्रेलियाबाट आएको हुँ। तपाईं कहाँबाट हुनुहुन्छ? म न्युजिल्याण्डबाट हुँ। _END
+im old enough to remember what life was like before the internet.,START_ इन्टरनेट भन्दा पहिलेको जीवन कस्तो थियो भन्ने कुरा सम्झन म पर्याप्त उमेरको छु। _END
+do you have any idea how much money you spent on clothes last year?,START_ तपाईंले गत वर्ष कपडामा कति पैसा खर्च गर्नुभयो भन्ने कुरा थाहा छ? _END
+do you plan to do anything special with your father on fathers day?,START_ के तपाइँ बुबाको दिनमा बुबासँग केहि विशेष गर्ने योजनामा हुनुहुन्छ? _END
+tom knew that he wasnt likely be able to convince mary to help him.,START_ टमलाई थाहा थियो कि उसले मेरीलाई मद्दत गर्न मनाउन सक्दैन। _END
+"the netherlands is famous for its windmills, tulips, wooden clogs and canals.","START_ नेदरल्याण्ड्स यसको पवनचक्की, घन्टी फूल, काठको चप्पल र नहरहरूको लागि प्रसिद्ध छ। _END"
+tom is wondering if any of his kids will remember that today is fathers day.,START_ आज बुबाको दिन हो भनेर आफ्ना बच्चाहरू मध्ये कुनैले याद गर्नेछन् कि भनेर टम सोचिरहेका छन्। _END
+the relationship between the two countries has waxed and waned over the years.,START_ दुई देशबीचको सम्बन्ध विगतका वर्षहरूमा चिसो र खस्किएको छ। _END
+the train was derailed and about thirty passengers were either killed or injured.,START_ रेल पटरीबाट खस्यो र करिब तीस यात्रु या त मारिए वा घाइते भए। _END
+tom told mary that he thought a hippopotamus could run at a speed of about kilometers per hour.,START_ टमले मेरीलाई भन्यो कि उसले सोचेको थियो कि हिप्पोपोटामस लगभग किलोमिटर प्रति घण्टाको गतिमा दौडन सक्छ। _END
+"i dont remember how old i was when i first heard that song, but i think it was when i was a teenager.","START_ मैले त्यो गीत पहिलो पटक सुन्दा म कति वर्षको थिएँ मलाई याद छैन, तर मलाई लाग्छ कि म किशोरावस्थामा थिएँ। _END"
+"i dont remember how many bottle of wine we drank, but i do remember waking up with a terrible headache.","START_ हामीले कति बोतल वाइन पियौं मलाई याद छैन, तर मलाई उठ्दा अस्याददै टाउको दुखेको याद छ। _END"
+the difference between the right word and almost the right word is the difference between lightning and the lightning bug.,START_ सही शब्द र लगभग सही शब्द बीचको भिन्नता बत्ति र जुनकिरी बीचको भिन्नता हो। _END
+"when tom was walking down the street at night, a man he didnt know threatened him with a knife and robbed him of his cash.",START_ टमलाई राति सडकमा एक अपरिचित व्यक्तिले चक्कु देखाई ज्यानको धम्की दिएर उसको पैसा लुट्यो। _END
