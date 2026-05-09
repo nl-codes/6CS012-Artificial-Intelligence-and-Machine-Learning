@@ -1,0 +1,3 @@
+Data consists of 20k reviews extracted from  TripAdvisor. 
+
+Target variable is rating (1-5). Divide the data into train - Val - test sets and predict the rating in test set.
