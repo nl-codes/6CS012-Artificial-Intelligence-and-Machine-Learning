@@ -1,5 +1,6 @@
 # Models files
 *.h5
+*.keras
 
 */*.zip
 trum_tweet_sentiment_analysis.csv
