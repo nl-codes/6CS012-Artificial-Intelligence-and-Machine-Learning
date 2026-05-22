@@ -1,3 +1,7 @@
+# Submission folder (only keep zip, nested files are redundant)
+2408869_NARAYAN_LOHANI/
+
+
 # Models files
 *.h5
 *.keras
